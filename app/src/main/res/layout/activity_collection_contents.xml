@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/contentsRoot" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@drawable/bg_home_waves">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/contentsToolbar"
+            android:layout_width="match_parent" android:layout_height="?attr/actionBarSize"
+            app:titleTextColor="@color/home_title_color"
+            android:background="@color/home_toolbar_background" />
+        <EditText android:id="@+id/contentsSearch" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp" android:hint="@string/catalog_search_hint"
+            android:singleLine="true" android:inputType="text" android:visibility="gone" />
+        <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <ListView android:id="@+id/listContents" android:layout_width="match_parent"
+                android:layout_height="match_parent" android:paddingStart="16dp" android:paddingEnd="16dp"
+                android:paddingBottom="88dp" android:clipToPadding="false"
+                android:divider="@android:color/transparent" android:dividerHeight="10dp" />
+            <TextView android:id="@+id/textContentsEmpty" android:layout_width="match_parent"
+                android:layout_height="match_parent" android:gravity="center" android:padding="24dp"
+                android:text="@string/empty_folder" android:textColor="?android:attr/textColorSecondary" />
+        </FrameLayout>
+    </LinearLayout>
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/fabNewFolder" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end" android:layout_margin="16dp" android:text="@string/add_card"
+        app:icon="@drawable/ic_add_24" app:backgroundTint="@color/button_primary_fill"
+        app:iconTint="@color/button_primary_text" android:textColor="@color/button_primary_text" />
+</FrameLayout>

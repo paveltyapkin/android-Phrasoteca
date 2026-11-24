@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Fast action remains visible on toolbar -->
+    <item android:id="@+id/menuQuickAddCard"
+          android:title="@string/add_card"
+          android:icon="@drawable/ic_add_24"
+          app:showAsAction="always" />
+    <item android:id="@+id/menuStartShowQueue"
+          android:title="@string/show_queue_start"
+          android:icon="@drawable/ic_queue_play_24"
+          android:visible="false" app:showAsAction="ifRoom" />
+    <item android:id="@+id/menuClearShowQueue"
+          android:title="@string/show_queue_clear"
+          android:icon="@drawable/ic_queue_clear_24"
+          android:visible="false" app:showAsAction="ifRoom" />
+    <!-- Same action is also available from overflow menu -->
+    <item android:id="@+id/menuAddCard"
+          android:title="@string/add_card"
+          app:showAsAction="never" />
+    <item android:id="@+id/menuFillVariables" android:title="@string/variables_fill" app:showAsAction="never" />
+    <item android:id="@+id/menuEditCard" android:title="@string/edit_card" app:showAsAction="never" />
+    <item android:id="@+id/menuCloneCard" android:title="@string/clone_card" app:showAsAction="never" />
+    <item android:id="@+id/menuCopyCard" android:title="@string/copy_card_text" app:showAsAction="never" />
+    <item android:id="@+id/menuFavoritesOnly"
+          android:title="@string/favorites_only"
+          android:checkable="true"
+          app:showAsAction="never" />
+    <item android:id="@+id/menuSearchInCollection" android:title="@string/search_in_collection" app:showAsAction="never" />
+    <item android:id="@+id/menuDeleteCard" android:title="@string/delete_card" app:showAsAction="never" />
+    <item android:id="@+id/menuOrderCard" android:title="@string/order_card" app:showAsAction="never" />
+    <item android:id="@+id/menuCollectionSettings" android:title="@string/collection_settings" app:showAsAction="never" />
+    <item android:id="@+id/menuShareCardQr" android:title="@string/qr_share_title" app:showAsAction="never" />
+    <item android:id="@+id/menuImportCardQr" android:title="@string/qr_import_title" app:showAsAction="never" />
+    <!-- Checkbox in the overflow menu; landscape always uses swipes. -->
+    <item android:id="@+id/menuSwipeNavigation"
+          android:title="@string/swipe_navigation"
+          android:checkable="true"
+          app:showAsAction="never" />
+    <!-- Applies to the on-card Show button only; checked means Landscape. -->
+    <item android:id="@+id/menuShowCardLandscape"
+          android:title="@string/show_card_landscape_setting"
+          android:checkable="true"
+          app:showAsAction="never" />
+    <item android:id="@+id/menuOrientation" android:title="@string/landscape" app:showAsAction="never" />
+</menu>

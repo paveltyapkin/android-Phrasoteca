@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/homeRoot"
+    android:background="@drawable/bg_home_waves"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/homeToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:title="@string/app_name"
+            app:titleTextColor="@color/home_title_color"
+            android:background="@color/home_toolbar_background"
+            app:menu="@menu/home_menu" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="4dp"
+            android:text="@string/home_subtitle"
+            android:textSize="14sp"
+            android:textColor="?android:attr/textColorSecondary" />
+
+
+        <!-- Virtual Favorites entry; shown only when a non-vault favorite exists. -->
+        <!-- Virtual Favorites remains outside ListView; visibility is set by
+             HomeActivity only when eligible favorite cards exist. -->
+        <LinearLayout
+            android:id="@+id/favoritesTile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/bg_home_tile_favorites"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:minHeight="76dp"
+            android:orientation="horizontal"
+            android:paddingStart="14dp"
+            android:paddingEnd="14dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:background="@drawable/bg_home_tile_icon"
+                android:gravity="center"
+                android:text="★"
+                android:textColor="@color/home_tile_icon_tint"
+                android:textSize="26sp"
+                android:importantForAccessibility="no" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginStart="12dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/favorites_collection_title"
+                    android:textColor="@color/home_tile_title"
+                    android:textStyle="bold"
+                    android:textSize="17sp" />
+                <TextView
+                    android:id="@+id/favoritesTileSubtitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:textColor="@color/home_tile_subtitle"
+                    android:textSize="13sp" />
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="›"
+                android:textColor="@color/home_tile_subtitle"
+                android:textSize="28sp"
+                android:importantForAccessibility="no" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="12dp">
+
+            <ListView
+                android:id="@+id/listCollections"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:paddingBottom="88dp"
+                android:clipToPadding="false"
+                android:divider="@android:color/transparent"
+                android:dividerHeight="10dp" />
+
+            <TextView
+                android:id="@+id/textEmpty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:padding="24dp"
+                android:text="@string/home_empty"
+                android:textSize="16sp"
+                android:textColor="?android:attr/textColorSecondary" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/buttonNewCollection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        android:text="@string/new_collection"
+        android:contentDescription="@string/new_collection"
+        app:icon="@drawable/ic_add_24"
+        app:backgroundTint="@color/button_primary_fill"
+        app:iconTint="@color/button_primary_text"
+        android:textColor="@color/button_primary_text" />
+</FrameLayout>

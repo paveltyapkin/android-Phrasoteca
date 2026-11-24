@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_primary_fill">#536D86</color>
+    <color name="button_primary_text">#FFFFFFFF</color>
+    <color name="button_secondary_fill">#E6EDF2</color>
+    <color name="button_secondary_text">#314A61</color>
+    <color name="button_icon_fill">#E6EDF2</color>
+    <color name="button_icon_tint">#314A61</color>
+    <color name="button_ripple">#33536D86</color>
+    <color name="home_background">#F6F8FC</color>
+    <color name="home_title_color">#243653</color>
+    <color name="home_toolbar_background">#F6F8FC</color>
+    <color name="home_tile_title">#243247</color>
+    <color name="home_tile_subtitle">#65748B</color>
+    <color name="home_tile_icon_fill">#FFFFFF</color>
+    <color name="home_tile_icon_tint">#AA741B</color>
+    <color name="home_tile_general">#F0EAFF</color>
+    <color name="home_tile_language">#E4EEFF</color>
+    <color name="home_tile_checklist">#E4F4EC</color>
+    <color name="home_tile_vault">#E9EDF4</color>
+    <color name="home_tile_favorites">#FFF2D9</color>
+    <color name="home_tile_ripple">#33658CC7</color>
+    <color name="home_gradient_bottom">#DBEAF9</color>
+    <color name="home_landscape_back">#DDE9F7</color>
+    <color name="home_landscape_mid">#C5DAEF</color>
+    <color name="home_landscape_front">#AFCBE5</color>
+    <color name="dialog_surface">#FFFFFF</color>
+    <color name="dialog_stroke">#DCE5F0</color>
+    <color name="dialog_text_primary">#243247</color>
+    <color name="dialog_text_secondary">#65748B</color>
+    <color name="dialog_action">#326BDA</color>
+    <!-- MainActivity action controls: consistent on any user-selected card color. -->
+    <color name="card_action_fill">#F7FAFF</color>
+    <color name="card_action_stroke">#BFCFE3</color>
+    <color name="card_action_icon">#294666</color>
+    <color name="card_action_favorite">#B17816</color>
+    <color name="card_action_ripple">#445B88C3</color>
+    <!-- Neutral, low-contrast presentation backdrop. -->
+    <color name="presentation_stage_top">#F5F8FF</color>
+    <color name="presentation_stage_bottom">#DCE7F5</color>
+    <!-- Achievements screen palette -->
+    <color name="achievement_summary_surface">#E4EEFF</color>
+    <color name="achievement_card_unlocked">#E4F4EC</color>
+    <color name="achievement_card_locked">#F0EAFF</color>
+    <color name="achievement_card_border">#D8E1EC</color>
+    <color name="achievement_progress">#326BDA</color>
+    <color name="achievement_progress_track">#CDD9E7</color>
+    <color name="achievement_success">#267453</color>
+    <!-- Idiom challenge surfaces -->
+    <color name="idiom_progress_surface">#E4EEFF</color>
+    <color name="idiom_question_surface">#F0EAFF</color>
+    <color name="idiom_answer_surface">#E7F2FE</color>
+    <color name="idiom_surface_stroke">#CAD7EA</color>
+</resources>

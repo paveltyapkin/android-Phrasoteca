@@ -1,0 +1,500 @@
+{
+  "format": "phrasoteca-phrase-library",
+  "version": 1,
+  "setId": "everyday-phrases-preview",
+  "title": "Everyday offline phrases — preview",
+  "description": "Expandable multilingual preview catalogue with test phrases and requested accommodation, shopping and currency phrases.",
+  "defaultLocales": [
+    "ru-RU",
+    "en-US",
+    "es-CL",
+    "pt-BR",
+    "vi-VN"
+  ],
+  "phrases": [
+    {
+      "id": "basic_001",
+      "category": "general",
+      "translations": {
+        "ru": "Здравствуйте! Я живу в квартире 509.",
+        "en": "Hello! I live in apartment 509.",
+        "es": "¡Hola! Vivo en el departamento 509.",
+        "pt": "Olá! Moro no apartamento 509.",
+        "vi": "Xin chào! Tôi sống ở căn hộ số 509."
+      }
+    },
+    {
+      "id": "basic_002",
+      "category": "metro",
+      "translations": {
+        "ru": "Где находится ближайшая станция метро?",
+        "en": "Where is the nearest metro station?",
+        "es": "¿Dónde está la estación de metro más cercana?",
+        "pt": "Onde fica a estação de metrô mais próxima?",
+        "vi": "Ga tàu điện ngầm gần nhất ở đâu?"
+      },
+      "regionalOverrides": {
+        "pt-PT": "Onde fica a estação de metro mais próxima?"
+      }
+    },
+    {
+      "id": "basic_003",
+      "category": "market",
+      "translations": {
+        "ru": "Сколько это стоит?",
+        "en": "How much does this cost?",
+        "es": "¿Cuánto cuesta?",
+        "pt": "Quanto custa?",
+        "vi": "Cái này giá bao nhiêu?"
+      }
+    },
+    {
+      "id": "basic_004",
+      "category": "shop",
+      "translations": {
+        "ru": "Можно оплатить банковской картой?",
+        "en": "Can I pay by card?",
+        "es": "¿Puedo pagar con tarjeta?",
+        "pt": "Posso pagar com cartão?",
+        "vi": "Tôi có thể thanh toán bằng thẻ được không?"
+      }
+    },
+    {
+      "id": "basic_005",
+      "category": "general",
+      "translations": {
+        "ru": "Извините, я пока плохо говорю по-испански.",
+        "en": "Excuse me, I don't speak Spanish very well yet.",
+        "es": "Disculpe, todavía no hablo muy bien español.",
+        "pt": "Desculpe, ainda não falo espanhol muito bem.",
+        "vi": "Xin lỗi, tôi vẫn chưa nói tiếng Tây Ban Nha giỏi lắm."
+      },
+      "notes": "This source phrase specifically refers to Spanish; later phrase libraries can parameterize the target-language name."
+    },
+    {
+      "id": "basic_006",
+      "category": "general",
+      "translations": {
+        "ru": "Спасибо за помощь!",
+        "en": "Thank you for your help!",
+        "es": "¡Gracias por su ayuda!",
+        "pt": "Obrigado pela ajuda!",
+        "vi": "Cảm ơn bạn đã giúp đỡ!"
+      },
+      "notes": "Portuguese 'obrigado/obrigada' depends on the speaker; default is the masculine form."
+    },
+    {
+      "id": "basic_007",
+      "category": "street",
+      "translations": {
+        "ru": "Извините, где здесь туалет?",
+        "en": "Excuse me, where is the restroom?",
+        "es": "Disculpe, ¿dónde está el baño?",
+        "pt": "Com licença, onde fica o banheiro?",
+        "vi": "Xin lỗi, nhà vệ sinh ở đâu?"
+      },
+      "regionalOverrides": {
+        "en-GB": "Excuse me, where is the toilet?",
+        "pt-PT": "Com licença, onde fica a casa de banho?"
+      }
+    },
+    {
+      "id": "basic_008",
+      "category": "metro",
+      "translations": {
+        "ru": "Мне нужен билет до центра города.",
+        "en": "I need a ticket to the city center.",
+        "es": "Necesito un billete al centro de la ciudad.",
+        "pt": "Preciso de uma passagem para o centro da cidade.",
+        "vi": "Tôi cần một vé đến trung tâm thành phố."
+      },
+      "regionalOverrides": {
+        "en-GB": "I need a ticket to the city centre.",
+        "es-CL": "Necesito un pasaje al centro de la ciudad.",
+        "es-MX": "Necesito un boleto al centro de la ciudad.",
+        "pt-PT": "Preciso de um bilhete para o centro da cidade."
+      }
+    },
+    {
+      "id": "basic_009",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно меню, пожалуйста?",
+        "en": "Could I have the menu, please?",
+        "es": "¿Me trae el menú, por favor?",
+        "pt": "Pode me trazer o cardápio, por favor?",
+        "vi": "Cho tôi xin thực đơn được không?"
+      },
+      "regionalOverrides": {
+        "pt-PT": "Pode trazer-me a ementa, por favor?"
+      }
+    },
+    {
+      "id": "basic_010",
+      "category": "general",
+      "translations": {
+        "ru": "Я не понимаю. Повторите, пожалуйста.",
+        "en": "I don't understand. Could you repeat that, please?",
+        "es": "No entiendo. ¿Puede repetirlo, por favor?",
+        "pt": "Não entendo. Pode repetir, por favor?",
+        "vi": "Tôi không hiểu. Bạn có thể nhắc lại được không?"
+      }
+    },
+    {
+      "id": "shopping_cash",
+      "category": "shop",
+      "translations": {
+        "ru": "Можно оплатить наличными?",
+        "en": "Can I pay in cash?",
+        "es": "¿Puedo pagar en efectivo?",
+        "pt": "Posso pagar em dinheiro?",
+        "vi": "Tôi có thể trả bằng tiền mặt không?"
+      }
+    },
+    {
+      "id": "general_dont_understand",
+      "category": "general",
+      "translations": {
+        "ru": "Извините, я не понимаю.",
+        "en": "Excuse me, I don't understand.",
+        "es": "Disculpe, no entiendo.",
+        "pt": "Desculpe, não entendo.",
+        "vi": "Xin lỗi, tôi không hiểu."
+      }
+    },
+    {
+      "id": "general_translator",
+      "category": "general",
+      "translations": {
+        "ru": "К сожалению, я не понимаю. Давайте я открою переводчик, чтобы мы могли общаться через него.",
+        "en": "I'm sorry, I don't understand. Let me open a translation app so we can communicate.",
+        "es": "Lo siento, no entiendo. Voy a abrir el traductor para que podamos comunicarnos.",
+        "pt": "Desculpe, não entendo. Vou abrir um aplicativo de tradução para a gente poder conversar.",
+        "vi": "Xin lỗi, tôi không hiểu. Để tôi mở ứng dụng dịch để chúng ta có thể trao đổi với nhau."
+      }
+    },
+    {
+      "id": "general_speak_slowly",
+      "category": "general",
+      "translations": {
+        "ru": "Пожалуйста, говорите медленнее.",
+        "en": "Could you speak more slowly, please?",
+        "es": "¿Puede hablar más despacio, por favor?",
+        "pt": "Pode falar mais devagar, por favor?",
+        "vi": "Bạn có thể nói chậm hơn được không?"
+      }
+    },
+    {
+      "id": "general_repeat",
+      "category": "general",
+      "translations": {
+        "ru": "Не могли бы вы повторить?",
+        "en": "Could you repeat that, please?",
+        "es": "¿Puede repetirlo, por favor?",
+        "pt": "Pode repetir, por favor?",
+        "vi": "Bạn có thể nhắc lại được không?"
+      }
+    },
+    {
+      "id": "general_english",
+      "category": "general",
+      "translations": {
+        "ru": "Вы говорите по-английски?",
+        "en": "Do you speak English?",
+        "es": "¿Habla inglés?",
+        "pt": "Você fala inglês?",
+        "vi": "Bạn có nói tiếng Anh không?"
+      }
+    },
+    {
+      "id": "general_write",
+      "category": "general",
+      "translations": {
+        "ru": "Пожалуйста, напишите это.",
+        "en": "Could you write that down, please?",
+        "es": "¿Puede escribirlo, por favor?",
+        "pt": "Pode escrever isso, por favor?",
+        "vi": "Bạn có thể viết ra được không?"
+      }
+    },
+    {
+      "id": "general_patience",
+      "category": "general",
+      "translations": {
+        "ru": "Спасибо за ваше терпение.",
+        "en": "Thank you for your patience.",
+        "es": "Gracias por su paciencia.",
+        "pt": "Obrigado pela paciência.",
+        "vi": "Cảm ơn bạn đã kiên nhẫn."
+      }
+    },
+    {
+      "id": "general_little",
+      "category": "general",
+      "translations": {
+        "ru": "Я немного говорю на вашем языке.",
+        "en": "I speak a little of your language.",
+        "es": "Hablo un poco de su idioma.",
+        "pt": "Eu falo um pouco da sua língua.",
+        "vi": "Tôi nói được một chút tiếng của bạn."
+      }
+    },
+    {
+      "id": "accommodation_gym",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Доступен ли тренажёрный зал в здании?",
+        "en": "Is there a gym available in the building?",
+        "es": "¿Hay gimnasio en el edificio?",
+        "pt": "O prédio tem academia?",
+        "vi": "Tòa nhà có phòng tập thể dục không?"
+      }
+    },
+    {
+      "id": "accommodation_laundry",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Есть ли в здании прачечная?",
+        "en": "Is there a laundry room in the building?",
+        "es": "¿Hay lavandería en el edificio?",
+        "pt": "Tem lavanderia no prédio?",
+        "vi": "Tòa nhà có phòng giặt đồ không?"
+      }
+    },
+    {
+      "id": "accommodation_gym_included",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Тренажёрный зал включён в стоимость проживания?",
+        "en": "Is access to the gym included in the price?",
+        "es": "¿El uso del gimnasio está incluido en el precio del alojamiento?",
+        "pt": "O uso da academia está incluído no preço da hospedagem?",
+        "vi": "Giá lưu trú đã bao gồm phí sử dụng phòng tập chưa?"
+      }
+    },
+    {
+      "id": "accommodation_laundry_how",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Как пользоваться прачечной?",
+        "en": "How do I use the laundry room?",
+        "es": "¿Cómo se usa la lavandería?",
+        "pt": "Como funciona a lavanderia?",
+        "vi": "Tôi sử dụng phòng giặt đồ như thế nào?"
+      }
+    },
+    {
+      "id": "accommodation_internet",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В квартире не работает интернет.",
+        "en": "The internet in the apartment isn't working.",
+        "es": "No funciona internet en el departamento.",
+        "pt": "A internet do apartamento não está funcionando.",
+        "vi": "Internet trong căn hộ không hoạt động."
+      },
+      "regionalOverrides": {
+        "es-ES": "No funciona internet en el apartamento."
+      }
+    },
+    {
+      "id": "accommodation_access",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Как получить доступ в здание?",
+        "en": "How can I get into the building?",
+        "es": "¿Cómo puedo entrar al edificio?",
+        "pt": "Como faço para entrar no prédio?",
+        "vi": "Làm thế nào để vào tòa nhà?"
+      }
+    },
+    {
+      "id": "accommodation_fees",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Есть ли дополнительные платежи?",
+        "en": "Are there any additional fees?",
+        "es": "¿Hay cargos adicionales?",
+        "pt": "Há alguma taxa adicional?",
+        "vi": "Có khoản phí bổ sung nào không?"
+      }
+    },
+    {
+      "id": "accommodation_extend",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно ли продлить проживание?",
+        "en": "Can I extend my stay?",
+        "es": "¿Puedo extender mi estadía?",
+        "pt": "Posso prolongar minha estadia?",
+        "vi": "Tôi có thể gia hạn thời gian lưu trú không?"
+      }
+    },
+    {
+      "id": "accommodation_trash",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Где выбрасывать мусор?",
+        "en": "Where should I take out the trash?",
+        "es": "¿Dónde puedo botar la basura?",
+        "pt": "Onde posso jogar o lixo?",
+        "vi": "Tôi có thể đổ rác ở đâu?"
+      }
+    },
+    {
+      "id": "shop_try_on",
+      "category": "shop",
+      "translations": {
+        "ru": "Я бы хотел это примерить.",
+        "en": "I'd like to try this on.",
+        "es": "Me gustaría probármelo.",
+        "pt": "Gostaria de experimentar isto.",
+        "vi": "Tôi muốn thử món này."
+      }
+    },
+    {
+      "id": "shop_may_try",
+      "category": "shop",
+      "translations": {
+        "ru": "Можно это примерить?",
+        "en": "May I try this on?",
+        "es": "¿Puedo probármelo?",
+        "pt": "Posso experimentar isto?",
+        "vi": "Tôi có thể thử món này không?"
+      }
+    },
+    {
+      "id": "shop_fitting",
+      "category": "shop",
+      "translations": {
+        "ru": "Где находится примерочная?",
+        "en": "Where is the fitting room?",
+        "es": "¿Dónde está el probador?",
+        "pt": "Onde fica o provador?",
+        "vi": "Phòng thử đồ ở đâu?"
+      }
+    },
+    {
+      "id": "shop_size",
+      "category": "shop",
+      "translations": {
+        "ru": "У вас есть другой размер?",
+        "en": "Do you have another size?",
+        "es": "¿Tiene otra talla?",
+        "pt": "Tem outro tamanho?",
+        "vi": "Bạn có cỡ khác không?"
+      },
+      "regionalOverrides": {
+        "es-AR": "¿Tiene otro talle?"
+      }
+    },
+    {
+      "id": "exchange_usd_to_local",
+      "category": "currency",
+      "translations": {
+        "ru": "У меня есть доллары США. Я хочу обменять их на местную валюту. Какой у вас сегодня курс покупки доллара?",
+        "en": "I have US dollars and would like to exchange them for local currency. What is your buying rate for dollars today?",
+        "es": "Tengo dólares estadounidenses y quiero cambiarlos por moneda local. ¿A cuánto compran el dólar hoy?",
+        "pt": "Tenho dólares americanos e quero trocar por moeda local. Qual é a cotação de compra do dólar hoje?",
+        "vi": "Tôi có đô la Mỹ và muốn đổi sang tiền địa phương. Hôm nay tỷ giá mua đô la Mỹ là bao nhiêu?"
+      }
+    },
+    {
+      "id": "exchange_local_to_usd",
+      "category": "currency",
+      "translations": {
+        "ru": "Я хочу купить доллары США за местную валюту. Какой у вас сегодня курс продажи доллара?",
+        "en": "I'd like to buy US dollars with local currency. What is your selling rate for dollars today?",
+        "es": "Quiero comprar dólares estadounidenses con moneda local. ¿A cuánto venden el dólar hoy?",
+        "pt": "Quero comprar dólares americanos com moeda local. Qual é a cotação de venda do dólar hoje?",
+        "vi": "Tôi muốn mua đô la Mỹ bằng tiền địa phương. Hôm nay tỷ giá bán đô la Mỹ là bao nhiêu?"
+      }
+    },
+    {
+      "id": "exchange_fee",
+      "category": "currency",
+      "translations": {
+        "ru": "Взимается ли комиссия?",
+        "en": "Is there a commission or fee?",
+        "es": "¿Cobran comisión?",
+        "pt": "Vocês cobram alguma taxa?",
+        "vi": "Có tính phí giao dịch không?"
+      }
+    },
+    {
+      "id": "exchange_total",
+      "category": "currency",
+      "translations": {
+        "ru": "Сколько я получу в итоге?",
+        "en": "How much will I receive in total?",
+        "es": "¿Cuánto recibiré en total?",
+        "pt": "Quanto vou receber no total?",
+        "vi": "Tổng cộng tôi sẽ nhận được bao nhiêu?"
+      }
+    },
+    {
+      "id": "exchange_partial",
+      "category": "currency",
+      "translations": {
+        "ru": "Можно обменять только часть суммы?",
+        "en": "Can I exchange just part of this amount?",
+        "es": "¿Puedo cambiar solo una parte de esta cantidad?",
+        "pt": "Posso trocar apenas parte desse valor?",
+        "vi": "Tôi có thể chỉ đổi một phần số tiền này không?"
+      }
+    },
+    {
+      "id": "exchange_receipt",
+      "category": "currency",
+      "translations": {
+        "ru": "Можно получить квитанцию?",
+        "en": "Could I have a receipt, please?",
+        "es": "¿Me puede dar un comprobante, por favor?",
+        "pt": "Pode me dar um comprovante, por favor?",
+        "vi": "Tôi có thể nhận biên lai được không?"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "general",
+      "label": "General and language barrier"
+    },
+    {
+      "id": "street",
+      "label": "Street and directions"
+    },
+    {
+      "id": "metro",
+      "label": "Metro and transport"
+    },
+    {
+      "id": "restaurant",
+      "label": "Restaurant and cafe"
+    },
+    {
+      "id": "shop",
+      "label": "Shops"
+    },
+    {
+      "id": "market",
+      "label": "Market"
+    },
+    {
+      "id": "airport",
+      "label": "Airport"
+    },
+    {
+      "id": "accommodation",
+      "label": "Accommodation"
+    },
+    {
+      "id": "currency",
+      "label": "Currency exchange"
+    },
+    {
+      "id": "emergency",
+      "label": "Emergencies"
+    }
+  ]
+}

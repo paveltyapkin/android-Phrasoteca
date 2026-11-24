@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Secure vault data and device-bound key material are never auto-backed up. -->
+    <exclude domain="database" path="phrasoteca.db" />
+    <exclude domain="database" path="phrasoteca.db-wal" />
+    <exclude domain="database" path="phrasoteca.db-shm" />
+</full-backup-content>

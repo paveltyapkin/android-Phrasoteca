@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path android:pathData="M12 6C8 4 5 4 2 5V20C5 19 9 19 12 21" android:strokeColor="@color/home_tile_icon_tint" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="@android:color/transparent" />
+    <path android:pathData="M12 6C16 4 19 4 22 5V20C19 19 15 19 12 21" android:strokeColor="@color/home_tile_icon_tint" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="@android:color/transparent" />
+    <path android:pathData="M12 6V21" android:strokeColor="@color/home_tile_icon_tint" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="@android:color/transparent" />
+</vector>

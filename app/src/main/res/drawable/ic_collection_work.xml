@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path android:pathData="M3 8H21V20H3Z" android:strokeColor="@color/home_tile_icon_tint" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="@android:color/transparent" />
+    <path android:pathData="M8 8V5H16V8" android:strokeColor="@color/home_tile_icon_tint" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="@android:color/transparent" />
+    <path android:pathData="M3 13H21" android:strokeColor="@color/home_tile_icon_tint" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="@android:color/transparent" />
+    <path android:pathData="M11 13V15H13V13" android:strokeColor="@color/home_tile_icon_tint" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="@android:color/transparent" />
+</vector>

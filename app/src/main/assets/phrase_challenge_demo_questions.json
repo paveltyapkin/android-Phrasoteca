@@ -1,0 +1,786 @@
+{
+  "demo": true,
+  "source": "experimental PT-BR → RU phrase challenge v0.1",
+  "questions": [
+    {
+      "question_id": "pc_exp_01",
+      "source_phrase_id": "phrase_033",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "shopping",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Posso pagar com cartão?",
+      "correct_ru": "Можно оплатить банковской картой?",
+      "options": [
+        {
+          "id": "phrase_071",
+          "text": "Можно получить квитанцию об оплате?"
+        },
+        {
+          "id": "phrase_033",
+          "text": "Можно оплатить банковской картой?"
+        },
+        {
+          "id": "phrase_052",
+          "text": "Можно получить бумажный чек?"
+        },
+        {
+          "id": "phrase_034",
+          "text": "Можно оплатить наличными?"
+        }
+      ],
+      "correct_option": "B",
+      "distractor_ids": [
+        "phrase_034",
+        "phrase_052",
+        "phrase_071"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.25,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_02",
+      "source_phrase_id": "phrase_043",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "shopping",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Vocês têm este produto em outro tamanho?",
+      "correct_ru": "Есть ли этот товар другого размера?",
+      "options": [
+        {
+          "id": "phrase_056",
+          "text": "Можно обменять этот товар на другой размер?"
+        },
+        {
+          "id": "phrase_045",
+          "text": "Можно сделать скидку на этот товар?"
+        },
+        {
+          "id": "phrase_044",
+          "text": "Есть ли эта обувь моего размера?"
+        },
+        {
+          "id": "phrase_043",
+          "text": "Есть ли этот товар другого размера?"
+        }
+      ],
+      "correct_option": "D",
+      "distractor_ids": [
+        "phrase_044",
+        "phrase_045",
+        "phrase_056"
+      ],
+      "ru_word_count_spread": 1,
+      "max_relative_word_gap": 0.167,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_03",
+      "source_phrase_id": "phrase_055",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "shopping",
+      "source_mode": "NORMAL",
+      "prompt_pt": "Quero devolver este produto.",
+      "correct_ru": "Я хочу вернуть этот товар.",
+      "options": [
+        {
+          "id": "phrase_058",
+          "text": "На ценнике указана другая цена."
+        },
+        {
+          "id": "phrase_055",
+          "text": "Я хочу вернуть этот товар."
+        },
+        {
+          "id": "phrase_057",
+          "text": "Этот товар оказался неисправным."
+        },
+        {
+          "id": "phrase_066",
+          "text": "Кажется, деньги списались дважды."
+        }
+      ],
+      "correct_option": "B",
+      "distractor_ids": [
+        "phrase_057",
+        "phrase_058",
+        "phrase_066"
+      ],
+      "ru_word_count_spread": 1,
+      "max_relative_word_gap": 0.2,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_04",
+      "source_phrase_id": "phrase_075",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "restaurant",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Posso me sentar aqui?",
+      "correct_ru": "Можно сесть здесь?",
+      "options": [
+        {
+          "id": "phrase_078",
+          "text": "Можно заказать вот это?"
+        },
+        {
+          "id": "phrase_076",
+          "text": "Есть свободный столик?"
+        },
+        {
+          "id": "phrase_077",
+          "text": "Нужно заранее бронировать стол?"
+        },
+        {
+          "id": "phrase_075",
+          "text": "Можно сесть здесь?"
+        }
+      ],
+      "correct_option": "D",
+      "distractor_ids": [
+        "phrase_076",
+        "phrase_077",
+        "phrase_078"
+      ],
+      "ru_word_count_spread": 1,
+      "max_relative_word_gap": 0.333,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_05",
+      "source_phrase_id": "phrase_095",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "restaurant",
+      "source_mode": "NORMAL",
+      "prompt_pt": "Tenho alergia a este alimento. Por favor, confira os ingredientes do prato.",
+      "correct_ru": "У меня аллергия на этот продукт. Пожалуйста, проверьте состав блюда.",
+      "options": [
+        {
+          "id": "phrase_093",
+          "text": "Принесли не то блюдо, которое было заказано. Пожалуйста, проверьте заказ."
+        },
+        {
+          "id": "phrase_092",
+          "text": "Заказ ещё не принесли. Пожалуйста, проверьте его статус."
+        },
+        {
+          "id": "phrase_095",
+          "text": "У меня аллергия на этот продукт. Пожалуйста, проверьте состав блюда."
+        },
+        {
+          "id": "phrase_096",
+          "text": "Пожалуйста, покажите, какие блюда не содержат этот ингредиент."
+        }
+      ],
+      "correct_option": "C",
+      "distractor_ids": [
+        "phrase_092",
+        "phrase_093",
+        "phrase_096"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.2,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_06",
+      "source_phrase_id": "phrase_083",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "restaurant",
+      "source_mode": "NORMAL",
+      "prompt_pt": "Pode trazer talheres, por favor?",
+      "correct_ru": "Принесите столовые приборы, пожалуйста.",
+      "options": [
+        {
+          "id": "phrase_084",
+          "text": "Принесите палочки для еды, пожалуйста."
+        },
+        {
+          "id": "phrase_088",
+          "text": "Пожалуйста, без сахара."
+        },
+        {
+          "id": "phrase_085",
+          "text": "Принесите салфетки, пожалуйста."
+        },
+        {
+          "id": "phrase_083",
+          "text": "Принесите столовые приборы, пожалуйста."
+        }
+      ],
+      "correct_option": "D",
+      "distractor_ids": [
+        "phrase_084",
+        "phrase_085",
+        "phrase_088"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.25,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_07",
+      "source_phrase_id": "phrase_087",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "restaurant",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Posso pedir comida para viagem?",
+      "correct_ru": "Можно заказать еду с собой?",
+      "options": [
+        {
+          "id": "phrase_087",
+          "text": "Можно заказать еду с собой?"
+        },
+        {
+          "id": "phrase_090",
+          "text": "Можно упаковать оставшуюся еду с собой?"
+        },
+        {
+          "id": "phrase_097",
+          "text": "Можно получить отдельный счёт?"
+        },
+        {
+          "id": "phrase_091",
+          "text": "Можно ещё раз заказать то же самое?"
+        }
+      ],
+      "correct_option": "A",
+      "distractor_ids": [
+        "phrase_090",
+        "phrase_091",
+        "phrase_097"
+      ],
+      "ru_word_count_spread": 3,
+      "max_relative_word_gap": 0.4,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_08",
+      "source_phrase_id": "phrase_105",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "transport",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Este trem vai até a estação que estou mostrando?",
+      "correct_ru": "Этот поезд идёт до станции, которую я показываю?",
+      "options": [
+        {
+          "id": "phrase_105",
+          "text": "Этот поезд идёт до станции, которую я показываю?"
+        },
+        {
+          "id": "phrase_117",
+          "text": "Это нужная мне остановка?"
+        },
+        {
+          "id": "phrase_120",
+          "text": "Можно доехать до указанного места без пересадки?"
+        },
+        {
+          "id": "phrase_119",
+          "text": "Этот транспорт идёт в направлении, указанном на моей карте?"
+        }
+      ],
+      "correct_option": "A",
+      "distractor_ids": [
+        "phrase_117",
+        "phrase_119",
+        "phrase_120"
+      ],
+      "ru_word_count_spread": 5,
+      "max_relative_word_gap": 0.5,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_09",
+      "source_phrase_id": "phrase_113",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "transport",
+      "source_mode": "YES_NO",
+      "prompt_pt": "É possível alugar um patinete elétrico?",
+      "correct_ru": "Можно арендовать самокат?",
+      "options": [
+        {
+          "id": "phrase_114",
+          "text": "Можно арендовать автомобиль?"
+        },
+        {
+          "id": "phrase_130",
+          "text": "Можно показать стоимость поездки до её начала?"
+        },
+        {
+          "id": "phrase_124",
+          "text": "Этой транспортной картой можно оплатить поездку?"
+        },
+        {
+          "id": "phrase_113",
+          "text": "Можно арендовать самокат?"
+        }
+      ],
+      "correct_option": "D",
+      "distractor_ids": [
+        "phrase_114",
+        "phrase_124",
+        "phrase_130"
+      ],
+      "ru_word_count_spread": 4,
+      "max_relative_word_gap": 1.333,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_10",
+      "source_phrase_id": "phrase_153",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "accommodation",
+      "source_mode": "NORMAL",
+      "prompt_pt": "Temos uma reserva pelo Booking.com.",
+      "correct_ru": "У нас есть бронирование через Booking.com.",
+      "options": [
+        {
+          "id": "phrase_181",
+          "text": "Регистрация уже пройдена, но система не открывает дверь."
+        },
+        {
+          "id": "phrase_154",
+          "text": "У нас есть бронирование через Airbnb."
+        },
+        {
+          "id": "phrase_182",
+          "text": "Код доступа не работает. Пожалуйста, проверьте его."
+        },
+        {
+          "id": "phrase_153",
+          "text": "У нас есть бронирование через Booking.com."
+        }
+      ],
+      "correct_option": "D",
+      "distractor_ids": [
+        "phrase_154",
+        "phrase_181",
+        "phrase_182"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.333,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_11",
+      "source_phrase_id": "phrase_159",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "accommodation",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Há academia no prédio?",
+      "correct_ru": "В здании есть тренажёрный зал?",
+      "options": [
+        {
+          "id": "phrase_159",
+          "text": "В здании есть тренажёрный зал?"
+        },
+        {
+          "id": "phrase_161",
+          "text": "В здании есть прачечная?"
+        },
+        {
+          "id": "phrase_172",
+          "text": "Можно получить подтверждение бронирования?"
+        },
+        {
+          "id": "phrase_160",
+          "text": "Посещение тренажёрного зала включено в стоимость?"
+        }
+      ],
+      "correct_option": "A",
+      "distractor_ids": [
+        "phrase_160",
+        "phrase_161",
+        "phrase_172"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.2,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_12",
+      "source_phrase_id": "phrase_170",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "accommodation",
+      "source_mode": "YES_NO",
+      "prompt_pt": "As contas de água, luz e outros serviços estão incluídas no preço?",
+      "correct_ru": "В стоимость включены коммунальные услуги?",
+      "options": [
+        {
+          "id": "phrase_192",
+          "text": "Залог возвращается после выезда?"
+        },
+        {
+          "id": "phrase_170",
+          "text": "В стоимость включены коммунальные услуги?"
+        },
+        {
+          "id": "phrase_193",
+          "text": "Можно получить письменный договор аренды?"
+        },
+        {
+          "id": "phrase_190",
+          "text": "В стоимость включены вода, электричество и интернет?"
+        }
+      ],
+      "correct_option": "B",
+      "distractor_ids": [
+        "phrase_190",
+        "phrase_192",
+        "phrase_193"
+      ],
+      "ru_word_count_spread": 3,
+      "max_relative_word_gap": 0.4,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_13",
+      "source_phrase_id": "phrase_177",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "accommodation",
+      "source_mode": "YES_NO",
+      "prompt_pt": "O ar-condicionado não está funcionando. Pode chamar um técnico?",
+      "correct_ru": "Кондиционер не работает. Можно вызвать специалиста?",
+      "options": [
+        {
+          "id": "phrase_185",
+          "text": "Можно проверить неисправность сейчас?"
+        },
+        {
+          "id": "phrase_186",
+          "text": "Можно получить письменное подтверждение решения проблемы?"
+        },
+        {
+          "id": "phrase_177",
+          "text": "Кондиционер не работает. Можно вызвать специалиста?"
+        },
+        {
+          "id": "phrase_165",
+          "text": "В номере недостаточно полотенец. Можно принести дополнительные?"
+        }
+      ],
+      "correct_option": "C",
+      "distractor_ids": [
+        "phrase_185",
+        "phrase_186",
+        "phrase_165"
+      ],
+      "ru_word_count_spread": 3,
+      "max_relative_word_gap": 0.333,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_14",
+      "source_phrase_id": "phrase_189",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "accommodation",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Podemos visitar o apartamento antes de pagar?",
+      "correct_ru": "Можно посмотреть квартиру перед оплатой?",
+      "options": [
+        {
+          "id": "phrase_189",
+          "text": "Можно посмотреть квартиру перед оплатой?"
+        },
+        {
+          "id": "phrase_203",
+          "text": "Можно получить ещё один комплект постельного белья?"
+        },
+        {
+          "id": "phrase_195",
+          "text": "Можно оплатить аренду банковским переводом?"
+        },
+        {
+          "id": "phrase_193",
+          "text": "Можно получить письменный договор аренды?"
+        }
+      ],
+      "correct_option": "A",
+      "distractor_ids": [
+        "phrase_195",
+        "phrase_193",
+        "phrase_203"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.4,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_15",
+      "source_phrase_id": "phrase_293",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "connectivity",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Posso cadastrar um chip de celular com meu passaporte estrangeiro?",
+      "correct_ru": "Можно оформить SIM-карту по заграничному паспорту?",
+      "options": [
+        {
+          "id": "phrase_304",
+          "text": "Можно подключиться к вашей сети Wi-Fi?"
+        },
+        {
+          "id": "phrase_293",
+          "text": "Можно оформить SIM-карту по заграничному паспорту?"
+        },
+        {
+          "id": "phrase_301",
+          "text": "В этом тарифе разрешена раздача интернета на ноутбук?"
+        },
+        {
+          "id": "phrase_302",
+          "text": "В тариф включены звонки и SMS?"
+        }
+      ],
+      "correct_option": "B",
+      "distractor_ids": [
+        "phrase_301",
+        "phrase_302",
+        "phrase_304"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.333,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_16",
+      "source_phrase_id": "phrase_295",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "connectivity",
+      "source_mode": "NORMAL",
+      "prompt_pt": "Preciso de um plano sem contrato de longo prazo.",
+      "correct_ru": "Мне нужен тариф без долгосрочного договора.",
+      "options": [
+        {
+          "id": "phrase_297",
+          "text": "Сколько гигабайт включено в тариф? Пожалуйста, покажите."
+        },
+        {
+          "id": "phrase_292",
+          "text": "Мне нужна местная SIM-карта с мобильным интернетом."
+        },
+        {
+          "id": "phrase_294",
+          "text": "У меня нет местного идентификационного номера."
+        },
+        {
+          "id": "phrase_295",
+          "text": "Мне нужен тариф без долгосрочного договора."
+        }
+      ],
+      "correct_option": "D",
+      "distractor_ids": [
+        "phrase_292",
+        "phrase_294",
+        "phrase_297"
+      ],
+      "ru_word_count_spread": 1,
+      "max_relative_word_gap": 0.167,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_17",
+      "source_phrase_id": "phrase_309",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "delivery",
+      "source_mode": "NORMAL",
+      "prompt_pt": "Por favor, deixe a encomenda na recepção.",
+      "correct_ru": "Пожалуйста, оставьте посылку на стойке регистрации.",
+      "options": [
+        {
+          "id": "phrase_310",
+          "text": "Пожалуйста, передайте посылку охране здания."
+        },
+        {
+          "id": "phrase_323",
+          "text": "Пожалуйста, напишите номер заказа."
+        },
+        {
+          "id": "phrase_309",
+          "text": "Пожалуйста, оставьте посылку на стойке регистрации."
+        },
+        {
+          "id": "phrase_311",
+          "text": "Пожалуйста, подождите у входа. Я сейчас спущусь."
+        }
+      ],
+      "correct_option": "C",
+      "distractor_ids": [
+        "phrase_310",
+        "phrase_311",
+        "phrase_323"
+      ],
+      "ru_word_count_spread": 3,
+      "max_relative_word_gap": 0.333,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_18",
+      "source_phrase_id": "phrase_313",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "delivery",
+      "source_mode": "YES_NO",
+      "prompt_pt": "Este é o endereço de entrega correto?",
+      "correct_ru": "Здесь указан правильный адрес доставки?",
+      "options": [
+        {
+          "id": "phrase_318",
+          "text": "Можно оформить возврат доставленного товара?"
+        },
+        {
+          "id": "phrase_313",
+          "text": "Здесь указан правильный адрес доставки?"
+        },
+        {
+          "id": "phrase_314",
+          "text": "Для получения посылки нужен паспорт?"
+        },
+        {
+          "id": "phrase_322",
+          "text": "Можно перенести доставку на другое время?"
+        }
+      ],
+      "correct_option": "B",
+      "distractor_ids": [
+        "phrase_314",
+        "phrase_318",
+        "phrase_322"
+      ],
+      "ru_word_count_spread": 1,
+      "max_relative_word_gap": 0.2,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_19",
+      "source_phrase_id": "phrase_324",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "services",
+      "source_mode": "YES_NO",
+      "prompt_pt": "O aparelho quebrou. Vocês podem fazer um diagnóstico?",
+      "correct_ru": "Устройство сломалось. Можно провести диагностику?",
+      "options": [
+        {
+          "id": "phrase_324",
+          "text": "Устройство сломалось. Можно провести диагностику?"
+        },
+        {
+          "id": "phrase_332",
+          "text": "На ремонт предоставляется гарантия?"
+        },
+        {
+          "id": "phrase_325",
+          "text": "Можно отремонтировать это, не заменяя устройство целиком?"
+        },
+        {
+          "id": "phrase_330",
+          "text": "Можно проверить устройство перед оплатой?"
+        }
+      ],
+      "correct_option": "A",
+      "distractor_ids": [
+        "phrase_325",
+        "phrase_330",
+        "phrase_332"
+      ],
+      "ru_word_count_spread": 3,
+      "max_relative_word_gap": 0.4,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    },
+    {
+      "question_id": "pc_exp_20",
+      "source_phrase_id": "phrase_336",
+      "source_locale": "pt-BR",
+      "target_locale": "ru-RU",
+      "source_category": "services",
+      "source_mode": "YES_NO",
+      "prompt_pt": "É possível imprimir um documento?",
+      "correct_ru": "Можно распечатать документ?",
+      "options": [
+        {
+          "id": "phrase_337",
+          "text": "Можно сделать копию этого документа?"
+        },
+        {
+          "id": "phrase_330",
+          "text": "Можно проверить устройство перед оплатой?"
+        },
+        {
+          "id": "phrase_339",
+          "text": "Можно записаться на маникюр?"
+        },
+        {
+          "id": "phrase_336",
+          "text": "Можно распечатать документ?"
+        }
+      ],
+      "correct_option": "D",
+      "distractor_ids": [
+        "phrase_337",
+        "phrase_330",
+        "phrase_339"
+      ],
+      "ru_word_count_spread": 2,
+      "max_relative_word_gap": 0.667,
+      "all_same_category": true,
+      "all_same_mode": true,
+      "editorial_status": "candidate_review"
+    }
+  ]
+}

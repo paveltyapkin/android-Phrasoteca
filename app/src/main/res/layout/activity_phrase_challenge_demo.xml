@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/idiomGameRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/idiomGameToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/home_toolbar_background"
+        app:titleTextColor="@color/home_title_color"
+        app:title="@string/phrase_demo_title"
+        app:navigationIcon="@drawable/ic_arrow_back_24"
+        app:menu="@menu/idiom_challenge_menu" />
+
+    <TextView
+        android:id="@+id/idiomGameProgress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="10dp"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bg_idiom_progress"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:textColor="@color/home_tile_subtitle" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="420dp"
+            android:orientation="vertical"
+            android:gravity="center_vertical"
+            android:paddingHorizontal="16dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:id="@+id/idiomGameQuestionLabel"
+                android:text="@string/phrase_demo_question_label"
+                android:textSize="14sp"
+                android:textColor="@color/home_tile_subtitle" />
+
+            <TextView
+                android:id="@+id/idiomGameQuestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="100dp"
+                android:gravity="center"
+                android:padding="16dp"
+                android:layout_marginTop="6dp"
+                android:background="@drawable/bg_idiom_question"
+                android:textSize="29sp"
+                android:textStyle="bold"
+                android:textColor="@color/home_tile_title" />
+
+            <LinearLayout
+                android:id="@+id/idiomGameAnswerArea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/phrase_demo_answer_label"
+                    android:textSize="14sp"
+                    android:textColor="@color/home_tile_subtitle" />
+
+                <LinearLayout
+                    android:id="@+id/idiomGameAnswerCard"
+                    android:layout_width="match_parent"
+                    android:layout_height="190dp"
+                    android:layout_marginTop="6dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:padding="16dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/bg_idiom_answer">
+
+                    <TextView
+                        android:id="@+id/idiomGameAnswer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:textSize="22sp"
+                        android:textColor="@color/home_tile_title" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/idiomGameIndicator"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="6dp"
+                    android:textSize="14sp"
+                    android:textColor="@color/home_tile_subtitle" />
+
+                <LinearLayout
+                    android:id="@+id/idiomGameNavigationButtons"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+                    <Button
+                        android:id="@+id/idiomGamePrevious"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="48dp"
+                        android:layout_marginEnd="4dp"
+                        android:background="@drawable/bg_idiom_button_secondary"
+                        android:textColor="@color/button_secondary_text"
+                        android:textAllCaps="false"
+                        android:text="@string/idiom_game_previous" />
+                    <Button
+                        android:id="@+id/idiomGameFollowing"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="48dp"
+                        android:layout_marginStart="4dp"
+                        android:background="@drawable/bg_idiom_button_secondary"
+                        android:textColor="@color/button_secondary_text"
+                        android:textAllCaps="false"
+                        android:text="@string/idiom_game_following" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/idiomGameFeedback"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:minHeight="44dp"
+                android:padding="10dp"
+                android:layout_marginTop="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/home_tile_title" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/idiomGameNext"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/bg_idiom_button_primary"
+        android:textColor="@color/button_primary_text"
+        android:textAllCaps="false"
+        android:text="@string/idiom_game_choose" />
+</LinearLayout>

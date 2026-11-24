@@ -1,0 +1,4863 @@
+{
+  "format": "phrasoteca-phrase-library",
+  "version": 1,
+  "setId": "practical-ru-en-es-pt-br-vi-v0954",
+  "title": "Phrasoteca Practical Phrasebook (RU/EN/ES/PT-BR/VI/TH)",
+  "description": "338 practical phrases in six languages, with regional overrides where available.",
+  "defaultLocales": [
+    "ru-RU",
+    "en-US",
+    "en-GB",
+    "es-ES",
+    "es-CL",
+    "es-MX",
+    "pt-BR",
+    "vi-VN",
+    "th-TH"
+  ],
+  "phrases": [
+    {
+      "id": "phrase_001",
+      "category": "communication",
+      "translations": {
+        "ru": "Здравствуйте!",
+        "en": "Hello!",
+        "es": "¡Hola!",
+        "pt": "Olá!",
+        "vi": "Xin chào!",
+        "th": "สวัสดี"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_002",
+      "category": "communication",
+      "translations": {
+        "ru": "Спасибо за помощь!",
+        "en": "Thank you for your help!",
+        "es": "¡Gracias por su ayuda!",
+        "pt": "Agradeço pela ajuda!",
+        "vi": "Cảm ơn vì đã giúp đỡ!",
+        "th": "ขอบคุณที่ช่วยเหลือ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_003",
+      "category": "communication",
+      "translations": {
+        "ru": "Спасибо, хорошего вам дня!",
+        "en": "Thank you. Have a nice day!",
+        "es": "¡Gracias! ¡Que tenga un buen día!",
+        "pt": "Agradeço! Tenha um ótimo dia!",
+        "vi": "Cảm ơn! Chúc một ngày tốt lành!",
+        "th": "ขอบคุณ ขอให้วันนี้เป็นวันที่ดีของคุณ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_004",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините, я не понимаю.",
+        "en": "Excuse me, I don’t understand.",
+        "es": "Disculpe, no entiendo.",
+        "pt": "Desculpe, não entendo.",
+        "vi": "Xin lỗi, tôi không hiểu.",
+        "th": "ขอโทษ ไม่เข้าใจ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_005",
+      "category": "communication",
+      "translations": {
+        "ru": "К сожалению, я не понимаю. Сейчас открою переводчик, чтобы мы могли общаться через него.",
+        "en": "I’m sorry, I don’t understand. I’ll open a translation app so we can communicate.",
+        "es": "Lamentablemente, no entiendo. Voy a abrir el traductor para que podamos comunicarnos por ahí.",
+        "pt": "Desculpe, não entendo. Vou abrir um aplicativo de tradução para podermos nos comunicar.",
+        "vi": "Xin lỗi, tôi không hiểu. Tôi sẽ mở ứng dụng dịch để chúng ta có thể trao đổi qua đó.",
+        "th": "ขอโทษ ฉันไม่เข้าใจ เดี๋ยวฉันจะเปิดแอปแปลภาษาเพื่อให้เราสื่อสารกันได้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_006",
+      "category": "communication",
+      "translations": {
+        "ru": "Я пока плохо говорю на вашем языке.",
+        "en": "I don’t speak your language very well yet.",
+        "es": "Todavía no hablo bien su idioma.",
+        "pt": "Ainda não falo muito bem a sua língua.",
+        "vi": "Tôi vẫn chưa nói tốt ngôn ngữ này.",
+        "th": "ยังพูดภาษาของคุณได้ไม่ค่อยดี"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_007",
+      "category": "communication",
+      "translations": {
+        "ru": "Хочу с вами пообщаться, но пока недостаточно хорошо знаю ваш язык.",
+        "en": "I’d like to talk with you, but I don’t know your language well enough yet.",
+        "es": "Me gustaría conversar con usted, pero todavía no domino bien su idioma.",
+        "pt": "Gostaria de conversar com você, mas ainda não conheço bem o seu idioma.",
+        "vi": "Tôi muốn trò chuyện, nhưng hiện tại tôi chưa nói tốt ngôn ngữ này.",
+        "th": "ฉันอยากคุยกับคุณ แต่ตอนนี้ยังพูดภาษาของคุณได้ไม่ดีพอ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_008",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, говорите медленнее.",
+        "en": "Please speak more slowly.",
+        "es": "Por favor, hable más despacio.",
+        "pt": "Por favor, fale mais devagar.",
+        "vi": "Xin vui lòng nói chậm hơn.",
+        "th": "กรุณาพูดช้าลงหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_009",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, повторите ещё раз.",
+        "en": "Could you repeat that, please?",
+        "es": "Por favor, repítalo una vez más.",
+        "pt": "Pode repetir, por favor?",
+        "vi": "Xin vui lòng nói lại một lần nữa.",
+        "th": "กรุณาพูดอีกครั้ง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_010",
+      "category": "communication",
+      "translations": {
+        "ru": "Вы говорите по-английски?",
+        "en": "Do you speak English?",
+        "es": "¿Habla inglés?",
+        "pt": "Você fala inglês?",
+        "vi": "Có thể nói tiếng Anh không ạ?",
+        "th": "พูดภาษาอังกฤษได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_011",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините, я не понимаю. Вы говорите по-английски?",
+        "en": "Sorry, I don’t understand. Do you speak English?",
+        "es": "Disculpe, no entiendo. ¿Habla inglés?",
+        "pt": "Desculpe, não entendo. Você fala inglês?",
+        "vi": "Xin lỗi, tôi không hiểu. Có thể nói tiếng Anh không ạ?",
+        "th": "ขอโทษ ไม่เข้าใจ พูดภาษาอังกฤษได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_012",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, напишите ответ на моём телефоне.",
+        "en": "Please type your answer on my phone.",
+        "es": "Por favor, escriba su respuesta en mi teléfono.",
+        "pt": "Por favor, digite sua resposta no meu celular.",
+        "vi": "Xin vui lòng nhập câu trả lời vào điện thoại của tôi.",
+        "th": "กรุณาพิมพ์คำตอบลงในโทรศัพท์ของฉัน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер",
+      "regionalOverrides": {
+        "es-CL": "Por favor, escriba su respuesta en mi celular."
+      }
+    },
+    {
+      "id": "phrase_013",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите это место на карте.",
+        "en": "Please show me this place on the map.",
+        "es": "Por favor, muéstreme este lugar en el mapa.",
+        "pt": "Por favor, mostre este lugar no mapa.",
+        "vi": "Xin vui lòng chỉ địa điểm này trên bản đồ.",
+        "th": "กรุณาชี้สถานที่นี้บนแผนที่ให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_014",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите пальцем, куда мне идти.",
+        "en": "Please point to the direction I should go.",
+        "es": "Por favor, señáleme con el dedo hacia dónde debo ir.",
+        "pt": "Por favor, aponte com o dedo a direção que devo seguir.",
+        "vi": "Xin vui lòng chỉ tay về hướng tôi cần đi.",
+        "th": "กรุณาใช้นิ้วชี้ทิศทางที่ต้องไปให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_015",
+      "category": "communication",
+      "translations": {
+        "ru": "Можно показать вам фотографию?",
+        "en": "Can I show you a photo?",
+        "es": "¿Puedo mostrarle una foto?",
+        "pt": "Posso mostrar uma foto para você?",
+        "vi": "Tôi có thể cho xem một bức ảnh được không ạ?",
+        "th": "ขอให้คุณดูรูปถ่ายได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_016",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, ответьте «да» или «нет» на экране.",
+        "en": "Please select “Yes” or “No” on the screen.",
+        "es": "Por favor, responda «sí» o «no» en la pantalla.",
+        "pt": "Por favor, selecione “Sim” ou “Não” na tela.",
+        "vi": "Xin vui lòng chọn “Có” hoặc “Không” trên màn hình.",
+        "th": "กรุณาเลือก «ใช่» หรือ «ไม่ใช่» บนหน้าจอ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_017",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите, какой вариант выбрать.",
+        "en": "Please show me which option to choose.",
+        "es": "Por favor, indíqueme qué opción debo elegir.",
+        "pt": "Por favor, mostre qual opção devo escolher.",
+        "vi": "Xin vui lòng chỉ cho tôi nên chọn phương án nào.",
+        "th": "กรุณาชี้ให้ดูว่าควรเลือกตัวเลือกไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_018",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, напишите на моём телефоне дату, время или сумму.",
+        "en": "Please type the date, time or amount on my phone.",
+        "es": "Por favor, escriba en mi teléfono la fecha, la hora o el monto.",
+        "pt": "Por favor, digite a data, o horário ou o valor no meu celular.",
+        "vi": "Xin vui lòng nhập ngày, giờ hoặc số tiền vào điện thoại của tôi.",
+        "th": "กรุณาพิมพ์วันที่ เวลา หรือจำนวนเงินลงในโทรศัพท์ของฉัน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер",
+      "regionalOverrides": {
+        "es-CL": "Por favor, escriba en mi celular la fecha, la hora o el monto."
+      }
+    },
+    {
+      "id": "phrase_019",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините, сейчас я не могу говорить.",
+        "en": "Sorry, I can’t speak right now.",
+        "es": "Disculpe, ahora no puedo hablar.",
+        "pt": "Desculpe, não posso falar agora.",
+        "vi": "Xin lỗi, hiện giờ tôi không thể nói chuyện.",
+        "th": "ขอโทษ ตอนนี้พูดไม่ได้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_020",
+      "category": "communication",
+      "translations": {
+        "ru": "Я не слышу. Пожалуйста, общайтесь со мной письменно.",
+        "en": "I can’t hear. Please communicate with me in writing.",
+        "es": "No puedo oír. Por favor, comuníquese conmigo por escrito.",
+        "pt": "Não consigo ouvir. Por favor, comunique-se comigo por escrito.",
+        "vi": "Tôi không nghe được. Xin vui lòng trao đổi với tôi bằng chữ viết.",
+        "th": "ไม่ได้ยิน กรุณาสื่อสารเป็นข้อความ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_021",
+      "category": "communication",
+      "translations": {
+        "ru": "Я не слышу и не могу говорить. Пожалуйста, общайтесь со мной письменно.",
+        "en": "I can’t hear or speak. Please communicate with me in writing.",
+        "es": "No puedo oír ni hablar. Por favor, comuníquese conmigo por escrito.",
+        "pt": "Não consigo ouvir nem falar. Por favor, comunique-se comigo por escrito.",
+        "vi": "Tôi không nghe được và không thể nói. Xin vui lòng trao đổi với tôi bằng chữ viết.",
+        "th": "ไม่ได้ยินและพูดไม่ได้ กรุณาสื่อสารเป็นข้อความ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_022",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините за неудобства.",
+        "en": "Sorry for the inconvenience.",
+        "es": "Disculpe las molestias.",
+        "pt": "Desculpe pelo transtorno.",
+        "vi": "Xin lỗi vì đã gây bất tiện.",
+        "th": "ขอโทษที่ทำให้ไม่สะดวก"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_023",
+      "category": "communication",
+      "translations": {
+        "ru": "Я здесь временно. Цель поездки — туризм.",
+        "en": "I’m here temporarily. The purpose of my trip is tourism.",
+        "es": "Estoy aquí temporalmente. El motivo de mi viaje es el turismo.",
+        "pt": "Estou aqui temporariamente, a turismo.",
+        "vi": "Tôi chỉ ở đây tạm thời. Mục đích chuyến đi của tôi là du lịch.",
+        "th": "ฉันมาอยู่ที่นี่ชั่วคราว จุดประสงค์ของการเดินทางคือการท่องเที่ยว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_024",
+      "category": "communication",
+      "translations": {
+        "ru": "Я турист. Здесь не проживаю постоянно.",
+        "en": "I’m a tourist. I don’t live here permanently.",
+        "es": "Soy turista. No vivo aquí de forma permanente.",
+        "pt": "Sou turista. Não moro aqui permanentemente.",
+        "vi": "Tôi là khách du lịch. Tôi không thường trú ở đây.",
+        "th": "ฉันเป็นนักท่องเที่ยว ไม่ได้อาศัยอยู่ที่นี่เป็นการถาวร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_025",
+      "category": "communication",
+      "translations": {
+        "ru": "Можно воспользоваться вашим Wi-Fi, чтобы открыть переводчик?",
+        "en": "Can I use your Wi-Fi to open a translation app?",
+        "es": "¿Puedo usar su wifi para abrir el traductor?",
+        "pt": "Posso usar seu Wi-Fi para abrir um aplicativo de tradução?",
+        "vi": "Tôi có thể dùng Wi-Fi ở đây để mở ứng dụng dịch được không ạ?",
+        "th": "ขอใช้ Wi-Fi ของคุณเพื่อเปิดแอปแปลภาษาได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_026",
+      "category": "communication",
+      "translations": {
+        "ru": "Я могу переписываться, но не могу разговаривать по телефону на вашем языке.",
+        "en": "I can communicate by text, but I can’t speak your language over the phone.",
+        "es": "Puedo comunicarme por mensajes escritos, pero no puedo hablar por teléfono en su idioma.",
+        "pt": "Consigo me comunicar por mensagens, mas não consigo conversar por telefone no seu idioma.",
+        "vi": "Tôi có thể nhắn tin, nhưng không thể nói chuyện qua điện thoại bằng ngôn ngữ này.",
+        "th": "ฉันสื่อสารทางข้อความได้ แต่ไม่สามารถคุยโทรศัพท์เป็นภาษาของคุณได้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер",
+      "regionalOverrides": {
+        "es-CL": "Puedo comunicarme por mensajes escritos, pero no puedo hablar por celular en su idioma."
+      }
+    },
+    {
+      "id": "phrase_027",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите, как это работает.",
+        "en": "Please show me how this works.",
+        "es": "Por favor, muéstreme cómo funciona esto.",
+        "pt": "Por favor, mostre como isso funciona.",
+        "vi": "Xin vui lòng chỉ cho tôi cách sử dụng cái này.",
+        "th": "กรุณาแสดงให้ดูว่าสิ่งนี้ใช้งานอย่างไร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_028",
+      "category": "communication",
+      "translations": {
+        "ru": "Я не знаю местных правил. Пожалуйста, объясните их через переводчик.",
+        "en": "I’m not familiar with the local rules. Please explain them using a translation app.",
+        "es": "No conozco las normas locales. Por favor, explíquemelas usando el traductor.",
+        "pt": "Não conheço as regras locais. Por favor, explique-as usando um aplicativo de tradução.",
+        "vi": "Tôi không biết các quy định ở địa phương. Xin vui lòng giải thích qua ứng dụng dịch.",
+        "th": "ฉันไม่ทราบกฎระเบียบในท้องถิ่น กรุณาอธิบายผ่านแอปแปลภาษา"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_029",
+      "category": "communication",
+      "translations": {
+        "ru": "Мне нужна помощь сотрудника, который говорит по-английски.",
+        "en": "I need help from a staff member who speaks English.",
+        "es": "Necesito ayuda de alguien del personal que hable inglés.",
+        "pt": "Preciso de ajuda de um funcionário que fale inglês.",
+        "vi": "Tôi cần nhân viên có thể nói tiếng Anh giúp đỡ.",
+        "th": "ฉันต้องการความช่วยเหลือจากเจ้าหน้าที่ที่พูดภาษาอังกฤษได้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_030",
+      "category": "communication",
+      "translations": {
+        "ru": "Спасибо за терпение.",
+        "en": "Thank you for your patience.",
+        "es": "Gracias por su paciencia.",
+        "pt": "Agradeço pela paciência.",
+        "vi": "Cảm ơn vì đã kiên nhẫn.",
+        "th": "ขอบคุณที่อดทนและเข้าใจ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_031",
+      "category": "shopping",
+      "translations": {
+        "ru": "Сколько это стоит?",
+        "en": "How much does this cost?",
+        "es": "¿Cuánto cuesta esto?",
+        "pt": "Quanto custa isto?",
+        "vi": "Cái này giá bao nhiêu?",
+        "th": "อันนี้ราคาเท่าไหร่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_032",
+      "category": "shopping",
+      "translations": {
+        "ru": "Сколько стоит один килограмм этого товара?",
+        "en": "How much does one kilogram of this item cost?",
+        "es": "¿Cuánto cuesta un kilo de este producto?",
+        "pt": "Quanto custa um quilo deste produto?",
+        "vi": "Một ki-lô-gam sản phẩm này giá bao nhiêu?",
+        "th": "สินค้านี้ราคากิโลกรัมละเท่าไหร่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_033",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно оплатить банковской картой?",
+        "en": "Can I pay by card?",
+        "es": "¿Puedo pagar con tarjeta bancaria?",
+        "pt": "Posso pagar com cartão?",
+        "vi": "Tôi có thể thanh toán bằng thẻ ngân hàng không ạ?",
+        "th": "จ่ายด้วยบัตรธนาคารได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_034",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно оплатить наличными?",
+        "en": "Can I pay in cash?",
+        "es": "¿Puedo pagar en efectivo?",
+        "pt": "Posso pagar em dinheiro?",
+        "vi": "Tôi có thể trả bằng tiền mặt không ạ?",
+        "th": "จ่ายด้วยเงินสดได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_035",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня нет с собой банковской карты.",
+        "en": "I don't have my bank card with me.",
+        "es": "No tengo mi tarjeta bancaria conmigo.",
+        "pt": "Estou sem meu cartão bancário no momento.",
+        "vi": "Tôi không mang theo thẻ ngân hàng.",
+        "th": "ตอนนี้ไม่มีบัตรธนาคารติดตัว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_036",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня сейчас нет наличных.",
+        "en": "I don't have any cash on me right now.",
+        "es": "Ahora mismo no tengo efectivo.",
+        "pt": "Estou sem dinheiro em espécie no momento.",
+        "vi": "Hiện giờ tôi không có tiền mặt.",
+        "th": "ตอนนี้ไม่มีเงินสดติดตัว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_037",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня недостаточно денег для оплаты.",
+        "en": "I don't have enough money to pay.",
+        "es": "No tengo suficiente dinero para pagar.",
+        "pt": "Não tenho dinheiro suficiente para pagar.",
+        "vi": "Tôi không đủ tiền để thanh toán.",
+        "th": "มีเงินไม่พอสำหรับจ่ายค่าสินค้า"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_038",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня нет карты постоянного покупателя.",
+        "en": "I don't have a loyalty card for this store.",
+        "es": "No tengo tarjeta de fidelidad de esta tienda.",
+        "pt": "Não tenho o cartão de fidelidade desta loja.",
+        "vi": "Tôi không có thẻ khách hàng thân thiết của cửa hàng.",
+        "th": "ไม่มีบัตรสมาชิกของร้านนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_039",
+      "category": "shopping",
+      "translations": {
+        "ru": "Как оформить карту постоянного покупателя? Пожалуйста, покажите условия.",
+        "en": "How can I get a store loyalty card? Please show me the terms and conditions.",
+        "es": "¿Cómo puedo obtener una tarjeta de fidelidad? Por favor, muéstreme las condiciones.",
+        "pt": "Como faço para obter o cartão de fidelidade da loja? Por favor, mostre as condições.",
+        "vi": "Làm thế nào để đăng ký thẻ khách hàng thân thiết? Xin vui lòng cho tôi xem các điều kiện.",
+        "th": "สมัครบัตรสมาชิกของร้านนี้ได้อย่างไร กรุณาแสดงเงื่อนไขให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_040",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен пакет. Количество указано на экране.",
+        "en": "I need some bags. The quantity is shown on the screen.",
+        "es": "Necesito bolsas. La cantidad aparece en la pantalla.",
+        "pt": "Preciso de sacolas. A quantidade está indicada na tela.",
+        "vi": "Tôi cần túi đựng hàng. Số lượng được hiển thị trên màn hình.",
+        "th": "ต้องการถุงตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_041",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно это примерить?",
+        "en": "Can I try this on?",
+        "es": "¿Puedo probarme esto?",
+        "pt": "Posso experimentar isto?",
+        "vi": "Tôi có thể thử cái này không ạ?",
+        "th": "ลองสวมอันนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_042",
+      "category": "shopping",
+      "translations": {
+        "ru": "Где находится примерочная?",
+        "en": "Where is the fitting room?",
+        "es": "¿Dónde están los probadores?",
+        "pt": "Onde fica o provador?",
+        "vi": "Phòng thử đồ ở đâu ạ?",
+        "th": "ห้องลองเสื้ออยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_043",
+      "category": "shopping",
+      "translations": {
+        "ru": "Есть ли этот товар другого размера?",
+        "en": "Do you have this item in another size?",
+        "es": "¿Tienen este producto en otra talla?",
+        "pt": "Vocês têm este produto em outro tamanho?",
+        "vi": "Sản phẩm này có cỡ khác không ạ?",
+        "th": "สินค้านี้มีขนาดอื่นไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_044",
+      "category": "shopping",
+      "translations": {
+        "ru": "Есть ли эта обувь моего размера?",
+        "en": "Do you have these shoes in my size?",
+        "es": "¿Tienen estos zapatos en mi talla?",
+        "pt": "Vocês têm este calçado no meu tamanho?",
+        "vi": "Đôi giày này có cỡ vừa với tôi không ạ?",
+        "th": "รองเท้ารุ่นนี้มีไซซ์ที่พอดีกับเท้าไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_045",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно сделать скидку на этот товар?",
+        "en": "Could you give me a discount on this item?",
+        "es": "¿Me pueden hacer un descuento en este producto?",
+        "pt": "É possível dar um desconto neste produto?",
+        "vi": "Có thể giảm giá sản phẩm này không ạ?",
+        "th": "ลดราคาสินค้านี้ให้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_046",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне, пожалуйста, вот это.",
+        "en": "I'd like this one, please.",
+        "es": "Quisiera esto, por favor.",
+        "pt": "Quero este aqui, por favor.",
+        "vi": "Cho tôi lấy cái này, làm ơn.",
+        "th": "ขออันนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_047",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна курица.",
+        "en": "I'm looking for chicken.",
+        "es": "Necesito pollo.",
+        "pt": "Preciso de carne de frango.",
+        "vi": "Tôi cần mua thịt gà.",
+        "th": "ต้องการเนื้อไก่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_048",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна говядина.",
+        "en": "I'm looking for beef.",
+        "es": "Necesito carne de res.",
+        "pt": "Preciso de carne bovina.",
+        "vi": "Tôi cần mua thịt bò.",
+        "th": "ต้องการเนื้อวัว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата",
+      "regionalOverrides": {
+        "es-CL": "Necesito carne de vacuno."
+      }
+    },
+    {
+      "id": "phrase_049",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен сыр.",
+        "en": "I'm looking for cheese.",
+        "es": "Necesito queso.",
+        "pt": "Preciso de queijo.",
+        "vi": "Tôi cần mua phô mai.",
+        "th": "ต้องการชีส"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_050",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно мороженое, пожалуйста?",
+        "en": "Could I have an ice cream, please?",
+        "es": "Quisiera un helado, por favor.",
+        "pt": "Um sorvete, por favor.",
+        "vi": "Cho tôi kem được không ạ?",
+        "th": "ขอไอศกรีมหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_051",
+      "category": "shopping",
+      "translations": {
+        "ru": "До которого часа вы работаете? Пожалуйста, покажите время.",
+        "en": "What time do you close? Please show me the time.",
+        "es": "¿Hasta qué hora atienden? Por favor, muéstreme el horario.",
+        "pt": "Até que horas vocês ficam abertos? Por favor, mostre o horário.",
+        "vi": "Cửa hàng mở cửa đến mấy giờ ạ? Xin vui lòng chỉ thời gian trên màn hình.",
+        "th": "ร้านปิดกี่โมง กรุณาแสดงเวลาให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_052",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно получить бумажный чек?",
+        "en": "Can I have a printed receipt?",
+        "es": "¿Me puede dar un recibo impreso?",
+        "pt": "Posso receber o comprovante impresso da compra?",
+        "vi": "Tôi có thể nhận hóa đơn giấy không ạ?",
+        "th": "ขอใบเสร็จแบบกระดาษได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_053",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно указать мой CPF при покупке?",
+        "en": "Can I provide my CPF number for this purchase?",
+        "es": "¿Puedo indicar mi CPF al hacer la compra?",
+        "pt": "Posso informar meu CPF nesta compra?",
+        "vi": "Tôi có thể cung cấp mã số CPF của mình khi mua hàng không ạ?",
+        "th": "ใช้หมายเลข CPF ของฉันในการซื้อครั้งนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата",
+      "region": "pt-BR",
+      "regionContext": "pt-BR"
+    },
+    {
+      "id": "phrase_054",
+      "category": "shopping",
+      "translations": {
+        "ru": "Эта услуга бесплатная или платная?",
+        "en": "Is this service free, or is there a charge?",
+        "es": "¿Este servicio es gratuito o tiene costo?",
+        "pt": "Este serviço é gratuito ou pago?",
+        "vi": "Dịch vụ này miễn phí hay có tính phí ạ?",
+        "th": "บริการนี้ฟรีหรือมีค่าใช้จ่าย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_055",
+      "category": "shopping",
+      "translations": {
+        "ru": "Я хочу вернуть этот товар.",
+        "en": "I'd like to return this item.",
+        "es": "Quiero devolver este producto.",
+        "pt": "Quero devolver este produto.",
+        "vi": "Tôi muốn trả lại sản phẩm này.",
+        "th": "ต้องการคืนสินค้านี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_056",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно обменять этот товар на другой размер?",
+        "en": "Can I exchange this item for a different size?",
+        "es": "¿Puedo cambiar este producto por otra talla?",
+        "pt": "Posso trocar este produto por outro tamanho?",
+        "vi": "Tôi có thể đổi sản phẩm này sang cỡ khác không ạ?",
+        "th": "เปลี่ยนสินค้านี้เป็นขนาดอื่นได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_057",
+      "category": "shopping",
+      "translations": {
+        "ru": "Этот товар оказался неисправным.",
+        "en": "This item is faulty.",
+        "es": "Este producto está defectuoso.",
+        "pt": "Este produto está com defeito.",
+        "vi": "Sản phẩm này bị lỗi.",
+        "th": "สินค้านี้มีปัญหา ใช้งานไม่ได้ตามปกติ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_058",
+      "category": "shopping",
+      "translations": {
+        "ru": "На ценнике указана другая цена.",
+        "en": "The price on the shelf label is different.",
+        "es": "El precio de la etiqueta es diferente.",
+        "pt": "O preço na etiqueta é diferente.",
+        "vi": "Giá ghi trên nhãn khác với giá tính tiền.",
+        "th": "ราคาที่ป้ายสินค้าไม่ตรงกับราคานี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_059",
+      "category": "shopping",
+      "translations": {
+        "ru": "Пожалуйста, проверьте сумму перед оплатой.",
+        "en": "Please check the total before I pay.",
+        "es": "Por favor, compruebe el importe antes de que pague.",
+        "pt": "Por favor, confira o valor antes de eu pagar.",
+        "vi": "Xin vui lòng kiểm tra số tiền trước khi thanh toán.",
+        "th": "กรุณาตรวจสอบยอดเงินก่อนชำระ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_060",
+      "category": "shopping",
+      "translations": {
+        "ru": "Оплата уже произведена. Вот подтверждение.",
+        "en": "I've already paid. Here's the confirmation.",
+        "es": "Ya realicé el pago. Aquí está el comprobante.",
+        "pt": "Já fiz o pagamento. Aqui está o comprovante.",
+        "vi": "Tôi đã thanh toán rồi. Đây là giấy xác nhận thanh toán.",
+        "th": "ชำระเงินแล้ว นี่คือหลักฐานการชำระเงิน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_061",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно вернуть деньги на ту же банковскую карту?",
+        "en": "Can you refund the money to the same bank card?",
+        "es": "¿Pueden devolverme el dinero a la misma tarjeta bancaria?",
+        "pt": "É possível fazer o reembolso no mesmo cartão bancário?",
+        "vi": "Có thể hoàn tiền vào đúng thẻ ngân hàng tôi đã dùng không ạ?",
+        "th": "คืนเงินเข้าบัตรธนาคารใบเดิมได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_062",
+      "category": "shopping",
+      "translations": {
+        "ru": "Пожалуйста, покажите итоговую сумму на терминале.",
+        "en": "Please show me the final amount on the card terminal.",
+        "es": "Por favor, muéstreme el importe total en el terminal de pago.",
+        "pt": "Por favor, mostre o valor total na maquininha de cartão.",
+        "vi": "Xin vui lòng cho tôi xem tổng số tiền trên máy thanh toán thẻ.",
+        "th": "กรุณาแสดงยอดรวมบนเครื่องรูดบัตรให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_063",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна помощь сотрудника магазина.",
+        "en": "I need help from a store employee.",
+        "es": "Necesito ayuda de alguien del personal de la tienda.",
+        "pt": "Preciso da ajuda de um funcionário da loja.",
+        "vi": "Tôi cần nhân viên cửa hàng hỗ trợ.",
+        "th": "ต้องการความช่วยเหลือจากพนักงานร้าน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_064",
+      "category": "shopping",
+      "translations": {
+        "ru": "Оплата не проходит. Можно попробовать ещё раз?",
+        "en": "The payment isn't going through. Can we try again?",
+        "es": "El pago no se procesa. ¿Podemos intentarlo otra vez?",
+        "pt": "O pagamento não está sendo aprovado. Podemos tentar novamente?",
+        "vi": "Giao dịch thanh toán không thực hiện được. Tôi có thể thử lại không ạ?",
+        "th": "ชำระเงินไม่สำเร็จ ลองอีกครั้งได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_065",
+      "category": "shopping",
+      "translations": {
+        "ru": "Деньги списались, но оплата не подтверждена.",
+        "en": "The money was taken from my account, but the payment was not confirmed.",
+        "es": "Me descontaron el dinero, pero el pago no aparece como confirmado.",
+        "pt": "O valor foi debitado, mas o pagamento não foi confirmado.",
+        "vi": "Tiền đã bị trừ khỏi tài khoản nhưng giao dịch chưa được xác nhận.",
+        "th": "เงินถูกหักจากบัญชีแล้ว แต่ยังไม่มีการยืนยันการชำระเงิน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_066",
+      "category": "shopping",
+      "translations": {
+        "ru": "Кажется, деньги списались дважды.",
+        "en": "I think I was charged twice.",
+        "es": "Creo que me cobraron dos veces.",
+        "pt": "Acho que fui cobrado duas vezes.",
+        "vi": "Hình như tôi đã bị trừ tiền hai lần.",
+        "th": "ดูเหมือนว่าเงินถูกหักสองครั้ง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_067",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно получить подтверждение возврата?",
+        "en": "Can I have confirmation of the refund?",
+        "es": "¿Puedo recibir un comprobante de la devolución?",
+        "pt": "Posso receber um comprovante do reembolso?",
+        "vi": "Tôi có thể nhận giấy xác nhận hoàn tiền không ạ?",
+        "th": "ขอหลักฐานยืนยันการคืนเงินได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_068",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен этот товар в количестве, указанном на экране.",
+        "en": "I need this item in the quantity shown on the screen.",
+        "es": "Necesito este producto en la cantidad indicada en la pantalla.",
+        "pt": "Preciso deste produto na quantidade indicada na tela.",
+        "vi": "Tôi muốn mua sản phẩm này với số lượng được hiển thị trên màn hình.",
+        "th": "ต้องการสินค้านี้ตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_069",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен этот товар в количестве килограммов, указанном на экране.",
+        "en": "I need the weight of this item shown on the screen, in kilograms.",
+        "es": "Necesito este producto en la cantidad de kilos indicada en la pantalla.",
+        "pt": "Preciso da quantidade deste produto, em quilos, indicada na tela.",
+        "vi": "Tôi muốn mua sản phẩm này theo số ki-lô-gam được hiển thị trên màn hình.",
+        "th": "ต้องการสินค้านี้ตามน้ำหนักเป็นกิโลกรัมที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_070",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна пачка сигарет. Количество указано на экране.",
+        "en": "I need packs of cigarettes. The quantity is shown on the screen.",
+        "es": "Necesito cajetillas de cigarrillos. La cantidad aparece en la pantalla.",
+        "pt": "Preciso de maços de cigarro. A quantidade está indicada na tela.",
+        "vi": "Tôi cần mua thuốc lá theo bao. Số lượng được hiển thị trên màn hình.",
+        "th": "ต้องการบุหรี่เป็นซองตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата",
+      "regionalOverrides": {
+        "es-CL": "Necesito cajetillas de cigarros. La cantidad aparece en la pantalla."
+      }
+    },
+    {
+      "id": "phrase_071",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно получить квитанцию об оплате?",
+        "en": "Can I have proof of payment?",
+        "es": "¿Me puede dar un comprobante de pago?",
+        "pt": "Posso receber um recibo do pagamento?",
+        "vi": "Tôi có thể nhận biên nhận thanh toán không ạ?",
+        "th": "ขอหลักฐานการชำระเงินได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_072",
+      "category": "shopping",
+      "translations": {
+        "ru": "Пожалуйста, покажите способы оплаты.",
+        "en": "Please show me the available payment methods.",
+        "es": "Por favor, muéstreme las formas de pago disponibles.",
+        "pt": "Por favor, mostre as formas de pagamento.",
+        "vi": "Xin vui lòng cho tôi xem các phương thức thanh toán.",
+        "th": "กรุณาแสดงวิธีการชำระเงินที่รับให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_073",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Меню, пожалуйста.",
+        "en": "The menu, please.",
+        "es": "El menú, por favor.",
+        "pt": "O cardápio, por favor.",
+        "vi": "Cho tôi xem thực đơn với ạ.",
+        "th": "ขอดูเมนูหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_074",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Где находится вход в ресторан?",
+        "en": "Where is the entrance to the restaurant?",
+        "es": "¿Dónde está la entrada del restaurante?",
+        "pt": "Onde fica a entrada do restaurante?",
+        "vi": "Lối vào nhà hàng ở đâu ạ?",
+        "th": "ทางเข้าร้านอาหารอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_075",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно сесть здесь?",
+        "en": "May I sit here?",
+        "es": "¿Puedo sentarme aquí?",
+        "pt": "Posso me sentar aqui?",
+        "vi": "Tôi có thể ngồi ở đây không ạ?",
+        "th": "นั่งตรงนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_076",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Есть свободный столик?",
+        "en": "Is there a table available?",
+        "es": "¿Tienen alguna mesa disponible?",
+        "pt": "Tem alguma mesa disponível?",
+        "vi": "Còn bàn trống không ạ?",
+        "th": "มีโต๊ะว่างไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_077",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Нужно заранее бронировать стол?",
+        "en": "Do I need to reserve a table in advance?",
+        "es": "¿Es necesario reservar mesa con anticipación?",
+        "pt": "É preciso reservar uma mesa com antecedência?",
+        "vi": "Có cần đặt bàn trước không ạ?",
+        "th": "ต้องจองโต๊ะล่วงหน้าไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_078",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно заказать вот это?",
+        "en": "Can I order this, please?",
+        "es": "¿Puedo pedir esto?",
+        "pt": "Posso pedir isto?",
+        "vi": "Tôi có thể gọi món này không ạ?",
+        "th": "สั่งรายการนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_079",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, покажите приблизительную цену основных блюд.",
+        "en": "Please show me the approximate prices of the main dishes.",
+        "es": "Por favor, muéstreme los precios aproximados de los platos principales.",
+        "pt": "Por favor, mostre os preços aproximados dos pratos principais.",
+        "vi": "Xin vui lòng cho tôi xem giá tham khảo của các món chính.",
+        "th": "กรุณาแสดงราคาโดยประมาณของอาหารจานหลักให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_080",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Мне нужна вода в бутылках. Количество указано на экране.",
+        "en": "I would like bottled water. The quantity is shown on the screen.",
+        "es": "Necesito agua embotellada. La cantidad aparece en la pantalla.",
+        "pt": "Preciso de garrafas de água. A quantidade está indicada na tela.",
+        "vi": "Tôi cần nước uống đóng chai. Số lượng được hiển thị trên màn hình.",
+        "th": "ต้องการน้ำดื่มบรรจุขวดตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_081",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Мне нужна питьевая вода в стаканах. Количество указано на экране.",
+        "en": "I would like glasses of drinking water. The quantity is shown on the screen.",
+        "es": "Necesito vasos de agua potable. La cantidad aparece en la pantalla.",
+        "pt": "Preciso de copos de água potável. A quantidade está indicada na tela.",
+        "vi": "Tôi cần nước uống đựng trong ly. Số lượng được hiển thị trên màn hình.",
+        "th": "ต้องการน้ำดื่มใส่แก้วตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_082",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Счёт, пожалуйста.",
+        "en": "The bill, please.",
+        "es": "La cuenta, por favor.",
+        "pt": "A conta, por favor.",
+        "vi": "Cho tôi xin hóa đơn tính tiền ạ.",
+        "th": "ขอคิดเงินด้วย"
+      },
+      "regionalOverrides": {
+        "en-US": "The check, please."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_083",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесите столовые приборы, пожалуйста.",
+        "en": "Could you bring some cutlery, please?",
+        "es": "¿Me trae cubiertos, por favor?",
+        "pt": "Pode trazer talheres, por favor?",
+        "vi": "Xin vui lòng mang cho tôi bộ dụng cụ ăn uống.",
+        "th": "ขอช้อนส้อมและอุปกรณ์รับประทานอาหารหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_084",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесите палочки для еды, пожалуйста.",
+        "en": "Could you bring some chopsticks, please?",
+        "es": "¿Me trae palillos para comer, por favor?",
+        "pt": "Pode trazer hashis, por favor?",
+        "vi": "Xin vui lòng mang cho tôi đũa.",
+        "th": "ขอตะเกียบหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_085",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесите салфетки, пожалуйста.",
+        "en": "Could you bring some napkins, please?",
+        "es": "¿Me trae servilletas, por favor?",
+        "pt": "Pode trazer guardanapos, por favor?",
+        "vi": "Xin vui lòng mang cho tôi khăn giấy ăn.",
+        "th": "ขอกระดาษเช็ดปากหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_086",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно помочь заказать такси? Я покажу адрес.",
+        "en": "Could you help me book a taxi? I will show you the address.",
+        "es": "¿Me puede ayudar a pedir un taxi? Le mostraré la dirección.",
+        "pt": "Pode me ajudar a chamar um táxi? Vou mostrar o endereço.",
+        "vi": "Có thể giúp tôi gọi taxi không ạ? Tôi sẽ cho xem địa chỉ.",
+        "th": "ช่วยเรียกแท็กซี่ให้ได้ไหม จะให้ดูที่อยู่"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_087",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно заказать еду с собой?",
+        "en": "Can I order food to take away?",
+        "es": "¿Puedo pedir comida para llevar?",
+        "pt": "Posso pedir comida para viagem?",
+        "vi": "Tôi có thể gọi món mang đi không ạ?",
+        "th": "สั่งอาหารกลับบ้านได้ไหม"
+      },
+      "regionalOverrides": {
+        "en-US": "Can I order food to go?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_088",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, без сахара.",
+        "en": "No sugar, please.",
+        "es": "Sin azúcar, por favor.",
+        "pt": "Sem açúcar, por favor.",
+        "vi": "Làm ơn đừng cho đường.",
+        "th": "ไม่ใส่น้ำตาล"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_089",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, без льда.",
+        "en": "No ice, please.",
+        "es": "Sin hielo, por favor.",
+        "pt": "Sem gelo, por favor.",
+        "vi": "Làm ơn đừng cho đá.",
+        "th": "ไม่ใส่น้ำแข็ง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_090",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно упаковать оставшуюся еду с собой?",
+        "en": "Could you pack the leftovers for me to take away?",
+        "es": "¿Pueden empacar la comida que sobró para llevar?",
+        "pt": "Pode embalar o que sobrou da comida para eu levar?",
+        "vi": "Có thể gói phần thức ăn còn lại để tôi mang về không ạ?",
+        "th": "ช่วยใส่อาหารที่เหลือลงกล่องเพื่อเอากลับบ้านได้ไหม"
+      },
+      "regionalOverrides": {
+        "en-US": "Could you box up the leftovers for me?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_091",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно ещё раз заказать то же самое?",
+        "en": "Can I order the same thing again?",
+        "es": "¿Puedo pedir otra vez lo mismo?",
+        "pt": "Posso pedir a mesma coisa mais uma vez?",
+        "vi": "Tôi có thể gọi thêm một phần giống món vừa gọi không ạ?",
+        "th": "สั่งแบบเดิมอีกครั้งได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_092",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Заказ ещё не принесли. Пожалуйста, проверьте его статус.",
+        "en": "My order has not arrived yet. Could you check its status, please?",
+        "es": "Todavía no han traído mi pedido. Por favor, compruebe en qué estado está.",
+        "pt": "Meu pedido ainda não chegou. Por favor, verifique o andamento.",
+        "vi": "Tôi vẫn chưa nhận được món đã gọi. Xin vui lòng kiểm tra tình trạng đơn gọi món.",
+        "th": "ยังไม่ได้รับอาหารที่สั่ง กรุณาช่วยตรวจสอบสถานะรายการสั่งอาหาร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_093",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесли не то блюдо, которое было заказано. Пожалуйста, проверьте заказ.",
+        "en": "This is not the dish that was ordered. Could you check the order, please?",
+        "es": "Me trajeron un plato diferente del que pedí. Por favor, revise el pedido.",
+        "pt": "Trouxeram um prato diferente do que eu pedi. Por favor, confira meu pedido.",
+        "vi": "Món được mang ra không đúng món tôi đã gọi. Xin vui lòng kiểm tra lại.",
+        "th": "อาหารที่นำมาเสิร์ฟไม่ตรงกับที่สั่ง กรุณาช่วยตรวจสอบรายการสั่งอาหาร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_094",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно долить горячей воды в чайник?",
+        "en": "Could you add some more hot water to the teapot, please?",
+        "es": "¿Puede añadir más agua caliente a la tetera?",
+        "pt": "Pode colocar mais água quente no bule, por favor?",
+        "vi": "Có thể châm thêm nước nóng vào ấm trà không ạ?",
+        "th": "เติมน้ำร้อนลงในกาน้ำชาได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_095",
+      "category": "restaurant",
+      "translations": {
+        "ru": "У меня аллергия на этот продукт. Пожалуйста, проверьте состав блюда.",
+        "en": "I am allergic to this food item. Please check the ingredients in the dish.",
+        "es": "Tengo alergia a este alimento. Por favor, compruebe los ingredientes del plato.",
+        "pt": "Tenho alergia a este alimento. Por favor, confira os ingredientes do prato.",
+        "vi": "Tôi bị dị ứng với thực phẩm này. Xin vui lòng kiểm tra thành phần món ăn.",
+        "th": "แพ้อาหารชนิดนี้ กรุณาตรวจสอบส่วนผสมของอาหารจานนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_096",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, покажите, какие блюда не содержат этот ингредиент.",
+        "en": "Please show me which dishes do not contain this ingredient.",
+        "es": "Por favor, muéstreme qué platos no contienen este ingrediente.",
+        "pt": "Por favor, mostre quais pratos não contêm este ingrediente.",
+        "vi": "Xin vui lòng chỉ cho tôi những món không có thành phần này.",
+        "th": "กรุณาแสดงรายการอาหารที่ไม่มีส่วนผสมนี้ให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_097",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно получить отдельный счёт?",
+        "en": "Can I have a separate bill?",
+        "es": "¿Me puede traer cuentas separadas?",
+        "pt": "Posso receber uma conta separada?",
+        "vi": "Tôi có thể xin hóa đơn riêng không ạ?",
+        "th": "ขอแยกบิลได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_098",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, принесите дополнительные порции этого блюда. Количество указано на экране.",
+        "en": "Could you bring additional servings of this dish, please? The quantity is shown on the screen.",
+        "es": "Por favor, tráigame más porciones de este plato. La cantidad aparece en la pantalla.",
+        "pt": "Por favor, traga mais porções deste prato. A quantidade está indicada na tela.",
+        "vi": "Xin vui lòng mang thêm món này theo số phần được hiển thị trên màn hình.",
+        "th": "ขออาหารจานนี้เพิ่มตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_099",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно получить питьевую воду?",
+        "en": "Could I have some drinking water, please?",
+        "es": "¿Me puede dar agua potable?",
+        "pt": "Posso receber água potável?",
+        "vi": "Tôi có thể xin một ít nước uống không ạ?",
+        "th": "ขอน้ำดื่มได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_100",
+      "category": "transport",
+      "translations": {
+        "ru": "Где находится ближайшая станция метро?",
+        "en": "Where is the nearest metro station?",
+        "es": "¿Dónde está la estación de metro más cercana?",
+        "pt": "Onde fica a estação de metrô mais próxima?",
+        "vi": "Ga tàu điện ngầm gần nhất ở đâu ạ?",
+        "th": "สถานีรถไฟฟ้าใต้ดินที่ใกล้ที่สุดอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_101",
+      "category": "transport",
+      "translations": {
+        "ru": "Где купить билет на транспорт?",
+        "en": "Where can I buy a ticket for public transport?",
+        "es": "¿Dónde puedo comprar un pasaje para el transporte público?",
+        "pt": "Onde posso comprar uma passagem para o transporte público?",
+        "vi": "Tôi có thể mua vé phương tiện công cộng ở đâu ạ?",
+        "th": "ซื้อตั๋วโดยสารได้ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_102",
+      "category": "transport",
+      "translations": {
+        "ru": "Мне нужны билеты. Количество указано на экране.",
+        "en": "I need tickets. The quantity is shown on the screen.",
+        "es": "Necesito pasajes. La cantidad aparece en la pantalla.",
+        "pt": "Preciso de passagens. A quantidade está indicada na tela.",
+        "vi": "Tôi cần mua vé. Số lượng vé được hiển thị trên màn hình.",
+        "th": "ต้องการตั๋วโดยสารตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_103",
+      "category": "transport",
+      "translations": {
+        "ru": "Мне нужна транспортная карта.",
+        "en": "I need a public transport card.",
+        "es": "Necesito una tarjeta de transporte público.",
+        "pt": "Preciso de um cartão de transporte público.",
+        "vi": "Tôi cần một thẻ đi phương tiện công cộng.",
+        "th": "ต้องการบัตรโดยสารสำหรับขนส่งสาธารณะ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_104",
+      "category": "transport",
+      "translations": {
+        "ru": "Хочу пополнить транспортную карту на сумму, указанную на экране.",
+        "en": "I would like to top up my transport card with the amount shown on the screen.",
+        "es": "Quiero recargar mi tarjeta de transporte con el monto que aparece en la pantalla.",
+        "pt": "Quero colocar crédito no meu cartão de transporte no valor indicado na tela.",
+        "vi": "Tôi muốn nạp vào thẻ đi phương tiện công cộng số tiền được hiển thị trên màn hình.",
+        "th": "ต้องการเติมเงินในบัตรโดยสารตามจำนวนเงินที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_105",
+      "category": "transport",
+      "translations": {
+        "ru": "Этот поезд идёт до станции, которую я показываю?",
+        "en": "Does this train go to the station I'm pointing to?",
+        "es": "¿Este tren llega a la estación que le estoy mostrando?",
+        "pt": "Este trem vai até a estação que estou mostrando?",
+        "vi": "Tàu này có đến ga mà tôi đang chỉ không ạ?",
+        "th": "รถไฟขบวนนี้ไปถึงสถานีที่กำลังชี้ให้ดูไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_106",
+      "category": "transport",
+      "translations": {
+        "ru": "До какой конечной станции идёт этот поезд? Пожалуйста, покажите на карте.",
+        "en": "What is this train's final destination? Please show me on the map.",
+        "es": "¿Cuál es la última estación de este tren? Por favor, muéstremela en el mapa.",
+        "pt": "Qual é a estação terminal deste trem? Por favor, mostre no mapa.",
+        "vi": "Ga cuối của tuyến tàu này là ga nào? Xin vui lòng chỉ cho tôi trên bản đồ.",
+        "th": "รถไฟขบวนนี้ไปสุดสายที่สถานีไหน กรุณาชี้ให้ดูบนแผนที่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_107",
+      "category": "transport",
+      "translations": {
+        "ru": "Где находится выход со станции?",
+        "en": "Where is the station exit?",
+        "es": "¿Dónde está la salida de la estación?",
+        "pt": "Onde fica a saída da estação?",
+        "vi": "Lối ra khỏi ga ở đâu ạ?",
+        "th": "ทางออกจากสถานีอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_108",
+      "category": "transport",
+      "translations": {
+        "ru": "В приложении такси выбрана оплата банковской картой.",
+        "en": "I've selected card payment in the taxi app.",
+        "es": "En la aplicación de taxis seleccioné el pago con tarjeta bancaria.",
+        "pt": "Selecionei o pagamento com cartão bancário no aplicativo de táxi.",
+        "vi": "Tôi đã chọn thanh toán bằng thẻ ngân hàng trong ứng dụng gọi xe.",
+        "th": "ในแอปเรียกรถแท็กซี่ได้เลือกชำระเงินด้วยบัตรธนาคารไว้แล้ว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_109",
+      "category": "transport",
+      "translations": {
+        "ru": "У нас много багажа. Он поместится в багажнике?",
+        "en": "We have a lot of luggage. Will it fit in the trunk?",
+        "es": "Llevamos mucho equipaje. ¿Cabe todo en el maletero?",
+        "pt": "Estamos com muita bagagem. Cabe tudo no porta-malas?",
+        "vi": "Chúng tôi có nhiều hành lý. Tất cả có để vừa cốp xe không ạ?",
+        "th": "มีสัมภาระเยอะ ทั้งหมดจะใส่ท้ายรถได้ไหม"
+      },
+      "regionalOverrides": {
+        "en-GB": "We have a lot of luggage. Will it fit in the boot?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_110",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, откройте багажник.",
+        "en": "Please open the trunk.",
+        "es": "Por favor, abra el maletero.",
+        "pt": "Por favor, abra o porta-malas.",
+        "vi": "Xin vui lòng mở cốp xe.",
+        "th": "กรุณาเปิดท้ายรถให้หน่อย"
+      },
+      "regionalOverrides": {
+        "en-GB": "Please open the boot."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_111",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, остановите здесь, если это разрешено.",
+        "en": "Please stop here if it's allowed.",
+        "es": "Por favor, deténgase aquí, si está permitido.",
+        "pt": "Por favor, pare aqui, se for permitido.",
+        "vi": "Xin vui lòng dừng ở đây nếu được phép.",
+        "th": "กรุณาจอดตรงนี้ถ้าจอดได้ตามกฎจราจร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_112",
+      "category": "transport",
+      "translations": {
+        "ru": "Я опаздываю. Пожалуйста, выберите самый быстрый маршрут с соблюдением правил движения.",
+        "en": "I'm running late. Please take the fastest route while obeying traffic laws.",
+        "es": "Voy con retraso. Por favor, tome la ruta más rápida respetando las normas de tránsito.",
+        "pt": "Estou me atrasando. Por favor, siga o trajeto mais rápido, respeitando as leis de trânsito.",
+        "vi": "Tôi sắp bị muộn. Xin vui lòng chọn tuyến đường nhanh nhất và tuân thủ luật giao thông.",
+        "th": "กำลังจะสาย กรุณาใช้เส้นทางที่เร็วที่สุดโดยปฏิบัติตามกฎจราจร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_113",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно арендовать самокат?",
+        "en": "Can I rent an electric scooter?",
+        "es": "¿Puedo alquilar un scooter eléctrico?",
+        "pt": "É possível alugar um patinete elétrico?",
+        "vi": "Tôi có thể thuê xe scooter điện không ạ?",
+        "th": "เช่าสกู๊ตเตอร์ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_114",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно арендовать автомобиль?",
+        "en": "Can I rent a car?",
+        "es": "¿Puedo alquilar un automóvil?",
+        "pt": "É possível alugar um carro?",
+        "vi": "Tôi có thể thuê ô tô không ạ?",
+        "th": "เช่ารถยนต์ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_115",
+      "category": "transport",
+      "translations": {
+        "ru": "Мне нужно добраться до центра города. Пожалуйста, покажите маршрут.",
+        "en": "I need to get to the city centre. Please show me the route.",
+        "es": "Necesito llegar al centro de la ciudad. Por favor, muéstreme la ruta.",
+        "pt": "Preciso chegar ao centro da cidade. Por favor, mostre o trajeto.",
+        "vi": "Tôi cần đến trung tâm thành phố. Xin vui lòng chỉ đường cho tôi.",
+        "th": "ต้องการไปใจกลางเมือง กรุณาแสดงเส้นทางให้ดู"
+      },
+      "regionalOverrides": {
+        "en-US": "I need to get downtown. Please show me the route."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_116",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, покажите на карте, где нужно выйти.",
+        "en": "Please show me on the map where I should get off.",
+        "es": "Por favor, muéstreme en el mapa dónde debo bajarme.",
+        "pt": "Por favor, mostre no mapa onde preciso descer.",
+        "vi": "Xin vui lòng chỉ trên bản đồ chỗ tôi cần xuống.",
+        "th": "กรุณาชี้บนแผนที่ว่าต้องลงตรงไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_117",
+      "category": "transport",
+      "translations": {
+        "ru": "Это нужная мне остановка?",
+        "en": "Is this the stop I need?",
+        "es": "¿Esta es la parada en la que tengo que bajarme?",
+        "pt": "Este é o ponto em que preciso descer?",
+        "vi": "Đây có phải là điểm dừng tôi cần xuống không ạ?",
+        "th": "นี่คือป้ายที่ต้องลงใช่ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_118",
+      "category": "transport",
+      "translations": {
+        "ru": "Сколько стоит проезд?",
+        "en": "How much is the fare?",
+        "es": "¿Cuánto cuesta el pasaje?",
+        "pt": "Quanto custa a passagem?",
+        "vi": "Giá vé đi lại là bao nhiêu ạ?",
+        "th": "ค่าโดยสารเท่าไหร่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_119",
+      "category": "transport",
+      "translations": {
+        "ru": "Этот транспорт идёт в направлении, указанном на моей карте?",
+        "en": "Is this vehicle going in the direction shown on my map?",
+        "es": "¿Este transporte va en la dirección que aparece en mi mapa?",
+        "pt": "Este transporte segue na direção indicada no meu mapa?",
+        "vi": "Phương tiện này có đi theo hướng tôi chỉ trên bản đồ không ạ?",
+        "th": "รถคันนี้ไปในทิศทางที่แสดงบนแผนที่ของฉันไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_120",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно доехать до указанного места без пересадки?",
+        "en": "Can I get to the place shown without changing vehicles?",
+        "es": "¿Puedo llegar al lugar indicado sin hacer transbordos?",
+        "pt": "Consigo chegar ao lugar indicado sem fazer baldeação?",
+        "vi": "Tôi có thể đến địa điểm được chỉ mà không cần chuyển tuyến không ạ?",
+        "th": "ไปถึงจุดที่ระบุไว้โดยไม่ต้องเปลี่ยนสายได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_121",
+      "category": "transport",
+      "translations": {
+        "ru": "На какой остановке мне выйти? Пожалуйста, покажите её на экране.",
+        "en": "Which stop should I get off at? Please show me on the screen.",
+        "es": "¿En qué parada debo bajarme? Por favor, muéstremela en la pantalla.",
+        "pt": "Em qual parada preciso descer? Por favor, mostre na tela.",
+        "vi": "Tôi cần xuống ở trạm nào? Xin vui lòng chỉ trạm đó trên màn hình.",
+        "th": "ต้องลงที่ป้ายไหน กรุณาแสดงให้ดูบนหน้าจอ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_122",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, сообщите мне, когда нужно выходить.",
+        "en": "Please let me know when it's time for me to get off.",
+        "es": "Por favor, avíseme cuándo debo bajarme.",
+        "pt": "Por favor, me avise quando eu tiver que descer.",
+        "vi": "Xin vui lòng báo cho tôi khi đến lúc phải xuống.",
+        "th": "กรุณาบอกด้วยเมื่อถึงจุดที่ต้องลง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_123",
+      "category": "transport",
+      "translations": {
+        "ru": "Здесь нужно пересесть на другой поезд?",
+        "en": "Do I need to change to another train here?",
+        "es": "¿Tengo que cambiar de tren aquí?",
+        "pt": "Preciso trocar de trem aqui?",
+        "vi": "Tôi có cần chuyển sang tàu khác ở đây không ạ?",
+        "th": "ต้องเปลี่ยนไปขึ้นรถไฟอีกขบวนที่นี่ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_124",
+      "category": "transport",
+      "translations": {
+        "ru": "Этой транспортной картой можно оплатить поездку?",
+        "en": "Can I pay for this journey with this transport card?",
+        "es": "¿Puedo pagar el viaje con esta tarjeta de transporte?",
+        "pt": "Posso pagar a viagem com este cartão de transporte?",
+        "vi": "Tôi có thể dùng thẻ đi lại này để thanh toán chuyến đi không ạ?",
+        "th": "ใช้บัตรโดยสารใบนี้จ่ายค่าเดินทางได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_125",
+      "category": "transport",
+      "translations": {
+        "ru": "На транспортной карте недостаточно средств. Пожалуйста, покажите, где её пополнить.",
+        "en": "There isn't enough credit on my transport card. Please show me where I can top it up.",
+        "es": "Mi tarjeta de transporte no tiene saldo suficiente. Por favor, muéstreme dónde puedo recargarla.",
+        "pt": "Meu cartão de transporte está sem saldo suficiente. Por favor, mostre onde posso recarregá-lo.",
+        "vi": "Thẻ đi lại của tôi không đủ tiền. Xin vui lòng chỉ cho tôi nơi có thể nạp thêm tiền.",
+        "th": "เงินในบัตรโดยสารไม่พอ กรุณาชี้ให้ดูว่าเติมเงินได้ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_126",
+      "category": "transport",
+      "translations": {
+        "ru": "Нужно добраться по этому адресу. Пожалуйста, посмотрите на карту.",
+        "en": "I need to get to this address. Please look at the map.",
+        "es": "Necesito llegar a esta dirección. Por favor, mire el mapa.",
+        "pt": "Preciso chegar a este endereço. Por favor, olhe o mapa.",
+        "vi": "Tôi cần đến địa chỉ này. Xin vui lòng xem bản đồ.",
+        "th": "ต้องการไปตามที่อยู่นี้ กรุณาดูแผนที่ให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_127",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, высадите меня у главного входа.",
+        "en": "Please drop me off at the main entrance.",
+        "es": "Por favor, déjeme en la entrada principal.",
+        "pt": "Por favor, me deixe na entrada principal.",
+        "vi": "Xin vui lòng cho tôi xuống ở lối vào chính.",
+        "th": "กรุณาส่งลงที่ทางเข้าหลัก"
+      },
+      "regionalOverrides": {
+        "en-US": "Please drop me off at the main entrance."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_128",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, откройте дверь. Мне нужно выйти.",
+        "en": "Please open the door. I need to get out.",
+        "es": "Por favor, abra la puerta. Necesito salir.",
+        "pt": "Por favor, abra a porta. Preciso sair.",
+        "vi": "Xin vui lòng mở cửa. Tôi cần xuống xe.",
+        "th": "กรุณาเปิดประตูให้หน่อย ต้องการลงจากรถ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_129",
+      "category": "transport",
+      "translations": {
+        "ru": "В транспорте осталась моя вещь. Куда обратиться? Пожалуйста, покажите.",
+        "en": "I left something on public transport. Where should I go? Please show me.",
+        "es": "Dejé una pertenencia en el transporte. ¿A dónde debo acudir? Por favor, indíqueme dónde.",
+        "pt": "Esqueci um objeto no transporte. A quem devo recorrer? Por favor, mostre onde.",
+        "vi": "Tôi để quên một món đồ trên phương tiện công cộng. Tôi cần liên hệ với ai? Xin vui lòng chỉ cho tôi.",
+        "th": "ลืมของไว้บนรถโดยสาร ต้องติดต่อที่ไหน กรุณาชี้ให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_130",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно показать стоимость поездки до её начала?",
+        "en": "Can you show me the fare before the journey starts?",
+        "es": "¿Me puede mostrar cuánto costará el viaje antes de comenzar?",
+        "pt": "É possível saber o preço da viagem antes de começar?",
+        "vi": "Tôi có thể xem giá chuyến đi trước khi khởi hành không ạ?",
+        "th": "ขอดูค่าโดยสารก่อนเริ่มเดินทางได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_131",
+      "category": "airport",
+      "translations": {
+        "ru": "Где находится стойка регистрации?",
+        "en": "Where is the check-in counter?",
+        "es": "¿Dónde está el mostrador de check-in?",
+        "pt": "Onde fica o balcão de check-in?",
+        "vi": "Quầy làm thủ tục chuyến bay ở đâu ạ?",
+        "th": "เคาน์เตอร์เช็กอินอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_132",
+      "category": "airport",
+      "translations": {
+        "ru": "Онлайн-регистрация на рейс уже пройдена.",
+        "en": "I've already checked in online for my flight.",
+        "es": "Ya hice el check-in en línea para mi vuelo.",
+        "pt": "Já fiz o check-in on-line para o meu voo.",
+        "vi": "Tôi đã làm thủ tục trực tuyến cho chuyến bay rồi.",
+        "th": "เช็กอินเที่ยวบินทางออนไลน์เรียบร้อยแล้ว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_133",
+      "category": "airport",
+      "translations": {
+        "ru": "Как пройти к выходу на посадку?",
+        "en": "How do I get to the boarding gate?",
+        "es": "¿Cómo llego a la puerta de embarque?",
+        "pt": "Como chego ao portão de embarque?",
+        "vi": "Tôi đi đến cửa lên máy bay bằng đường nào ạ?",
+        "th": "จะไปประตูขึ้นเครื่องได้อย่างไร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_134",
+      "category": "airport",
+      "translations": {
+        "ru": "Это мой выход на посадку? Вот билет.",
+        "en": "Is this my boarding gate? Here's my ticket.",
+        "es": "¿Esta es mi puerta de embarque? Aquí está mi boleto.",
+        "pt": "Este é o portão de embarque do meu voo? Aqui está minha passagem.",
+        "vi": "Đây có phải là cửa lên máy bay của tôi không ạ? Đây là vé của tôi.",
+        "th": "นี่ใช่ประตูขึ้นเครื่องของเที่ยวบินนี้ไหม นี่คือบัตรโดยสาร"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_135",
+      "category": "airport",
+      "translations": {
+        "ru": "Где получить багаж?",
+        "en": "Where can I collect my baggage?",
+        "es": "¿Dónde recojo mi equipaje?",
+        "pt": "Onde retiro minha bagagem?",
+        "vi": "Tôi nhận hành lý ở đâu ạ?",
+        "th": "รับกระเป๋าสัมภาระได้ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_136",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно провезти это в ручной клади?",
+        "en": "Can I take this in my carry-on baggage?",
+        "es": "¿Puedo llevar esto en el equipaje de mano?",
+        "pt": "Posso levar isto na bagagem de mão?",
+        "vi": "Tôi có được mang món này trong hành lý xách tay không ạ?",
+        "th": "นำสิ่งนี้ใส่กระเป๋าถือขึ้นเครื่องได้ไหม"
+      },
+      "regionalOverrides": {
+        "en-GB": "Can I take this in my hand luggage?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_137",
+      "category": "airport",
+      "translations": {
+        "ru": "Где сдать регистрируемый багаж?",
+        "en": "Where can I drop off my checked baggage?",
+        "es": "¿Dónde puedo entregar mi equipaje facturado?",
+        "pt": "Onde posso despachar minha bagagem?",
+        "vi": "Tôi gửi hành lý ký gửi ở đâu ạ?",
+        "th": "ต้องไปโหลดกระเป๋าสัมภาระที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты",
+      "regionalOverrides": {
+        "es-CL": "¿Dónde puedo entregar mi equipaje de bodega?"
+      }
+    },
+    {
+      "id": "phrase_138",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно поднять шторку иллюминатора?",
+        "en": "Could you raise the window shade, please?",
+        "es": "¿Puedo subir la persiana de la ventanilla?",
+        "pt": "Posso levantar a persiana da janela do avião?",
+        "vi": "Tôi có thể kéo tấm che cửa sổ máy bay lên không ạ?",
+        "th": "ขอเลื่อนม่านบังแสงหน้าต่างเครื่องบินขึ้นได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_139",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно опустить шторку иллюминатора?",
+        "en": "Could you lower the window shade, please?",
+        "es": "¿Puedo bajar la persiana de la ventanilla?",
+        "pt": "Posso abaixar a persiana da janela do avião?",
+        "vi": "Tôi có thể kéo tấm che cửa sổ máy bay xuống không ạ?",
+        "th": "ขอเลื่อนม่านบังแสงหน้าต่างเครื่องบินลงได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_140",
+      "category": "airport",
+      "translations": {
+        "ru": "Здесь тесно. Можно пересесть на свободное место, где больше пространства?",
+        "en": "There's not much room here. Could I move to an available seat with more space?",
+        "es": "Aquí hay poco espacio. ¿Puedo cambiarme a un asiento libre con más espacio?",
+        "pt": "Está apertado aqui. Posso mudar para um assento livre com mais espaço?",
+        "vi": "Chỗ này hơi chật. Tôi có thể chuyển sang ghế trống có nhiều chỗ hơn không ạ?",
+        "th": "ตรงนี้คับแคบ ขอเปลี่ยนไปนั่งที่ว่างที่มีพื้นที่มากกว่านี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_141",
+      "category": "airport",
+      "translations": {
+        "ru": "У меня пересадка на другой рейс.",
+        "en": "I have a connecting flight.",
+        "es": "Tengo una conexión con otro vuelo.",
+        "pt": "Tenho uma conexão para outro voo.",
+        "vi": "Tôi có chuyến bay nối chuyến.",
+        "th": "ต้องต่อเครื่องไปอีกเที่ยวบินหนึ่ง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_142",
+      "category": "airport",
+      "translations": {
+        "ru": "Где находится зона международных пересадок?",
+        "en": "Where is the international transfer area?",
+        "es": "¿Dónde está la zona de conexiones internacionales?",
+        "pt": "Onde fica a área de conexões internacionais?",
+        "vi": "Khu vực quá cảnh quốc tế ở đâu ạ?",
+        "th": "เขตเปลี่ยนเครื่องระหว่างประเทศอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_143",
+      "category": "airport",
+      "translations": {
+        "ru": "Цель поездки — туризм.",
+        "en": "The purpose of my trip is tourism.",
+        "es": "El motivo de mi viaje es turismo.",
+        "pt": "O motivo da viagem é turismo.",
+        "vi": "Mục đích chuyến đi của tôi là du lịch.",
+        "th": "จุดประสงค์ของการเดินทางคือการท่องเที่ยว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_144",
+      "category": "airport",
+      "translations": {
+        "ru": "Наши паспорта находятся в месте проживания.",
+        "en": "Our passports are at our accommodation.",
+        "es": "Nuestros pasaportes están en nuestro alojamiento.",
+        "pt": "Nossos passaportes estão no lugar onde estamos hospedados.",
+        "vi": "Hộ chiếu của chúng tôi đang để ở nơi lưu trú.",
+        "th": "หนังสือเดินทางของเราเก็บไว้ที่ที่พัก"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_147",
+      "category": "airport",
+      "translations": {
+        "ru": "Пожалуйста, покажите мой рейс на информационном табло.",
+        "en": "Please show me my flight on the information board.",
+        "es": "Por favor, muéstreme mi vuelo en la pantalla de información.",
+        "pt": "Por favor, mostre meu voo no painel de informações.",
+        "vi": "Xin vui lòng chỉ chuyến bay của tôi trên bảng thông tin chuyến bay.",
+        "th": "กรุณาชี้เที่ยวบินของฉันบนจอข้อมูลเที่ยวบินให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_148",
+      "category": "airport",
+      "translations": {
+        "ru": "Где проходит паспортный контроль?",
+        "en": "Where is passport control?",
+        "es": "¿Dónde se hace el control de pasaportes?",
+        "pt": "Onde fica o controle de passaportes?",
+        "vi": "Khu vực kiểm soát hộ chiếu ở đâu ạ?",
+        "th": "จุดตรวจหนังสือเดินทางอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_149",
+      "category": "airport",
+      "translations": {
+        "ru": "Мой багаж не прибыл. Куда обратиться?",
+        "en": "My baggage hasn't arrived. Where should I go?",
+        "es": "Mi equipaje no llegó. ¿A dónde debo acudir?",
+        "pt": "Minha bagagem não chegou. A quem devo recorrer?",
+        "vi": "Hành lý của tôi chưa đến. Tôi cần liên hệ với ai ạ?",
+        "th": "กระเป๋าสัมภาระยังมาไม่ถึง ต้องติดต่อที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_150",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно получить письменное подтверждение задержки багажа?",
+        "en": "Can I get written confirmation of the baggage delay?",
+        "es": "¿Puedo obtener una constancia por escrito del retraso de mi equipaje?",
+        "pt": "Posso receber uma confirmação por escrito do atraso da bagagem?",
+        "vi": "Tôi có thể nhận giấy xác nhận việc hành lý bị chậm không ạ?",
+        "th": "ขอเอกสารยืนยันว่ากระเป๋าสัมภาระล่าช้าเป็นลายลักษณ์อักษรได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_151",
+      "category": "airport",
+      "translations": {
+        "ru": "Мне нужна помощь с пересадкой на следующий рейс.",
+        "en": "I need help making my connection to the next flight.",
+        "es": "Necesito ayuda para tomar mi vuelo de conexión.",
+        "pt": "Preciso de ajuda para fazer a conexão para o próximo voo.",
+        "vi": "Tôi cần được hỗ trợ để nối chuyến bay tiếp theo.",
+        "th": "ต้องการความช่วยเหลือในการต่อเที่ยวบินถัดไป"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_152",
+      "category": "airport",
+      "translations": {
+        "ru": "Мой рейс задерживается? Пожалуйста, покажите информацию на табло.",
+        "en": "Is my flight delayed? Please show me the information on the board.",
+        "es": "¿Mi vuelo está retrasado? Por favor, muéstreme la información en la pantalla.",
+        "pt": "Meu voo está atrasado? Por favor, mostre a informação no painel.",
+        "vi": "Chuyến bay của tôi có bị hoãn không ạ? Xin vui lòng chỉ thông tin trên bảng hiển thị.",
+        "th": "เที่ยวบินของฉันล่าช้าใช่ไหม กรุณาชี้ข้อมูลบนจอให้ดู"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_153",
+      "category": "accommodation",
+      "translations": {
+        "ru": "У нас есть бронирование через Booking.com.",
+        "en": "We have a booking through Booking.com.",
+        "es": "Tenemos una reserva a través de Booking.com.",
+        "pt": "Temos uma reserva pelo Booking.com.",
+        "vi": "Chúng tôi có đặt phòng qua Booking.com.",
+        "th": "เราจองที่พักผ่าน Booking.com ไว้แล้ว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_154",
+      "category": "accommodation",
+      "translations": {
+        "ru": "У нас есть бронирование через Airbnb.",
+        "en": "We have a booking through Airbnb.",
+        "es": "Tenemos una reserva a través de Airbnb.",
+        "pt": "Temos uma reserva pelo Airbnb.",
+        "vi": "Chúng tôi có đặt chỗ qua Airbnb.",
+        "th": "เราจองที่พักผ่าน Airbnb ไว้แล้ว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_155",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Нам нужно проживание на количество дней, указанное на экране.",
+        "en": "We need accommodation for the number of days shown on the screen.",
+        "es": "Necesitamos alojamiento por la cantidad de días que aparece en la pantalla.",
+        "pt": "Precisamos de hospedagem pelo número de dias indicado na tela.",
+        "vi": "Chúng tôi cần chỗ ở trong số ngày được hiển thị trên màn hình.",
+        "th": "ต้องการเข้าพักตามจำนวนวันที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_156",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно продлить проживание на количество дней, указанное на экране?",
+        "en": "Can we extend our stay by the number of days shown on the screen?",
+        "es": "¿Podemos extender nuestra estadía por la cantidad de días que aparece en la pantalla?",
+        "pt": "É possível prolongar a nossa estadia pelo número de dias indicado na tela?",
+        "vi": "Có thể gia hạn thời gian lưu trú thêm số ngày được hiển thị trên màn hình không ạ?",
+        "th": "ขอขยายเวลาพักตามจำนวนวันที่แสดงบนหน้าจอได้ไหม"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_157",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Мне нужен номер с окном, которое можно открыть.",
+        "en": "I need a room with a window that opens.",
+        "es": "Necesito una habitación con una ventana que se pueda abrir.",
+        "pt": "Preciso de um quarto com uma janela que possa ser aberta.",
+        "vi": "Tôi cần một phòng có cửa sổ mở được.",
+        "th": "ต้องการห้องพักที่สามารถเปิดหน้าต่างได้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_158",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Условия проживания не соответствуют описанию. Можно поменять номер?",
+        "en": "The accommodation doesn't match the description. Can we change rooms?",
+        "es": "Las condiciones del alojamiento no coinciden con la descripción. ¿Podemos cambiar de habitación?",
+        "pt": "As condições da hospedagem não correspondem à descrição. Podemos trocar de quarto?",
+        "vi": "Điều kiện lưu trú không đúng như mô tả. Tôi có thể đổi phòng không ạ?",
+        "th": "สภาพที่พักไม่ตรงตามคำอธิบาย ขอเปลี่ยนห้องได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_159",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В здании есть тренажёрный зал?",
+        "en": "Is there a gym in the building?",
+        "es": "¿Hay gimnasio en el edificio?",
+        "pt": "Há academia no prédio?",
+        "vi": "Trong tòa nhà có phòng tập thể dục không ạ?",
+        "th": "ในอาคารมีห้องออกกำลังกายไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_160",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Посещение тренажёрного зала включено в стоимость?",
+        "en": "Is gym access included in the price?",
+        "es": "¿El uso del gimnasio está incluido en el precio?",
+        "pt": "O acesso à academia está incluído no preço?",
+        "vi": "Phí sử dụng phòng tập thể dục đã bao gồm trong giá chưa ạ?",
+        "th": "ใช้ห้องออกกำลังกายได้โดยไม่เสียค่าใช้จ่ายเพิ่มเติมใช่ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_161",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В здании есть прачечная?",
+        "en": "Is there a laundry room in the building?",
+        "es": "¿Hay lavandería en el edificio?",
+        "pt": "Há lavanderia no prédio?",
+        "vi": "Trong tòa nhà có phòng giặt đồ không ạ?",
+        "th": "ในอาคารมีห้องซักผ้าไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_162",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Как пользоваться прачечной? Пожалуйста, покажите.",
+        "en": "How do I use the laundry facilities? Please show me.",
+        "es": "¿Cómo se usa la lavandería? Por favor, muéstreme.",
+        "pt": "Como se usa a lavanderia? Por favor, me mostre.",
+        "vi": "Xin vui lòng chỉ cho tôi cách sử dụng phòng giặt đồ.",
+        "th": "กรุณาสาธิตวิธีใช้ห้องซักผ้าให้ดูหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_163",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере не работает Wi-Fi. Пожалуйста, помогите восстановить подключение.",
+        "en": "The Wi-Fi in the room isn't working. Please help restore the connection.",
+        "es": "El Wi-Fi de la habitación no funciona. Por favor, ayúdeme a restablecer la conexión.",
+        "pt": "O Wi-Fi do quarto não está funcionando. Por favor, me ajude a restabelecer a conexão.",
+        "vi": "Wi-Fi trong phòng không hoạt động. Xin vui lòng giúp tôi khôi phục kết nối.",
+        "th": "Wi-Fi ในห้องพักใช้ไม่ได้ กรุณาช่วยแก้ปัญหาการเชื่อมต่อ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_164",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере нет горячей воды.",
+        "en": "There's no hot water in the room.",
+        "es": "No hay agua caliente en la habitación.",
+        "pt": "Não há água quente no quarto.",
+        "vi": "Trong phòng không có nước nóng.",
+        "th": "ในห้องพักไม่มีน้ำร้อน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_165",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере недостаточно полотенец. Можно принести дополнительные?",
+        "en": "There aren't enough towels in the room. Could you bring some more?",
+        "es": "No hay suficientes toallas en la habitación. ¿Nos pueden traer más?",
+        "pt": "Não há toalhas suficientes no quarto. Poderiam trazer mais algumas?",
+        "vi": "Trong phòng không đủ khăn tắm. Có thể mang thêm khăn cho chúng tôi không ạ?",
+        "th": "ผ้าเช็ดตัวในห้องไม่เพียงพอ ขอเพิ่มได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_166",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Где нужно выбрасывать мусор?",
+        "en": "Where should we dispose of the rubbish?",
+        "es": "¿Dónde se debe tirar la basura?",
+        "pt": "Onde devemos jogar o lixo?",
+        "vi": "Tôi phải bỏ rác ở đâu ạ?",
+        "th": "ต้องนำขยะไปทิ้งที่ไหน"
+      },
+      "regionalOverrides": {
+        "en-US": "Where should we put the trash?",
+        "es-CL": "¿Dónde se bota la basura?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_167",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно оставить багаж после выезда?",
+        "en": "Can we leave our luggage here after check-out?",
+        "es": "¿Podemos dejar el equipaje después de hacer el check-out?",
+        "pt": "Podemos deixar as malas aqui depois do check-out?",
+        "vi": "Tôi có thể gửi hành lý lại sau khi trả phòng không ạ?",
+        "th": "ฝากสัมภาระไว้หลังเช็กเอาต์ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_168",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Как получить доступ в здание?",
+        "en": "How do we get into the building?",
+        "es": "¿Cómo puedo entrar al edificio?",
+        "pt": "Como faço para entrar no prédio?",
+        "vi": "Tôi vào tòa nhà bằng cách nào ạ?",
+        "th": "ต้องทำอย่างไรจึงจะเข้าอาคารได้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_169",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, напишите код доступа.",
+        "en": "Please write down the access code.",
+        "es": "Por favor, escriba el código de acceso.",
+        "pt": "Por favor, escreva o código de acesso.",
+        "vi": "Xin vui lòng viết mã ra vào cho tôi.",
+        "th": "กรุณาพิมพ์รหัสเข้าประตูให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_170",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В стоимость включены коммунальные услуги?",
+        "en": "Are utilities included in the price?",
+        "es": "¿Los servicios básicos están incluidos en el precio?",
+        "pt": "As contas de água, luz e outros serviços estão incluídas no preço?",
+        "vi": "Giá đã bao gồm các chi phí điện, nước và dịch vụ tiện ích chưa ạ?",
+        "th": "ค่าสาธารณูปโภครวมอยู่ในราคานี้แล้วหรือยัง"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда",
+      "regionalOverrides": {
+        "es-CL": "¿Los gastos de servicios básicos están incluidos en el precio?"
+      }
+    },
+    {
+      "id": "phrase_171",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Здесь разрешено проживание с животными?",
+        "en": "Are pets allowed here?",
+        "es": "¿Se permiten mascotas en este alojamiento?",
+        "pt": "É permitido ficar aqui com animais de estimação?",
+        "vi": "Ở đây có cho phép mang thú cưng đến ở không ạ?",
+        "th": "อนุญาตให้พักพร้อมสัตว์เลี้ยงไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_172",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить подтверждение бронирования?",
+        "en": "Can we get confirmation of our booking?",
+        "es": "¿Puedo recibir una confirmación de la reserva?",
+        "pt": "Posso receber a confirmação da reserva?",
+        "vi": "Tôi có thể nhận giấy xác nhận đặt chỗ không ạ?",
+        "th": "ขอหลักฐานยืนยันการจองได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_173",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, откройте дверь.",
+        "en": "Please open the door.",
+        "es": "Por favor, abra la puerta.",
+        "pt": "Por favor, abra a porta.",
+        "vi": "Xin vui lòng mở cửa giúp tôi.",
+        "th": "กรุณาเปิดประตูให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_174",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Во сколько нужно освободить номер? Пожалуйста, напишите время.",
+        "en": "What time do we need to check out? Please write down the time.",
+        "es": "¿A qué hora tenemos que dejar la habitación? Por favor, escriba la hora.",
+        "pt": "A que horas precisamos desocupar o quarto? Por favor, escreva o horário.",
+        "vi": "Tôi phải trả phòng lúc mấy giờ ạ? Xin vui lòng viết giờ ra.",
+        "th": "ต้องเช็กเอาต์กี่โมง กรุณาเขียนเวลาให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_175",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Соседи сильно шумят. Можете помочь решить проблему?",
+        "en": "The neighbours are making a lot of noise. Could you help resolve this?",
+        "es": "Los vecinos hacen mucho ruido. ¿Puede ayudarnos a resolver el problema?",
+        "pt": "Os vizinhos estão fazendo muito barulho. Você pode nos ajudar a resolver o problema?",
+        "vi": "Hàng xóm gây ồn rất nhiều. Anh/chị có thể giúp giải quyết vấn đề này không ạ?",
+        "th": "เพื่อนบ้านส่งเสียงดังมาก ช่วยแก้ปัญหานี้ได้ไหม"
+      },
+      "regionalOverrides": {
+        "en-US": "The neighbors are making a lot of noise. Could you help resolve this?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_176",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Мы готовы выехать из номера. Как оформить выезд?",
+        "en": "We're ready to check out. What do we need to do?",
+        "es": "Ya estamos listos para dejar la habitación. ¿Qué debemos hacer para el check-out?",
+        "pt": "Estamos prontos para fazer o check-out. Como devemos proceder?",
+        "vi": "Chúng tôi đã sẵn sàng trả phòng. Cần làm thủ tục như thế nào ạ?",
+        "th": "เราพร้อมเช็กเอาต์แล้ว ต้องทำอย่างไรบ้าง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_177",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Кондиционер не работает. Можно вызвать специалиста?",
+        "en": "The air conditioning isn't working. Can you send someone to fix it?",
+        "es": "El aire acondicionado no funciona. ¿Puede enviar a un técnico?",
+        "pt": "O ar-condicionado não está funcionando. Pode chamar um técnico?",
+        "vi": "Máy điều hòa không hoạt động. Có thể gọi thợ đến kiểm tra không ạ?",
+        "th": "เครื่องปรับอากาศเสีย ช่วยเรียกช่างให้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_178",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере требуется уборка.",
+        "en": "The room needs cleaning.",
+        "es": "La habitación necesita limpieza.",
+        "pt": "O quarto precisa de limpeza.",
+        "vi": "Phòng cần được dọn dẹp.",
+        "th": "ห้องพักต้องการการทำความสะอาด"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_179",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно организовать поздний выезд?",
+        "en": "Can we arrange a late check-out?",
+        "es": "¿Podemos hacer el check-out más tarde?",
+        "pt": "É possível fazer o check-out mais tarde?",
+        "vi": "Tôi có thể trả phòng muộn hơn không ạ?",
+        "th": "ขอเช็กเอาต์ช้ากว่าเวลาปกติได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_180",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Проблема ещё не решена. Пожалуйста, напишите, когда её устранят.",
+        "en": "The problem still hasn't been resolved. Please write down when it will be fixed.",
+        "es": "El problema todavía no se ha resuelto. Por favor, escriba cuándo lo van a solucionar.",
+        "pt": "O problema ainda não foi resolvido. Por favor, escreva quando será solucionado.",
+        "vi": "Vấn đề vẫn chưa được giải quyết. Xin vui lòng viết rõ khi nào sẽ khắc phục.",
+        "th": "ปัญหายังไม่ได้รับการแก้ไข กรุณาเขียนว่าจะซ่อมเสร็จเมื่อไร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_181",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Регистрация уже пройдена, но система не открывает дверь.",
+        "en": "We've already completed registration, but the access system won't open the door.",
+        "es": "Ya completamos el registro, pero el sistema no abre la puerta.",
+        "pt": "Já concluímos o cadastro, mas o sistema não abre a porta.",
+        "vi": "Tôi đã đăng ký rồi nhưng hệ thống vẫn không mở cửa.",
+        "th": "ลงทะเบียนเรียบร้อยแล้ว แต่ระบบยังไม่ยอมเปิดประตู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_182",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Код доступа не работает. Пожалуйста, проверьте его.",
+        "en": "The access code isn't working. Please check it.",
+        "es": "El código de acceso no funciona. Por favor, revíselo.",
+        "pt": "O código de acesso não funciona. Por favor, confira o código.",
+        "vi": "Mã ra vào không hoạt động. Xin vui lòng kiểm tra lại.",
+        "th": "รหัสเข้าประตูใช้ไม่ได้ กรุณาตรวจสอบให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_183",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Не получается связаться с владельцем жилья. Пожалуйста, помогите.",
+        "en": "We can't get in touch with the property owner. Please help us.",
+        "es": "No podemos comunicarnos con el propietario del alojamiento. Por favor, ayúdenos.",
+        "pt": "Não consigo entrar em contato com o responsável pela hospedagem. Por favor, me ajude.",
+        "vi": "Tôi không liên lạc được với chủ chỗ ở. Xin vui lòng giúp tôi.",
+        "th": "ติดต่อเจ้าของที่พักไม่ได้ กรุณาช่วยหน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_184",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Когда сможет прийти специалист? Пожалуйста, напишите время.",
+        "en": "When can a technician come? Please write down the time.",
+        "es": "¿Cuándo puede venir un técnico? Por favor, escriba la hora.",
+        "pt": "Quando um técnico poderá vir? Por favor, escreva o horário.",
+        "vi": "Khi nào kỹ thuật viên có thể đến ạ? Xin vui lòng viết thời gian ra.",
+        "th": "ช่างจะมาได้เมื่อไร กรุณาเขียนเวลาให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_185",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно проверить неисправность сейчас?",
+        "en": "Can you check the problem now?",
+        "es": "¿Puede revisar la falla ahora?",
+        "pt": "É possível verificar o defeito agora?",
+        "vi": "Có thể kiểm tra sự cố ngay bây giờ không ạ?",
+        "th": "ช่วยตรวจสอบปัญหานี้ตอนนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_186",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить письменное подтверждение решения проблемы?",
+        "en": "Can we get written confirmation that the problem has been resolved?",
+        "es": "¿Podemos recibir una confirmación por escrito de cómo se resolverá el problema?",
+        "pt": "Posso receber uma confirmação por escrito de como o problema será resolvido?",
+        "vi": "Tôi có thể nhận văn bản xác nhận phương án giải quyết vấn đề không ạ?",
+        "th": "ขอหลักฐานเป็นลายลักษณ์อักษรว่าจะแก้ไขปัญหานี้อย่างไรได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_187",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Если проблему нельзя устранить, можно предложить другое жильё или частичный возврат денег?",
+        "en": "If the problem can't be fixed, could you offer alternative accommodation or a partial refund?",
+        "es": "Si no se puede resolver el problema, ¿pueden ofrecernos otro alojamiento o un reembolso parcial?",
+        "pt": "Se não for possível resolver o problema, vocês podem oferecer outra acomodação ou um reembolso parcial?",
+        "vi": "Nếu không thể khắc phục vấn đề, có thể bố trí chỗ ở khác hoặc hoàn lại một phần tiền không ạ?",
+        "th": "ถ้าแก้ปัญหาไม่ได้ สามารถเสนอที่พักอื่นหรือคืนเงินบางส่วนได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_188",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно арендовать квартиру на количество месяцев, указанное на экране?",
+        "en": "Can we rent the apartment for the number of months shown on the screen?",
+        "es": "¿Puedo alquilar un apartamento por la cantidad de meses que aparece en la pantalla?",
+        "pt": "É possível alugar um apartamento pelo número de meses indicado na tela?",
+        "vi": "Tôi có thể thuê căn hộ trong số tháng được hiển thị trên màn hình không ạ?",
+        "th": "ขอเช่าอพาร์ตเมนต์ตามจำนวนเดือนที่แสดงบนหน้าจอได้ไหม"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда",
+      "regionalOverrides": {
+        "es-CL": "¿Puedo arrendar un departamento por la cantidad de meses que aparece en la pantalla?"
+      }
+    },
+    {
+      "id": "phrase_189",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно посмотреть квартиру перед оплатой?",
+        "en": "Can we view the apartment before paying?",
+        "es": "¿Puedo visitar el departamento antes de pagar?",
+        "pt": "Podemos visitar o apartamento antes de pagar?",
+        "vi": "Tôi có thể xem căn hộ trước khi thanh toán không ạ?",
+        "th": "ขอดูห้องก่อนชำระเงินได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_190",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В стоимость включены вода, электричество и интернет?",
+        "en": "Are water, electricity and internet included in the price?",
+        "es": "¿El precio incluye agua, electricidad e internet?",
+        "pt": "Água, energia elétrica e internet estão incluídas no preço?",
+        "vi": "Giá đã bao gồm tiền nước, tiền điện và internet chưa ạ?",
+        "th": "ราคานี้รวมค่าน้ำ ค่าไฟ และค่าอินเทอร์เน็ตแล้วหรือยัง"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_191",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Какова сумма залога? Пожалуйста, напишите её.",
+        "en": "How much is the security deposit? Please write down the amount.",
+        "es": "¿De cuánto es el depósito de garantía? Por favor, escriba el monto.",
+        "pt": "Qual é o valor da caução? Por favor, escreva o valor.",
+        "vi": "Tiền đặt cọc là bao nhiêu ạ? Xin vui lòng viết số tiền ra.",
+        "th": "ต้องวางเงินประกันเท่าไร กรุณาเขียนจำนวนเงินให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_192",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Залог возвращается после выезда?",
+        "en": "Will the security deposit be returned after we move out?",
+        "es": "¿Se devuelve el depósito de garantía después de la salida?",
+        "pt": "A caução é devolvida depois que desocupamos o imóvel?",
+        "vi": "Tiền đặt cọc có được hoàn lại sau khi trả phòng không ạ?",
+        "th": "จะคืนเงินประกันหลังย้ายออกใช่ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_193",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить письменный договор аренды?",
+        "en": "Can we get a written rental agreement?",
+        "es": "¿Puedo recibir un contrato de alquiler por escrito?",
+        "pt": "Posso receber um contrato de aluguel por escrito?",
+        "vi": "Tôi có thể nhận hợp đồng thuê nhà bằng văn bản không ạ?",
+        "th": "ขอสัญญาเช่าที่เป็นลายลักษณ์อักษรได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда",
+      "regionalOverrides": {
+        "es-CL": "¿Puedo recibir un contrato de arriendo por escrito?"
+      }
+    },
+    {
+      "id": "phrase_194",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, покажите условия отмены бронирования.",
+        "en": "Please show us the booking cancellation terms.",
+        "es": "Por favor, muéstreme las condiciones de cancelación de la reserva.",
+        "pt": "Por favor, mostre as condições de cancelamento da reserva.",
+        "vi": "Xin vui lòng cho tôi xem điều kiện hủy đặt chỗ.",
+        "th": "กรุณาแสดงเงื่อนไขการยกเลิกการจองให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_195",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно оплатить аренду банковским переводом?",
+        "en": "Can we pay the rent by bank transfer?",
+        "es": "¿Puedo pagar el alquiler mediante transferencia bancaria?",
+        "pt": "Posso pagar o aluguel por transferência bancária?",
+        "vi": "Tôi có thể trả tiền thuê nhà bằng chuyển khoản ngân hàng không ạ?",
+        "th": "จ่ายค่าเช่าด้วยการโอนเงินผ่านธนาคารได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда",
+      "regionalOverrides": {
+        "es-CL": "¿Puedo pagar el arriendo mediante transferencia bancaria?"
+      }
+    },
+    {
+      "id": "phrase_196",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, отправьте подтверждение получения оплаты.",
+        "en": "Please send confirmation that you've received the payment.",
+        "es": "Por favor, envíeme una confirmación de que recibió el pago.",
+        "pt": "Por favor, envie a confirmação do recebimento do pagamento.",
+        "vi": "Xin vui lòng gửi xác nhận đã nhận được tiền thanh toán.",
+        "th": "กรุณาส่งหลักฐานยืนยันว่าได้รับเงินแล้ว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_197",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно продлить договор на количество месяцев, указанное на экране?",
+        "en": "Can we extend the lease by the number of months shown on the screen?",
+        "es": "¿Se puede prorrogar el contrato de alquiler por la cantidad de meses que aparece en la pantalla?",
+        "pt": "É possível prorrogar o contrato pelo número de meses indicado na tela?",
+        "vi": "Tôi có thể gia hạn hợp đồng thêm số tháng được hiển thị trên màn hình không ạ?",
+        "th": "ขอต่อสัญญาเช่าตามจำนวนเดือนที่แสดงบนหน้าจอได้ไหม"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда",
+      "regionalOverrides": {
+        "es-CL": "¿Se puede prorrogar el contrato de arriendo por la cantidad de meses que aparece en la pantalla?"
+      }
+    },
+    {
+      "id": "phrase_198",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Мне нужно сообщить о неисправности в квартире.",
+        "en": "I need to report a problem in the apartment.",
+        "es": "Necesito informar de una falla en el departamento.",
+        "pt": "Preciso informar um defeito no apartamento.",
+        "vi": "Tôi cần báo một sự cố trong căn hộ.",
+        "th": "ต้องการแจ้งปัญหาชำรุดภายในอพาร์ตเมนต์"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_199",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, согласуйте со мной время прихода специалиста.",
+        "en": "Please arrange a time with me before the technician comes.",
+        "es": "Por favor, coordine conmigo la hora en que vendrá el técnico.",
+        "pt": "Por favor, combine comigo o horário da visita do técnico.",
+        "vi": "Xin vui lòng thống nhất trước với tôi thời gian kỹ thuật viên đến.",
+        "th": "กรุณานัดหมายเวลาที่ช่างจะเข้ามากับฉันก่อน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_200",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, предупреждайте заранее, если кто-то собирается войти в квартиру.",
+        "en": "Please let me know in advance if anyone is planning to enter the apartment.",
+        "es": "Por favor, avíseme con anticipación si alguien va a entrar al departamento.",
+        "pt": "Por favor, avise com antecedência se alguém precisar entrar no apartamento.",
+        "vi": "Xin vui lòng báo trước nếu có người định vào căn hộ.",
+        "th": "กรุณาแจ้งล่วงหน้าหากจะมีใครเข้ามาในอพาร์ตเมนต์"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_201",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, проверьте состояние квартиры перед выездом.",
+        "en": "Please inspect the apartment before we move out.",
+        "es": "Por favor, revise el estado del departamento antes de nuestra salida.",
+        "pt": "Por favor, verifique o estado do apartamento antes da nossa saída.",
+        "vi": "Xin vui lòng kiểm tra tình trạng căn hộ trước khi tôi trả nhà.",
+        "th": "กรุณาตรวจสอบสภาพอพาร์ตเมนต์ก่อนที่ฉันจะย้ายออก"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_202",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Когда можно получить залог обратно? Пожалуйста, напишите дату.",
+        "en": "When will the security deposit be returned? Please write down the date.",
+        "es": "¿Cuándo puedo recibir la devolución del depósito de garantía? Por favor, escriba la fecha.",
+        "pt": "Quando a caução será devolvida? Por favor, escreva a data.",
+        "vi": "Khi nào tôi có thể nhận lại tiền đặt cọc ạ? Xin vui lòng viết ngày ra.",
+        "th": "จะได้รับเงินประกันคืนเมื่อไร กรุณาเขียนวันที่ให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_203",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить ещё один комплект постельного белья?",
+        "en": "Could we get another set of bed linen?",
+        "es": "¿Podemos recibir otro juego de sábanas?",
+        "pt": "Posso receber mais um jogo de roupa de cama?",
+        "vi": "Tôi có thể xin thêm một bộ ga trải giường và vỏ gối không ạ?",
+        "th": "ขอชุดผ้าปูที่นอนเพิ่มอีกหนึ่งชุดได้ไหม"
+      },
+      "regionalOverrides": {
+        "en-US": "Could we get another set of bed sheets?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_236",
+      "category": "banking",
+      "translations": {
+        "ru": "У меня есть доллары США. Хочу обменять их на местную валюту.",
+        "en": "I have US dollars and would like to exchange them for the local currency.",
+        "es": "Tengo dólares estadounidenses y quiero cambiarlos por moneda local.",
+        "pt": "Tenho dólares americanos e gostaria de trocá-los pela moeda local.",
+        "vi": "Tôi có đô la Mỹ và muốn đổi sang tiền địa phương.",
+        "th": "มีเงินดอลลาร์สหรัฐ ต้องการแลกเป็นสกุลเงินท้องถิ่น"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_237",
+      "category": "banking",
+      "translations": {
+        "ru": "Хочу купить доллары США за местную валюту.",
+        "en": "I'd like to buy US dollars using the local currency.",
+        "es": "Quiero comprar dólares estadounidenses con moneda local.",
+        "pt": "Quero comprar dólares americanos usando a moeda local.",
+        "vi": "Tôi muốn dùng tiền địa phương để mua đô la Mỹ.",
+        "th": "ต้องการใช้สกุลเงินท้องถิ่นซื้อเงินดอลลาร์สหรัฐ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_238",
+      "category": "banking",
+      "translations": {
+        "ru": "По какому курсу вы покупаете доллары США сегодня? Пожалуйста, покажите курс.",
+        "en": "What exchange rate are you offering for buying US dollars today? Please show me the rate.",
+        "es": "¿A qué tipo de cambio compran hoy los dólares estadounidenses? Por favor, muéstreme el tipo de cambio.",
+        "pt": "A que cotação vocês compram dólares americanos hoje? Por favor, mostre a cotação.",
+        "vi": "Hôm nay quý vị mua đô la Mỹ theo tỷ giá nào ạ? Xin vui lòng cho tôi xem tỷ giá.",
+        "th": "วันนี้ทางร้านรับซื้อเงินดอลลาร์สหรัฐในอัตราเท่าไร กรุณาแสดงอัตราแลกเปลี่ยนให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_239",
+      "category": "banking",
+      "translations": {
+        "ru": "По какому курсу вы продаёте доллары США сегодня? Пожалуйста, покажите курс.",
+        "en": "What exchange rate are you offering for selling US dollars today? Please show me the rate.",
+        "es": "¿A qué tipo de cambio venden hoy los dólares estadounidenses? Por favor, muéstreme el tipo de cambio.",
+        "pt": "A que cotação vocês vendem dólares americanos hoje? Por favor, mostre a cotação.",
+        "vi": "Hôm nay quý vị bán đô la Mỹ theo tỷ giá nào ạ? Xin vui lòng cho tôi xem tỷ giá.",
+        "th": "วันนี้ทางร้านขายเงินดอลลาร์สหรัฐในอัตราเท่าไร กรุณาแสดงอัตราแลกเปลี่ยนให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_240",
+      "category": "banking",
+      "translations": {
+        "ru": "При обмене взимается комиссия?",
+        "en": "Is there a fee for exchanging money?",
+        "es": "¿Cobran alguna comisión por el cambio de moneda?",
+        "pt": "Há alguma taxa ou comissão para fazer o câmbio?",
+        "vi": "Đổi tiền có mất phí hoặc hoa hồng không ạ?",
+        "th": "การแลกเงินมีค่าธรรมเนียมหรือไม่"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_241",
+      "category": "banking",
+      "translations": {
+        "ru": "Сколько я получу после обмена? Пожалуйста, покажите сумму.",
+        "en": "How much will I receive after the exchange? Please show me the amount.",
+        "es": "¿Cuánto dinero voy a recibir después del cambio? Por favor, muéstreme el monto.",
+        "pt": "Quanto vou receber depois do câmbio? Por favor, mostre o valor.",
+        "vi": "Sau khi đổi tiền, tôi sẽ nhận được bao nhiêu ạ? Xin vui lòng cho tôi xem số tiền.",
+        "th": "หลังแลกเงินแล้วจะได้รับเท่าไร กรุณาแสดงจำนวนเงินให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_242",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно обменять только часть суммы?",
+        "en": "Can I exchange only part of the amount?",
+        "es": "¿Puedo cambiar solo una parte del dinero?",
+        "pt": "Posso trocar apenas parte do valor?",
+        "vi": "Tôi có thể chỉ đổi một phần số tiền này không ạ?",
+        "th": "ขอแลกเงินเพียงบางส่วนได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_243",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить квитанцию об обмене?",
+        "en": "Can I get a receipt for the currency exchange?",
+        "es": "¿Puedo recibir un comprobante de la operación de cambio?",
+        "pt": "Posso receber um comprovante da operação de câmbio?",
+        "vi": "Tôi có thể nhận biên lai giao dịch đổi tiền không ạ?",
+        "th": "ขอใบเสร็จสำหรับการแลกเงินได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_244",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно открыть банковский счёт по заграничному паспорту?",
+        "en": "Can I open a bank account using my passport?",
+        "es": "¿Puedo abrir una cuenta bancaria con mi pasaporte extranjero?",
+        "pt": "Posso abrir uma conta bancária com meu passaporte estrangeiro?",
+        "vi": "Tôi có thể mở tài khoản ngân hàng bằng hộ chiếu nước ngoài không ạ?",
+        "th": "ใช้หนังสือเดินทางต่างประเทศเปิดบัญชีธนาคารได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_245",
+      "category": "banking",
+      "translations": {
+        "ru": "Я нахожусь здесь как турист.",
+        "en": "I'm here as a tourist.",
+        "es": "Estoy aquí como turista.",
+        "pt": "Estou aqui como turista.",
+        "vi": "Tôi đang ở đây với tư cách khách du lịch.",
+        "th": "ฉันอยู่ที่นี่ในฐานะนักท่องเที่ยว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_246",
+      "category": "banking",
+      "translations": {
+        "ru": "У меня нет местного удостоверения личности.",
+        "en": "I don't have a local ID card.",
+        "es": "No tengo un documento de identidad local.",
+        "pt": "Não tenho documento de identidade local.",
+        "vi": "Tôi không có giấy tờ tùy thân do địa phương cấp.",
+        "th": "ไม่มีบัตรประจำตัวประชาชนที่ออกโดยประเทศนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_247",
+      "category": "banking",
+      "translations": {
+        "ru": "У меня есть заграничный паспорт.",
+        "en": "I have a passport.",
+        "es": "Tengo un pasaporte extranjero.",
+        "pt": "Tenho um passaporte estrangeiro.",
+        "vi": "Tôi có hộ chiếu nước ngoài.",
+        "th": "มีหนังสือเดินทางต่างประเทศ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_248",
+      "category": "banking",
+      "translations": {
+        "ru": "Где ближайший банкомат?",
+        "en": "Where is the nearest ATM?",
+        "es": "¿Dónde está el cajero automático más cercano?",
+        "pt": "Onde fica o caixa eletrônico mais próximo?",
+        "vi": "Máy ATM gần nhất ở đâu ạ?",
+        "th": "ตู้เอทีเอ็มที่ใกล้ที่สุดอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_249",
+      "category": "banking",
+      "translations": {
+        "ru": "Банкомат не выдал деньги.",
+        "en": "The ATM didn't dispense any cash.",
+        "es": "El cajero automático no me entregó el dinero.",
+        "pt": "O caixa eletrônico não liberou o dinheiro.",
+        "vi": "Máy ATM không nhả tiền.",
+        "th": "ตู้เอทีเอ็มไม่จ่ายเงินสดออกมา"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_251",
+      "category": "banking",
+      "translations": {
+        "ru": "Мне нужен документ, подтверждающий оплату.",
+        "en": "I need proof of payment.",
+        "es": "Necesito un comprobante de pago.",
+        "pt": "Preciso de um documento que comprove o pagamento.",
+        "vi": "Tôi cần giấy tờ xác nhận đã thanh toán.",
+        "th": "ต้องการเอกสารยืนยันการชำระเงิน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_252",
+      "category": "banking",
+      "translations": {
+        "ru": "Хочу продать доллары США. Сумма указана на экране.",
+        "en": "I'd like to sell US dollars. The amount is shown on the screen.",
+        "es": "Quiero vender dólares estadounidenses. El monto aparece en la pantalla.",
+        "pt": "Quero vender dólares americanos. O valor está indicado na tela.",
+        "vi": "Tôi muốn bán đô la Mỹ. Số tiền được hiển thị trên màn hình.",
+        "th": "ต้องการขายเงินดอลลาร์สหรัฐตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_253",
+      "category": "banking",
+      "translations": {
+        "ru": "Хочу купить доллары США. Сумма указана на экране.",
+        "en": "I'd like to buy US dollars. The amount is shown on the screen.",
+        "es": "Quiero comprar dólares estadounidenses. El monto aparece en la pantalla.",
+        "pt": "Quero comprar dólares americanos. O valor está indicado na tela.",
+        "vi": "Tôi muốn mua đô la Mỹ. Số tiền được hiển thị trên màn hình.",
+        "th": "ต้องการซื้อเงินดอลลาร์สหรัฐตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_254",
+      "category": "banking",
+      "translations": {
+        "ru": "Мне нужно записаться на приём.",
+        "en": "I'd like to make an appointment.",
+        "es": "Necesito solicitar una cita.",
+        "pt": "Preciso agendar um atendimento.",
+        "vi": "Tôi cần đặt lịch hẹn.",
+        "th": "ต้องการนัดหมายเพื่อเข้ารับบริการ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_255",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить эту услугу по заграничному паспорту?",
+        "en": "Can I access this service using my passport?",
+        "es": "¿Puedo realizar este trámite con mi pasaporte extranjero?",
+        "pt": "Posso solicitar este serviço com meu passaporte estrangeiro?",
+        "vi": "Tôi có thể làm thủ tục này bằng hộ chiếu nước ngoài không ạ?",
+        "th": "สามารถใช้หนังสือเดินทางต่างประเทศรับบริการนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_256",
+      "category": "banking",
+      "translations": {
+        "ru": "Нужно заранее записываться?",
+        "en": "Do I need to make an appointment in advance?",
+        "es": "¿Es necesario pedir una cita con anticipación?",
+        "pt": "É necessário agendar com antecedência?",
+        "vi": "Có cần đặt lịch hẹn trước không ạ?",
+        "th": "ต้องนัดหมายล่วงหน้าหรือไม่"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_257",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, покажите перечень необходимых документов.",
+        "en": "Please show me the list of required documents.",
+        "es": "Por favor, muéstreme la lista de documentos necesarios.",
+        "pt": "Por favor, mostre a lista de documentos necessários.",
+        "vi": "Xin vui lòng cho tôi xem danh sách giấy tờ cần thiết.",
+        "th": "กรุณาแสดงรายการเอกสารที่ต้องใช้ให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_258",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, помогите заполнить эту форму.",
+        "en": "Could you help me fill out this form, please?",
+        "es": "Por favor, ayúdeme a completar este formulario.",
+        "pt": "Por favor, me ajude a preencher este formulário.",
+        "vi": "Xin vui lòng giúp tôi điền mẫu đơn này.",
+        "th": "กรุณาช่วยกรอกแบบฟอร์มนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_259",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить копию документа?",
+        "en": "Can I get a copy of this document?",
+        "es": "¿Puedo obtener una copia del documento?",
+        "pt": "Posso receber uma cópia do documento?",
+        "vi": "Tôi có thể nhận một bản sao của giấy tờ này không ạ?",
+        "th": "ขอสำเนาเอกสารนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_260",
+      "category": "banking",
+      "translations": {
+        "ru": "Мне нужно заверить копию документа.",
+        "en": "I need to have a copy of this document certified.",
+        "es": "Necesito obtener una copia certificada de este documento.",
+        "pt": "Preciso autenticar uma cópia deste documento.",
+        "vi": "Tôi cần chứng thực bản sao giấy tờ này.",
+        "th": "ต้องการให้รับรองสำเนาเอกสารนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы",
+      "regionalOverrides": {
+        "es-CL": "Necesito una copia autorizada de este documento."
+      }
+    },
+    {
+      "id": "phrase_261",
+      "category": "banking",
+      "translations": {
+        "ru": "Для этой процедуры нужен официальный перевод документа?",
+        "en": "Is an official translation of the document required for this process?",
+        "es": "¿Este trámite requiere una traducción oficial del documento?",
+        "pt": "É necessária uma tradução oficial do documento para este procedimento?",
+        "vi": "Thủ tục này có yêu cầu bản dịch công chứng hoặc bản dịch được chứng nhận chính thức không ạ?",
+        "th": "ขั้นตอนนี้ต้องใช้คำแปลเอกสารที่ได้รับการรับรองอย่างเป็นทางการไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_262",
+      "category": "banking",
+      "translations": {
+        "ru": "Нужно платить государственную пошлину?",
+        "en": "Is there a government fee to pay?",
+        "es": "¿Hay que pagar alguna tasa administrativa oficial por este trámite?",
+        "pt": "É necessário pagar alguma taxa governamental para este procedimento?",
+        "vi": "Tôi có phải nộp lệ phí nhà nước cho thủ tục này không ạ?",
+        "th": "ต้องชำระค่าธรรมเนียมของหน่วยงานรัฐหรือไม่"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_263",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, напишите сумму и способ оплаты.",
+        "en": "Please write down the amount and how to pay it.",
+        "es": "Por favor, escriba el monto y la forma de pago.",
+        "pt": "Por favor, escreva o valor e a forma de pagamento.",
+        "vi": "Xin vui lòng viết số tiền phải trả và cách thanh toán.",
+        "th": "กรุณาเขียนจำนวนเงินและวิธีชำระเงินให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_264",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить подтверждение подачи заявления?",
+        "en": "Can I get confirmation that my application was submitted?",
+        "es": "¿Puedo recibir un comprobante de que presenté la solicitud?",
+        "pt": "Posso receber um comprovante de que meu requerimento foi apresentado?",
+        "vi": "Tôi có thể nhận giấy xác nhận đã nộp hồ sơ không ạ?",
+        "th": "ขอหลักฐานยืนยันว่าได้ยื่นคำร้องแล้วได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_265",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, покажите, как проверить статус заявления на сайте.",
+        "en": "Please show me how to check the status of my application on the website.",
+        "es": "Por favor, muéstreme cómo consultar el estado de mi solicitud en el sitio web.",
+        "pt": "Por favor, mostre como consultar o andamento do requerimento no site.",
+        "vi": "Xin vui lòng chỉ cho tôi cách kiểm tra tình trạng hồ sơ trên trang web.",
+        "th": "กรุณาแสดงวิธีตรวจสอบสถานะคำร้องผ่านเว็บไซต์ให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_266",
+      "category": "banking",
+      "translations": {
+        "ru": "Я не понимаю условия документа. Пожалуйста, объясните через переводчик.",
+        "en": "I don't understand the terms of this document. Please explain them using a translation app.",
+        "es": "No entiendo las condiciones de este documento. Por favor, explíquemelas usando el traductor.",
+        "pt": "Não entendo os termos deste documento. Por favor, explique usando um aplicativo de tradução.",
+        "vi": "Tôi không hiểu các điều khoản trong giấy tờ này. Xin vui lòng giải thích bằng ứng dụng dịch.",
+        "th": "ไม่เข้าใจเงื่อนไขในเอกสารนี้ กรุณาอธิบายผ่านแอปแปลภาษา"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_267",
+      "category": "city",
+      "translations": {
+        "ru": "Можно вас сфотографировать?",
+        "en": "May I take a photo of you?",
+        "es": "¿Puedo tomarle una foto?",
+        "pt": "Posso tirar uma foto de você?",
+        "vi": "Tôi có thể chụp ảnh của bạn không ạ?",
+        "th": "ขอถ่ายรูปคุณได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_268",
+      "category": "city",
+      "translations": {
+        "ru": "Можно сфотографироваться с вами?",
+        "en": "May I take a photo with you?",
+        "es": "¿Puedo tomarme una foto con usted?",
+        "pt": "Posso tirar uma foto com você?",
+        "vi": "Tôi có thể chụp ảnh cùng bạn không ạ?",
+        "th": "ขอถ่ายรูปคู่กับคุณได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_269",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь разрешено фотографировать?",
+        "en": "Is photography allowed here?",
+        "es": "¿Está permitido tomar fotografías aquí?",
+        "pt": "É permitido tirar fotos aqui?",
+        "vi": "Ở đây có được phép chụp ảnh không ạ?",
+        "th": "ที่นี่อนุญาตให้ถ่ายรูปไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_270",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь разрешено запускать дрон?",
+        "en": "Is it allowed to fly a drone here?",
+        "es": "¿Está permitido volar un dron aquí?",
+        "pt": "É permitido voar com drone aqui?",
+        "vi": "Ở đây có được phép cho máy bay không người lái bay không ạ?",
+        "th": "ที่นี่อนุญาตให้บินโดรนไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_271",
+      "category": "city",
+      "translations": {
+        "ru": "Можно погладить вашу собаку?",
+        "en": "May I pet your dog?",
+        "es": "¿Puedo acariciar a su perro?",
+        "pt": "Posso fazer carinho no seu cachorro?",
+        "vi": "Tôi có thể vuốt ve chó của bạn không ạ?",
+        "th": "ขอลูบสุนัขของคุณได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_272",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь разрешено гулять с собакой?",
+        "en": "Are dogs allowed to be walked here?",
+        "es": "¿Está permitido pasear perros aquí?",
+        "pt": "É permitido passear com cachorro aqui?",
+        "vi": "Ở đây có được phép dắt chó đi dạo không ạ?",
+        "th": "ที่นี่อนุญาตให้พาสุนัขมาเดินเล่นไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_273",
+      "category": "city",
+      "translations": {
+        "ru": "Мне нужны билеты в кино. Количество указано на экране.",
+        "en": "I'd like tickets for the cinema. The number of tickets is shown on the screen.",
+        "es": "Necesito entradas para el cine. La cantidad aparece en la pantalla.",
+        "pt": "Preciso de ingressos para o cinema. A quantidade está indicada na tela.",
+        "vi": "Tôi cần vé xem phim. Số lượng vé được hiển thị trên màn hình.",
+        "th": "ต้องการตั๋วภาพยนตร์ตามจำนวนที่แสดงบนหน้าจอ"
+      },
+      "regionalOverrides": {
+        "en-US": "I'd like tickets for the movie theater. The number of tickets is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_274",
+      "category": "city",
+      "translations": {
+        "ru": "Где находится вход?",
+        "en": "Where is the entrance?",
+        "es": "¿Dónde está la entrada?",
+        "pt": "Onde fica a entrada?",
+        "vi": "Lối vào ở đâu ạ?",
+        "th": "ทางเข้าอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_275",
+      "category": "city",
+      "translations": {
+        "ru": "Мне нужно пройти в тренажёрный зал. Пожалуйста, покажите вход.",
+        "en": "I need to get to the gym. Please show me the entrance.",
+        "es": "Necesito entrar al gimnasio. Por favor, muéstreme dónde está la entrada.",
+        "pt": "Preciso entrar na academia. Por favor, me mostre a entrada.",
+        "vi": "Tôi cần vào phòng tập thể dục. Xin vui lòng chỉ cho tôi lối vào.",
+        "th": "ต้องการเข้าห้องออกกำลังกาย กรุณาชี้ทางเข้าให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_276",
+      "category": "city",
+      "translations": {
+        "ru": "Можно потанцевать вместе?",
+        "en": "Would you like to dance with me?",
+        "es": "¿Le gustaría bailar conmigo?",
+        "pt": "Podemos dançar juntos?",
+        "vi": "Chúng ta có thể nhảy cùng nhau không?",
+        "th": "ขอเต้นรำด้วยได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_277",
+      "category": "city",
+      "translations": {
+        "ru": "Вы прекрасно выглядите!",
+        "en": "You look wonderful!",
+        "es": "¡Se ve muy bien!",
+        "pt": "Você está com uma ótima aparência!",
+        "vi": "Hôm nay bạn trông rất tuyệt!",
+        "th": "คุณดูดีมาก!"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_278",
+      "category": "city",
+      "translations": {
+        "ru": "Кажется, вам тяжело. Могу я чем-нибудь помочь?",
+        "en": "You seem to be having a hard time. Can I help in any way?",
+        "es": "Parece que está pasando por un momento difícil. ¿Puedo ayudarle en algo?",
+        "pt": "Parece que você está passando por um momento difícil. Posso ajudar de alguma forma?",
+        "vi": "Hình như bạn đang gặp khó khăn. Tôi có thể giúp gì không?",
+        "th": "ดูเหมือนคุณกำลังลำบาก มีอะไรให้ช่วยไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_279",
+      "category": "city",
+      "translations": {
+        "ru": "Где ближайший парк?",
+        "en": "Where is the nearest park?",
+        "es": "¿Dónde está el parque más cercano?",
+        "pt": "Onde fica o parque mais próximo?",
+        "vi": "Công viên gần nhất ở đâu ạ?",
+        "th": "สวนสาธารณะที่ใกล้ที่สุดอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_280",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь безопасно гулять вечером?",
+        "en": "Is it safe to walk here in the evening?",
+        "es": "¿Es seguro caminar por aquí de noche?",
+        "pt": "É seguro caminhar por aqui à noite?",
+        "vi": "Đi bộ quanh đây vào buổi tối có an toàn không ạ?",
+        "th": "เดินเล่นแถวนี้ตอนเย็นปลอดภัยไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_281",
+      "category": "city",
+      "translations": {
+        "ru": "Можно воспользоваться туалетом?",
+        "en": "May I use the restroom?",
+        "es": "¿Puedo usar el baño?",
+        "pt": "Posso usar o banheiro?",
+        "vi": "Tôi có thể sử dụng nhà vệ sinh không ạ?",
+        "th": "ขอใช้ห้องน้ำได้ไหม"
+      },
+      "regionalOverrides": {
+        "en-GB": "May I use the toilet?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_282",
+      "category": "city",
+      "translations": {
+        "ru": "У вас есть свободные вакансии?",
+        "en": "Are there any job openings here?",
+        "es": "¿Tienen puestos de trabajo disponibles?",
+        "pt": "Vocês têm vagas de emprego abertas?",
+        "vi": "Ở đây có vị trí nào đang tuyển dụng không ạ?",
+        "th": "มีตำแหน่งงานว่างไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_283",
+      "category": "city",
+      "translations": {
+        "ru": "Мне нужна информация о вакансиях и условиях трудоустройства.",
+        "en": "I'd like information about job openings and employment conditions.",
+        "es": "Necesito información sobre las vacantes y las condiciones de contratación.",
+        "pt": "Gostaria de informações sobre vagas de emprego e condições de contratação.",
+        "vi": "Tôi cần thông tin về các vị trí tuyển dụng và điều kiện làm việc.",
+        "th": "ต้องการข้อมูลเกี่ยวกับตำแหน่งงานว่างและเงื่อนไขการจ้างงาน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_284",
+      "category": "city",
+      "translations": {
+        "ru": "Можно здесь присесть?",
+        "en": "May I sit here?",
+        "es": "¿Puedo sentarme aquí?",
+        "pt": "Posso me sentar aqui?",
+        "vi": "Tôi có thể ngồi ở đây không ạ?",
+        "th": "ขอนั่งตรงนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_285",
+      "category": "city",
+      "translations": {
+        "ru": "Можно записаться на экскурсию?",
+        "en": "Can I sign up for a guided tour?",
+        "es": "¿Puedo inscribirme en una visita guiada?",
+        "pt": "Posso me inscrever para uma visita guiada?",
+        "vi": "Tôi có thể đăng ký tham gia chuyến tham quan có hướng dẫn viên không ạ?",
+        "th": "สมัครเข้าร่วมทัวร์พร้อมไกด์ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_286",
+      "category": "city",
+      "translations": {
+        "ru": "Где находится место встречи перед экскурсией?",
+        "en": "Where is the meeting point for the tour?",
+        "es": "¿Dónde está el punto de encuentro antes de la visita guiada?",
+        "pt": "Onde fica o ponto de encontro para a visita guiada?",
+        "vi": "Điểm tập trung trước chuyến tham quan ở đâu ạ?",
+        "th": "จุดนัดพบก่อนเริ่มทัวร์อยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_287",
+      "category": "city",
+      "translations": {
+        "ru": "Нужно купить билет заранее?",
+        "en": "Do I need to buy a ticket in advance?",
+        "es": "¿Hay que comprar la entrada con anticipación?",
+        "pt": "É preciso comprar o ingresso com antecedência?",
+        "vi": "Có cần mua vé trước không ạ?",
+        "th": "ต้องซื้อตั๋วล่วงหน้าไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_288",
+      "category": "city",
+      "translations": {
+        "ru": "Можно присоединиться к экскурсии сегодня?",
+        "en": "Can I join the tour today?",
+        "es": "¿Puedo unirme a la visita guiada hoy?",
+        "pt": "Posso participar de uma visita guiada hoje?",
+        "vi": "Tôi có thể tham gia chuyến tham quan hôm nay không ạ?",
+        "th": "เข้าร่วมทัวร์วันนี้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_289",
+      "category": "city",
+      "translations": {
+        "ru": "Во сколько начинается экскурсия? Пожалуйста, покажите время.",
+        "en": "What time does the tour start? Please show me the time.",
+        "es": "¿A qué hora empieza la visita guiada? Por favor, muéstreme la hora.",
+        "pt": "A que horas começa a visita guiada? Por favor, mostre o horário.",
+        "vi": "Chuyến tham quan bắt đầu lúc mấy giờ ạ? Xin vui lòng cho tôi xem giờ.",
+        "th": "ทัวร์เริ่มกี่โมง กรุณาแสดงเวลาให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_290",
+      "category": "city",
+      "translations": {
+        "ru": "Где находится билетная касса?",
+        "en": "Where is the ticket office?",
+        "es": "¿Dónde está la boletería?",
+        "pt": "Onde fica a bilheteria?",
+        "vi": "Quầy bán vé ở đâu ạ?",
+        "th": "จุดจำหน่ายตั๋วอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_291",
+      "category": "city",
+      "translations": {
+        "ru": "Вход бесплатный?",
+        "en": "Is admission free?",
+        "es": "¿La entrada es gratuita?",
+        "pt": "A entrada é gratuita?",
+        "vi": "Vào cửa có miễn phí không ạ?",
+        "th": "เข้าชมฟรีไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_204",
+      "category": "health",
+      "translations": {
+        "ru": "Я плохо себя чувствую. Мне нужна помощь.",
+        "en": "I'm not feeling well. I need help.",
+        "es": "No me siento bien. Necesito ayuda.",
+        "pt": "Não estou me sentindo bem. Preciso de ajuda.",
+        "vi": "Tôi cảm thấy không khỏe. Tôi cần được giúp đỡ.",
+        "th": "รู้สึกไม่สบาย ต้องการความช่วยเหลือ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_205",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна медицинская помощь.",
+        "en": "I need medical assistance.",
+        "es": "Necesito atención médica.",
+        "pt": "Preciso de atendimento médico.",
+        "vi": "Tôi cần được chăm sóc y tế.",
+        "th": "ต้องการความช่วยเหลือทางการแพทย์"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_206",
+      "category": "health",
+      "translations": {
+        "ru": "Где находится ближайшее отделение неотложной помощи?",
+        "en": "Where is the nearest emergency department?",
+        "es": "¿Dónde está el servicio de urgencias más cercano?",
+        "pt": "Onde fica o pronto-socorro mais próximo?",
+        "vi": "Khoa cấp cứu gần nhất ở đâu ạ?",
+        "th": "แผนกฉุกเฉินของโรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน"
+      },
+      "regionalOverrides": {
+        "en-GB": "Where is the nearest A&E department?",
+        "es-CL": "¿Dónde está el servicio de urgencia más cercano?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_207",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, вызовите скорую помощь прямо сейчас.",
+        "en": "Please call an ambulance right now.",
+        "es": "Por favor, llame a una ambulancia ahora mismo.",
+        "pt": "Por favor, chame uma ambulância agora mesmo.",
+        "vi": "Xin hãy gọi xe cấp cứu ngay lập tức.",
+        "th": "กรุณาโทรเรียกรถพยาบาลทันที"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_208",
+      "category": "health",
+      "translations": {
+        "ru": "Пассажиру стало плохо. Пожалуйста, остановитесь в безопасном месте и вызовите помощь.",
+        "en": "A passenger is feeling unwell. Please stop somewhere safe and call for help.",
+        "es": "Un pasajero se siente mal. Por favor, deténgase en un lugar seguro y pida ayuda.",
+        "pt": "Um passageiro está passando mal. Por favor, pare em um lugar seguro e chame ajuda.",
+        "vi": "Có hành khách đang cảm thấy không khỏe. Xin hãy dừng xe ở nơi an toàn và gọi người đến giúp.",
+        "th": "ผู้โดยสารคนหนึ่งรู้สึกไม่สบาย กรุณาจอดรถในที่ปลอดภัยและเรียกคนมาช่วย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_209",
+      "category": "health",
+      "translations": {
+        "ru": "Здесь есть врач?",
+        "en": "Is there a doctor here?",
+        "es": "¿Hay algún médico aquí?",
+        "pt": "Tem algum médico aqui?",
+        "vi": "Ở đây có bác sĩ không ạ?",
+        "th": "ที่นี่มีแพทย์ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_210",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужно средство от кашля. Пожалуйста, помогите обратиться к фармацевту.",
+        "en": "I need something for a cough. Please help me speak to a pharmacist.",
+        "es": "Necesito algo para la tos. Por favor, ayúdeme a consultar con un farmacéutico.",
+        "pt": "Preciso de um remédio para tosse. Por favor, me ajude a falar com um farmacêutico.",
+        "vi": "Tôi cần thuốc trị ho. Xin hãy giúp tôi gặp dược sĩ để được tư vấn.",
+        "th": "ต้องการยาแก้ไอ กรุณาช่วยติดต่อเภสัชกรให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_211",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужно жаропонижающее средство. Пожалуйста, помогите обратиться к фармацевту.",
+        "en": "I need medicine to reduce a fever. Please help me speak to a pharmacist.",
+        "es": "Necesito un medicamento para bajar la fiebre. Por favor, ayúdeme a consultar con un farmacéutico.",
+        "pt": "Preciso de um medicamento para baixar a febre. Por favor, me ajude a falar com um farmacêutico.",
+        "vi": "Tôi cần thuốc hạ sốt. Xin hãy giúp tôi gặp dược sĩ để được tư vấn.",
+        "th": "ต้องการยาลดไข้ กรุณาช่วยติดต่อเภสัชกรให้หน่อย"
+      },
+      "regionalOverrides": {
+        "en-GB": "I need medicine to bring down a fever. Please help me speak to a pharmacist."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_212",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергия. Можно обратиться за помощью к фармацевту?",
+        "en": "I have allergies. Can I speak to a pharmacist for help?",
+        "es": "Tengo alergias. ¿Puedo consultar con un farmacéutico para que me ayude?",
+        "pt": "Tenho alergia. Posso pedir ajuda a um farmacêutico?",
+        "vi": "Tôi bị dị ứng. Tôi có thể nhờ dược sĩ tư vấn không ạ?",
+        "th": "ฉันมีอาการแพ้ ขอปรึกษาเภสัชกรได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_213",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергия на это лекарство.",
+        "en": "I'm allergic to this medication.",
+        "es": "Tengo alergia a este medicamento.",
+        "pt": "Tenho alergia a este medicamento.",
+        "vi": "Tôi bị dị ứng với loại thuốc này.",
+        "th": "ฉันแพ้ยานี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_214",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергия на табачный дым.",
+        "en": "I'm allergic to tobacco smoke.",
+        "es": "Tengo alergia al humo del tabaco.",
+        "pt": "Tenho alergia à fumaça de cigarro.",
+        "vi": "Tôi bị dị ứng với khói thuốc lá.",
+        "th": "ฉันแพ้ควันบุหรี่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_215",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, напишите название лекарства и инструкцию по его применению.",
+        "en": "Please write down the name of the medicine and the instructions for taking it.",
+        "es": "Por favor, escriba el nombre del medicamento y las instrucciones para usarlo.",
+        "pt": "Por favor, escreva o nome do medicamento e as instruções de uso.",
+        "vi": "Xin vui lòng viết tên thuốc và hướng dẫn cách sử dụng cho tôi.",
+        "th": "กรุณาเขียนชื่อยาและวิธีใช้ยาให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_216",
+      "category": "health",
+      "translations": {
+        "ru": "У вас есть солнцезащитный крем?",
+        "en": "Do you have sunscreen?",
+        "es": "¿Tienen protector solar?",
+        "pt": "Vocês têm protetor solar?",
+        "vi": "Ở đây có kem chống nắng không ạ?",
+        "th": "มีครีมกันแดดไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_217",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите связаться с полицией.",
+        "en": "Please help me contact the police.",
+        "es": "Por favor, ayúdeme a contactar a la policía.",
+        "pt": "Por favor, me ajude a entrar em contato com a polícia.",
+        "vi": "Xin hãy giúp tôi liên hệ với cảnh sát.",
+        "th": "กรุณาช่วยติดต่อเจ้าหน้าที่ตำรวจให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_218",
+      "category": "health",
+      "translations": {
+        "ru": "Где находится ближайший полицейский участок?",
+        "en": "Where is the nearest police station?",
+        "es": "¿Dónde está la comisaría de policía más cercana?",
+        "pt": "Onde fica a delegacia de polícia mais próxima?",
+        "vi": "Đồn cảnh sát gần nhất ở đâu ạ?",
+        "th": "สถานีตำรวจที่ใกล้ที่สุดอยู่ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь",
+      "regionalOverrides": {
+        "es-CL": "¿Dónde está la comisaría de Carabineros más cercana?"
+      }
+    },
+    {
+      "id": "phrase_219",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите связаться с врачом.",
+        "en": "Please help me contact a doctor.",
+        "es": "Por favor, ayúdeme a contactar a un médico.",
+        "pt": "Por favor, me ajude a entrar em contato com um médico.",
+        "vi": "Xin hãy giúp tôi liên hệ với bác sĩ.",
+        "th": "กรุณาช่วยติดต่อแพทย์ให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_220",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна аптека.",
+        "en": "I need a pharmacy.",
+        "es": "Necesito encontrar una farmacia.",
+        "pt": "Preciso encontrar uma farmácia.",
+        "vi": "Tôi cần tìm một nhà thuốc.",
+        "th": "ต้องการหาร้านขายยา"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_221",
+      "category": "health",
+      "translations": {
+        "ru": "Не давайте мне это лекарство: у меня на него аллергия.",
+        "en": "Please don't give me this medication. I'm allergic to it.",
+        "es": "Por favor, no me dé este medicamento. Tengo alergia a él.",
+        "pt": "Não me dê este medicamento. Tenho alergia a ele.",
+        "vi": "Xin đừng cho tôi dùng loại thuốc này. Tôi bị dị ứng với nó.",
+        "th": "กรุณาอย่าให้ยานี้กับฉัน เพราะฉันแพ้ยานี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_222",
+      "category": "health",
+      "translations": {
+        "ru": "Человек потерял сознание.",
+        "en": "Someone has lost consciousness.",
+        "es": "Una persona ha perdido el conocimiento.",
+        "pt": "Uma pessoa perdeu a consciência.",
+        "vi": "Có người đã bất tỉnh.",
+        "th": "มีคนหมดสติ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_223",
+      "category": "health",
+      "translations": {
+        "ru": "Человеку трудно дышать.",
+        "en": "Someone is having difficulty breathing.",
+        "es": "Una persona tiene dificultad para respirar.",
+        "pt": "Uma pessoa está com dificuldade para respirar.",
+        "vi": "Có người đang khó thở.",
+        "th": "มีคนหายใจลำบาก"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_224",
+      "category": "health",
+      "translations": {
+        "ru": "У меня сильная боль. Нужна срочная медицинская помощь.",
+        "en": "I'm in severe pain. I need urgent medical attention.",
+        "es": "Tengo un dolor muy fuerte. Necesito atención médica urgente.",
+        "pt": "Estou com uma dor muito forte. Preciso de atendimento médico urgente.",
+        "vi": "Tôi bị đau dữ dội. Tôi cần được cấp cứu.",
+        "th": "ปวดมาก ต้องการความช่วยเหลือทางการแพทย์อย่างเร่งด่วน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_225",
+      "category": "health",
+      "translations": {
+        "ru": "У меня кружится голова. Мне нужно присесть.",
+        "en": "I feel dizzy. I need to sit down.",
+        "es": "Tengo mareos. Necesito sentarme.",
+        "pt": "Estou com tontura. Preciso me sentar.",
+        "vi": "Tôi đang bị chóng mặt. Tôi cần ngồi xuống.",
+        "th": "เวียนหัว ต้องการนั่งพัก"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_226",
+      "category": "health",
+      "translations": {
+        "ru": "У меня высокая температура.",
+        "en": "I have a high fever.",
+        "es": "Tengo fiebre alta.",
+        "pt": "Estou com febre alta.",
+        "vi": "Tôi đang bị sốt cao.",
+        "th": "มีไข้สูง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_227",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергическая реакция.",
+        "en": "I'm having an allergic reaction.",
+        "es": "Estoy teniendo una reacción alérgica.",
+        "pt": "Estou tendo uma reação alérgica.",
+        "vi": "Tôi đang có phản ứng dị ứng.",
+        "th": "ฉันกำลังมีอาการแพ้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_228",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите найти медицинского работника.",
+        "en": "Please help me find a healthcare professional.",
+        "es": "Por favor, ayúdeme a encontrar a un profesional de la salud.",
+        "pt": "Por favor, me ajude a encontrar um profissional de saúde.",
+        "vi": "Xin hãy giúp tôi tìm nhân viên y tế.",
+        "th": "กรุณาช่วยหาเจ้าหน้าที่ทางการแพทย์ให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_229",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите связаться с экстренными службами.",
+        "en": "Please help me contact emergency services.",
+        "es": "Por favor, ayúdeme a contactar a los servicios de emergencia.",
+        "pt": "Por favor, me ajude a entrar em contato com os serviços de emergência.",
+        "vi": "Xin hãy giúp tôi liên hệ với dịch vụ khẩn cấp.",
+        "th": "กรุณาช่วยติดต่อหน่วยบริการฉุกเฉินให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_230",
+      "category": "health",
+      "translations": {
+        "ru": "Я не понимаю объяснение врача. Пожалуйста, запишите его.",
+        "en": "I don't understand the doctor's explanation. Please write it down.",
+        "es": "No entiendo la explicación del médico. Por favor, escríbala.",
+        "pt": "Não entendo a explicação do médico. Por favor, escreva o que ele explicou.",
+        "vi": "Tôi không hiểu lời giải thích của bác sĩ. Xin vui lòng viết lại cho tôi.",
+        "th": "ฉันไม่เข้าใจคำอธิบายของแพทย์ กรุณาเขียนให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_231",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, покажите, куда нужно обратиться для регистрации.",
+        "en": "Please show me where to go to register.",
+        "es": "Por favor, muéstreme dónde debo ir para registrarme.",
+        "pt": "Por favor, mostre onde devo ir para fazer o cadastro.",
+        "vi": "Xin vui lòng chỉ cho tôi nơi cần đến để làm thủ tục đăng ký khám.",
+        "th": "กรุณาชี้ให้ดูว่าต้องไปลงทะเบียนที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_232",
+      "category": "health",
+      "translations": {
+        "ru": "Можно получить письменные инструкции по применению лекарства?",
+        "en": "Can I get written instructions on how to take this medication?",
+        "es": "¿Me pueden dar instrucciones por escrito sobre cómo tomar este medicamento?",
+        "pt": "Posso receber instruções por escrito sobre como usar o medicamento?",
+        "vi": "Tôi có thể nhận hướng dẫn sử dụng thuốc bằng văn bản không ạ?",
+        "th": "ขอคำแนะนำการใช้ยาเป็นลายลักษณ์อักษรได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_233",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна помощь с переводом медицинской информации.",
+        "en": "I need help translating medical information.",
+        "es": "Necesito ayuda para traducir información médica.",
+        "pt": "Preciso de ajuda para traduzir informações médicas.",
+        "vi": "Tôi cần được giúp đỡ để dịch thông tin y tế.",
+        "th": "ต้องการความช่วยเหลือในการแปลข้อมูลทางการแพทย์"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_234",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна помощь. У меня пропал телефон.",
+        "en": "I need help. My phone is missing.",
+        "es": "Necesito ayuda. No encuentro mi teléfono.",
+        "pt": "Preciso de ajuda. Meu celular desapareceu.",
+        "vi": "Tôi cần giúp đỡ. Tôi bị mất điện thoại.",
+        "th": "ต้องการความช่วยเหลือ โทรศัพท์ของฉันหาย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_235",
+      "category": "health",
+      "translations": {
+        "ru": "У меня украли сумку с документами.",
+        "en": "My bag containing my documents has been stolen.",
+        "es": "Me robaron el bolso con mis documentos.",
+        "pt": "Roubaram minha bolsa com meus documentos.",
+        "vi": "Túi xách đựng giấy tờ của tôi đã bị đánh cắp.",
+        "th": "กระเป๋าที่มีเอกสารของฉันถูกขโมยไป"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_292",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мне нужна местная SIM-карта с мобильным интернетом.",
+        "en": "I need a local SIM card with mobile data.",
+        "es": "Necesito una tarjeta SIM local con datos móviles.",
+        "pt": "Preciso de um chip de celular local com internet móvel.",
+        "vi": "Tôi cần mua một thẻ SIM địa phương có dữ liệu di động.",
+        "th": "ต้องการซิมการ์ดในประเทศที่ใช้อินเทอร์เน็ตมือถือได้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_293",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно оформить SIM-карту по заграничному паспорту?",
+        "en": "Can I register a SIM card using my passport?",
+        "es": "¿Puedo registrar una tarjeta SIM con mi pasaporte extranjero?",
+        "pt": "Posso cadastrar um chip de celular com meu passaporte estrangeiro?",
+        "vi": "Tôi có thể đăng ký thẻ SIM bằng hộ chiếu nước ngoài không ạ?",
+        "th": "สามารถลงทะเบียนซิมการ์ดด้วยหนังสือเดินทางต่างประเทศได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_294",
+      "category": "connectivity",
+      "translations": {
+        "ru": "У меня нет местного идентификационного номера.",
+        "en": "I don't have a local identification number.",
+        "es": "No tengo un número de identificación local.",
+        "pt": "Não tenho um número de identificação local.",
+        "vi": "Tôi không có mã số định danh địa phương.",
+        "th": "ไม่มีหมายเลขประจำตัวของประเทศนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_295",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мне нужен тариф без долгосрочного договора.",
+        "en": "I need a mobile plan without a long-term contract.",
+        "es": "Necesito un plan sin contrato a largo plazo.",
+        "pt": "Preciso de um plano sem contrato de longo prazo.",
+        "vi": "Tôi cần một gói cước không có hợp đồng dài hạn.",
+        "th": "ต้องการแพ็กเกจที่ไม่ต้องทำสัญญาระยะยาว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_296",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мне нужен мобильный интернет на количество дней, указанное на экране.",
+        "en": "I need mobile data for the number of days shown on the screen.",
+        "es": "Necesito datos móviles para la cantidad de días que aparece en la pantalla.",
+        "pt": "Preciso de internet móvel pelo número de dias indicado na tela.",
+        "vi": "Tôi cần sử dụng dữ liệu di động trong số ngày hiển thị trên màn hình.",
+        "th": "ต้องการใช้อินเทอร์เน็ตมือถือเป็นจำนวนวันตามที่แสดงบนหน้าจอ"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_297",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Сколько гигабайт включено в тариф? Пожалуйста, покажите.",
+        "en": "How many gigabytes of data are included in this plan? Please show me.",
+        "es": "¿Cuántos gigabytes incluye este plan? Por favor, muéstremelo.",
+        "pt": "Quantos gigabytes estão incluídos no plano? Por favor, mostre na tela.",
+        "vi": "Gói cước này có bao nhiêu GB dữ liệu ạ? Xin vui lòng cho tôi xem.",
+        "th": "แพ็กเกจนี้มีอินเทอร์เน็ตกี่กิกะไบต์ กรุณาแสดงให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_298",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно пополнить баланс телефона на сумму, указанную на экране?",
+        "en": "Can I top up my phone balance with the amount shown on the screen?",
+        "es": "¿Puedo recargar el saldo de mi teléfono por el importe que aparece en la pantalla?",
+        "pt": "Posso colocar créditos no meu celular no valor indicado na tela?",
+        "vi": "Tôi có thể nạp số tiền hiển thị trên màn hình vào tài khoản điện thoại không ạ?",
+        "th": "สามารถเติมเงินโทรศัพท์ตามจำนวนเงินที่แสดงบนหน้าจอได้ไหม"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_299",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Пожалуйста, помогите активировать SIM-карту.",
+        "en": "Please help me activate my SIM card.",
+        "es": "Por favor, ayúdeme a activar la tarjeta SIM.",
+        "pt": "Por favor, me ajude a ativar o chip.",
+        "vi": "Xin vui lòng giúp tôi kích hoạt thẻ SIM.",
+        "th": "กรุณาช่วยเปิดใช้งานซิมการ์ดให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_300",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мобильный интернет не работает. Пожалуйста, проверьте настройки.",
+        "en": "My mobile data isn't working. Could you check the settings, please?",
+        "es": "Mis datos móviles no funcionan. Por favor, revise la configuración.",
+        "pt": "Minha internet móvel não está funcionando. Por favor, verifique as configurações.",
+        "vi": "Dữ liệu di động của tôi không hoạt động. Xin vui lòng kiểm tra phần cài đặt.",
+        "th": "อินเทอร์เน็ตมือถือใช้ไม่ได้ กรุณาช่วยตรวจสอบการตั้งค่า"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_301",
+      "category": "connectivity",
+      "translations": {
+        "ru": "В этом тарифе разрешена раздача интернета на ноутбук?",
+        "en": "Does this plan allow me to share my mobile data connection with a laptop?",
+        "es": "¿Este plan permite compartir los datos móviles con un computador portátil?",
+        "pt": "Esse plano permite compartilhar a internet com um notebook?",
+        "vi": "Gói cước này có cho phép chia sẻ kết nối Internet với máy tính xách tay không ạ?",
+        "th": "แพ็กเกจนี้อนุญาตให้แชร์อินเทอร์เน็ตไปยังโน้ตบุ๊กได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет",
+      "regionalOverrides": {
+        "es-CL": "¿Este plan permite compartir los datos móviles con un notebook?"
+      }
+    },
+    {
+      "id": "phrase_302",
+      "category": "connectivity",
+      "translations": {
+        "ru": "В тариф включены звонки и SMS?",
+        "en": "Are calls and text messages included in this plan?",
+        "es": "¿Este plan incluye llamadas y mensajes SMS?",
+        "pt": "Esse plano inclui chamadas e SMS?",
+        "vi": "Gói cước này có bao gồm cuộc gọi và tin nhắn SMS không ạ?",
+        "th": "แพ็กเกจนี้รวมค่าโทรศัพท์และ SMS หรือไม่"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_303",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Пожалуйста, запишите мой номер телефона или покажите, где его посмотреть.",
+        "en": "Please write down my phone number or show me where to find it.",
+        "es": "Por favor, anote mi número de teléfono o muéstreme dónde puedo verlo.",
+        "pt": "Por favor, anote meu número de celular ou me mostre onde posso encontrá-lo.",
+        "vi": "Xin vui lòng ghi số điện thoại của tôi ra hoặc chỉ cho tôi cách xem số đó.",
+        "th": "กรุณาจดหมายเลขโทรศัพท์ของฉันให้หน่อย หรือแสดงให้ดูว่าจะตรวจสอบหมายเลขได้ที่ไหน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_304",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно подключиться к вашей сети Wi-Fi?",
+        "en": "Can I connect to your Wi-Fi network?",
+        "es": "¿Puedo conectarme a su red Wi-Fi?",
+        "pt": "Posso me conectar à rede Wi-Fi de vocês?",
+        "vi": "Tôi có thể kết nối với mạng Wi-Fi ở đây không ạ?",
+        "th": "ขอเชื่อมต่อกับเครือข่าย Wi-Fi ของคุณได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_305",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Пожалуйста, покажите QR-код для подключения к Wi-Fi.",
+        "en": "Please show me the QR code for connecting to the Wi-Fi network.",
+        "es": "Por favor, muéstreme el código QR para conectarme al Wi-Fi.",
+        "pt": "Por favor, mostre o código QR para conectar ao Wi-Fi.",
+        "vi": "Xin vui lòng cho tôi xem mã QR để kết nối Wi-Fi.",
+        "th": "กรุณาแสดงคิวอาร์โค้ดสำหรับเชื่อมต่อ Wi-Fi ให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_306",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно купить eSIM?",
+        "en": "Can I buy an eSIM?",
+        "es": "¿Puedo comprar una eSIM?",
+        "pt": "Posso comprar um eSIM?",
+        "vi": "Tôi có thể mua eSIM không ạ?",
+        "th": "ซื้อ eSIM ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_307",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно пополнить баланс без банковской карты?",
+        "en": "Can I top up my balance without a bank card?",
+        "es": "¿Puedo recargar el saldo sin una tarjeta bancaria?",
+        "pt": "Posso colocar créditos no celular sem usar cartão bancário?",
+        "vi": "Tôi có thể nạp tiền vào tài khoản điện thoại mà không cần thẻ ngân hàng không ạ?",
+        "th": "เติมเงินโทรศัพท์โดยไม่ใช้บัตรธนาคารได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_308",
+      "category": "delivery",
+      "translations": {
+        "ru": "Я ожидаю доставку. Пожалуйста, напишите сообщение, когда курьер приедет.",
+        "en": "I'm expecting a delivery. Please send me a message when the courier arrives.",
+        "es": "Estoy esperando una entrega. Por favor, envíeme un mensaje cuando llegue el repartidor.",
+        "pt": "Estou esperando uma entrega. Por favor, me mande uma mensagem quando o entregador chegar.",
+        "vi": "Tôi đang chờ hàng được giao. Xin vui lòng nhắn tin cho tôi khi người giao hàng đến.",
+        "th": "กำลังรอพัสดุอยู่ กรุณาส่งข้อความมาเมื่อพนักงานส่งของมาถึง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_309",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, оставьте посылку на стойке регистрации.",
+        "en": "Please leave the parcel at reception.",
+        "es": "Por favor, deje el paquete en recepción.",
+        "pt": "Por favor, deixe a encomenda na recepção.",
+        "vi": "Xin vui lòng để bưu kiện tại quầy lễ tân.",
+        "th": "กรุณาฝากพัสดุไว้ที่เคาน์เตอร์ต้อนรับ"
+      },
+      "regionalOverrides": {
+        "en-US": "Please leave the package at the front desk.",
+        "es-CL": "Por favor, deje el paquete en conserjería."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_310",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, передайте посылку охране здания.",
+        "en": "Please leave the parcel with the building's security staff.",
+        "es": "Por favor, entregue el paquete al personal de seguridad del edificio.",
+        "pt": "Por favor, entregue a encomenda ao pessoal da segurança do prédio.",
+        "vi": "Xin vui lòng giao bưu kiện cho nhân viên bảo vệ của tòa nhà.",
+        "th": "กรุณาฝากพัสดุไว้กับเจ้าหน้าที่รักษาความปลอดภัยของอาคาร"
+      },
+      "regionalOverrides": {
+        "en-US": "Please leave the package with the building’s security staff."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_311",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, подождите у входа. Я сейчас спущусь.",
+        "en": "Please wait at the entrance. I'm coming downstairs now.",
+        "es": "Por favor, espere en la entrada. Ya bajo.",
+        "pt": "Por favor, espere na entrada. Já estou descendo.",
+        "vi": "Xin vui lòng đợi ở lối vào. Tôi sẽ xuống ngay.",
+        "th": "กรุณารอที่ทางเข้า กำลังลงไปเดี๋ยวนี้"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_312",
+      "category": "delivery",
+      "translations": {
+        "ru": "Курьер не может найти адрес. Пожалуйста, посмотрите местоположение на карте.",
+        "en": "The courier can't find the address. Please look at the location on the map.",
+        "es": "El repartidor no encuentra la dirección. Por favor, mire la ubicación en el mapa.",
+        "pt": "O entregador não está conseguindo encontrar o endereço. Por favor, veja a localização no mapa.",
+        "vi": "Người giao hàng không tìm được địa chỉ. Xin vui lòng xem vị trí trên bản đồ.",
+        "th": "พนักงานส่งของหาที่อยู่ไม่เจอ กรุณาดูตำแหน่งบนแผนที่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_313",
+      "category": "delivery",
+      "translations": {
+        "ru": "Здесь указан правильный адрес доставки?",
+        "en": "Is this the correct delivery address?",
+        "es": "¿Es correcta la dirección de entrega que aparece aquí?",
+        "pt": "Este é o endereço de entrega correto?",
+        "vi": "Đây có đúng là địa chỉ giao hàng không ạ?",
+        "th": "ที่อยู่นี้เป็นที่อยู่สำหรับจัดส่งที่ถูกต้องไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_314",
+      "category": "delivery",
+      "translations": {
+        "ru": "Для получения посылки нужен паспорт?",
+        "en": "Do I need my passport to collect the parcel?",
+        "es": "¿Necesito presentar el pasaporte para recibir el paquete?",
+        "pt": "Preciso apresentar o passaporte para retirar a encomenda?",
+        "vi": "Tôi có cần xuất trình hộ chiếu để nhận bưu kiện không ạ?",
+        "th": "ต้องใช้หนังสือเดินทางในการรับพัสดุไหม"
+      },
+      "regionalOverrides": {
+        "en-US": "Do I need my passport to pick up the package?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_315",
+      "category": "delivery",
+      "translations": {
+        "ru": "Мне пришло уведомление о доставке, но посылки нет.",
+        "en": "I received a delivery notification, but the parcel isn't here.",
+        "es": "Recibí una notificación de entrega, pero el paquete no está aquí.",
+        "pt": "Recebi uma notificação de entrega, mas a encomenda não está aqui.",
+        "vi": "Tôi đã nhận được thông báo giao hàng, nhưng không thấy bưu kiện đâu.",
+        "th": "ได้รับแจ้งว่าส่งพัสดุแล้ว แต่ยังไม่พบพัสดุ"
+      },
+      "regionalOverrides": {
+        "en-US": "I got a delivery notification, but the package isn't here."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_316",
+      "category": "delivery",
+      "translations": {
+        "ru": "Доставили не тот товар.",
+        "en": "The wrong item was delivered.",
+        "es": "Me entregaron un producto distinto del que pedí.",
+        "pt": "Entregaram o produto errado.",
+        "vi": "Hàng được giao không đúng với món tôi đã đặt.",
+        "th": "สินค้าที่ได้รับไม่ตรงกับที่สั่ง"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_317",
+      "category": "delivery",
+      "translations": {
+        "ru": "Упаковка повреждена. Можно проверить содержимое до подтверждения получения?",
+        "en": "The packaging is damaged. Can I check the contents before confirming receipt?",
+        "es": "El embalaje está dañado. ¿Puedo revisar el contenido antes de confirmar la recepción?",
+        "pt": "A embalagem está danificada. Posso conferir o conteúdo antes de confirmar o recebimento?",
+        "vi": "Bao bì bị hư hỏng. Tôi có thể kiểm tra bên trong trước khi xác nhận đã nhận hàng không ạ?",
+        "th": "บรรจุภัณฑ์เสียหาย ขอเปิดตรวจสอบของข้างในก่อนยืนยันรับได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_318",
+      "category": "delivery",
+      "translations": {
+        "ru": "Можно оформить возврат доставленного товара?",
+        "en": "Can I return the delivered item?",
+        "es": "¿Puedo solicitar la devolución del producto entregado?",
+        "pt": "Posso solicitar a devolução do produto entregue?",
+        "vi": "Tôi có thể yêu cầu trả lại món hàng đã được giao không ạ?",
+        "th": "ขอคืนสินค้าที่จัดส่งมาได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_319",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, покажите ближайшее почтовое отделение на карте.",
+        "en": "Please show me the nearest post office on the map.",
+        "es": "Por favor, muéstreme la oficina de correos más cercana en el mapa.",
+        "pt": "Por favor, mostre no mapa a agência dos Correios mais próxima.",
+        "vi": "Xin vui lòng chỉ bưu cục gần nhất trên bản đồ.",
+        "th": "กรุณาแสดงที่ทำการไปรษณีย์ที่ใกล้ที่สุดบนแผนที่"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_320",
+      "category": "delivery",
+      "translations": {
+        "ru": "Мне нужно получить свою посылку.",
+        "en": "I'm here to collect my parcel.",
+        "es": "Necesito retirar mi paquete.",
+        "pt": "Preciso retirar minha encomenda.",
+        "vi": "Tôi cần nhận bưu kiện của mình.",
+        "th": "ต้องการรับพัสดุของตัวเอง"
+      },
+      "regionalOverrides": {
+        "en-US": "I'm here to pick up my package.",
+        "es-ES": "Necesito recoger mi paquete."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_321",
+      "category": "delivery",
+      "translations": {
+        "ru": "В заказе не хватает одного товара.",
+        "en": "One item is missing from my order.",
+        "es": "Falta un producto en mi pedido.",
+        "pt": "Está faltando um produto no pedido.",
+        "vi": "Đơn hàng của tôi bị thiếu một món.",
+        "th": "ในคำสั่งซื้อมีสินค้าขาดไปหนึ่งรายการ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_322",
+      "category": "delivery",
+      "translations": {
+        "ru": "Можно перенести доставку на другое время?",
+        "en": "Can I reschedule the delivery?",
+        "es": "¿Puedo cambiar la entrega para otro horario?",
+        "pt": "Posso remarcar a entrega para outro horário?",
+        "vi": "Tôi có thể đổi thời gian giao hàng sang giờ khác không ạ?",
+        "th": "ขอเปลี่ยนเวลาจัดส่งเป็นเวลาอื่นได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_323",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, напишите номер заказа.",
+        "en": "Please write down the order number.",
+        "es": "Por favor, escriba el número de pedido.",
+        "pt": "Por favor, escreva o número do pedido.",
+        "vi": "Xin vui lòng viết mã đơn hàng ra.",
+        "th": "กรุณาเขียนหมายเลขคำสั่งซื้อให้หน่อย"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_324",
+      "category": "services",
+      "translations": {
+        "ru": "Устройство сломалось. Можно провести диагностику?",
+        "en": "The device is broken. Can you diagnose the problem?",
+        "es": "El dispositivo está averiado. ¿Pueden hacer un diagnóstico?",
+        "pt": "O aparelho quebrou. Vocês podem fazer um diagnóstico?",
+        "vi": "Thiết bị này bị hỏng. Có thể kiểm tra để xác định lỗi không ạ?",
+        "th": "อุปกรณ์เสีย สามารถตรวจสอบหาสาเหตุได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_325",
+      "category": "services",
+      "translations": {
+        "ru": "Можно отремонтировать это, не заменяя устройство целиком?",
+        "en": "Can this be repaired without replacing the entire device?",
+        "es": "¿Se puede reparar esto sin reemplazar todo el dispositivo?",
+        "pt": "É possível consertar isto sem substituir o aparelho inteiro?",
+        "vi": "Có thể sửa thiết bị này mà không phải thay cả thiết bị không ạ?",
+        "th": "สามารถซ่อมส่วนที่เสียโดยไม่ต้องเปลี่ยนอุปกรณ์ทั้งเครื่องได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_326",
+      "category": "services",
+      "translations": {
+        "ru": "Пожалуйста, покажите стоимость ремонта до начала работ.",
+        "en": "Please show me the repair cost before you start any work.",
+        "es": "Por favor, muéstreme el costo de la reparación antes de empezar el trabajo.",
+        "pt": "Por favor, mostre o preço do conserto antes de começar o serviço.",
+        "vi": "Xin vui lòng cho tôi biết chi phí sửa chữa trước khi bắt đầu.",
+        "th": "กรุณาแจ้งค่าซ่อมก่อนเริ่มงาน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_327",
+      "category": "services",
+      "translations": {
+        "ru": "Сколько времени займёт ремонт? Пожалуйста, напишите срок.",
+        "en": "How long will the repair take? Please write down the estimated time.",
+        "es": "¿Cuánto tiempo tardará la reparación? Por favor, escriba el plazo.",
+        "pt": "Quanto tempo vai levar o conserto? Por favor, informe o prazo por escrito.",
+        "vi": "Việc sửa chữa sẽ mất bao lâu ạ? Xin vui lòng ghi thời hạn hoàn thành ra.",
+        "th": "การซ่อมจะใช้เวลานานเท่าไร กรุณาเขียนระยะเวลาให้ดู"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_328",
+      "category": "services",
+      "translations": {
+        "ru": "Мне нужны паяльник, мультиметр и термоусадочная трубка.",
+        "en": "I need a soldering iron, a multimeter and heat-shrink tubing.",
+        "es": "Necesito un soldador de estaño, un multímetro y tubo termorretráctil.",
+        "pt": "Preciso de um ferro de solda, um multímetro e um tubo termorretrátil.",
+        "vi": "Tôi cần một mỏ hàn, một đồng hồ vạn năng và ống co nhiệt.",
+        "th": "ต้องการหัวแร้งบัดกรี มัลติมิเตอร์ และท่อหดความร้อน"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_329",
+      "category": "services",
+      "translations": {
+        "ru": "У вас есть место, где можно самостоятельно выполнить небольшой ремонт?",
+        "en": "Do you have a workspace where I can do a small repair myself?",
+        "es": "¿Tienen un espacio donde pueda hacer una reparación pequeña por mi cuenta?",
+        "pt": "Vocês têm um espaço onde eu possa fazer um pequeno conserto por conta própria?",
+        "vi": "Ở đây có chỗ để tôi tự thực hiện một việc sửa chữa nhỏ không ạ?",
+        "th": "ที่นี่มีพื้นที่ให้ซ่อมอุปกรณ์เล็กน้อยด้วยตัวเองไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_330",
+      "category": "services",
+      "translations": {
+        "ru": "Можно проверить устройство перед оплатой?",
+        "en": "Can I test the device before paying?",
+        "es": "¿Puedo probar el dispositivo antes de pagar?",
+        "pt": "Posso testar o aparelho antes de pagar?",
+        "vi": "Tôi có thể kiểm tra thiết bị trước khi thanh toán không ạ?",
+        "th": "ขอทดสอบอุปกรณ์ก่อนชำระเงินได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_331",
+      "category": "services",
+      "translations": {
+        "ru": "Пожалуйста, не удаляйте данные с устройства.",
+        "en": "Please don't delete any data from the device.",
+        "es": "Por favor, no borren los datos del dispositivo.",
+        "pt": "Por favor, não apague os dados do aparelho.",
+        "vi": "Xin vui lòng đừng xóa dữ liệu trên thiết bị.",
+        "th": "กรุณาอย่าลบข้อมูลในอุปกรณ์"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_332",
+      "category": "services",
+      "translations": {
+        "ru": "На ремонт предоставляется гарантия?",
+        "en": "Does the repair come with a warranty?",
+        "es": "¿La reparación tiene garantía?",
+        "pt": "O conserto tem garantia?",
+        "vi": "Việc sửa chữa có được bảo hành không ạ?",
+        "th": "งานซ่อมมีการรับประกันไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_333",
+      "category": "services",
+      "translations": {
+        "ru": "Можно получить чек с описанием выполненных работ?",
+        "en": "Can I get a receipt listing the work performed?",
+        "es": "¿Puedo recibir un comprobante con el detalle del trabajo realizado?",
+        "pt": "Posso receber um comprovante com a descrição dos serviços realizados?",
+        "vi": "Tôi có thể nhận biên nhận có ghi rõ những công việc sửa chữa đã thực hiện không ạ?",
+        "th": "ขอใบเสร็จที่ระบุรายละเอียดงานซ่อมที่ทำได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_334",
+      "category": "services",
+      "translations": {
+        "ru": "Проблема повторилась после ремонта.",
+        "en": "The same problem has come back after the repair.",
+        "es": "El problema volvió a aparecer después de la reparación.",
+        "pt": "O problema voltou depois do conserto.",
+        "vi": "Lỗi này lại xuất hiện sau khi sửa chữa.",
+        "th": "ปัญหาเดิมเกิดขึ้นอีกหลังจากซ่อมแล้ว"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_335",
+      "category": "services",
+      "translations": {
+        "ru": "Пожалуйста, сообщите письменно, когда устройство будет готово.",
+        "en": "Please let me know in writing when the device is ready.",
+        "es": "Por favor, avísenme por escrito cuando el dispositivo esté listo.",
+        "pt": "Por favor, me avise por escrito quando o aparelho estiver pronto.",
+        "vi": "Xin vui lòng nhắn tin cho tôi khi thiết bị đã sửa xong.",
+        "th": "กรุณาแจ้งทางข้อความเมื่ออุปกรณ์ซ่อมเสร็จพร้อมรับ"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_336",
+      "category": "services",
+      "translations": {
+        "ru": "Можно распечатать документ?",
+        "en": "Can you print a document for me?",
+        "es": "¿Pueden imprimir un documento?",
+        "pt": "É possível imprimir um documento?",
+        "vi": "Tôi có thể in một tài liệu ở đây không ạ?",
+        "th": "พิมพ์เอกสารนี้ให้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_337",
+      "category": "services",
+      "translations": {
+        "ru": "Можно сделать копию этого документа?",
+        "en": "Can you make a copy of this document?",
+        "es": "¿Pueden sacar una copia de este documento?",
+        "pt": "É possível tirar uma cópia deste documento?",
+        "vi": "Tôi có thể sao chụp tài liệu này không ạ?",
+        "th": "ถ่ายสำเนาเอกสารนี้ให้ได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_338",
+      "category": "services",
+      "translations": {
+        "ru": "Можно записаться на стрижку? Я покажу фотографию желаемого результата.",
+        "en": "Can I book a haircut? I'll show you a photo of the result I want.",
+        "es": "¿Puedo reservar una cita para un corte de pelo? Le mostraré una foto del resultado que quiero.",
+        "pt": "Posso marcar um horário para cortar o cabelo? Vou mostrar uma foto do resultado que quero.",
+        "vi": "Tôi có thể đặt lịch cắt tóc không ạ? Tôi sẽ cho xem ảnh kiểu tóc mình muốn.",
+        "th": "ขอนัดตัดผมได้ไหม จะให้ดูรูปทรงผมที่ต้องการ"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_339",
+      "category": "services",
+      "translations": {
+        "ru": "Можно записаться на маникюр?",
+        "en": "Can I book a manicure?",
+        "es": "¿Puedo reservar una cita para una manicura?",
+        "pt": "Posso marcar um horário para fazer as unhas?",
+        "vi": "Tôi có thể đặt lịch làm móng không ạ?",
+        "th": "ขอนัดทำเล็บได้ไหม"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_340",
+      "category": "services",
+      "translations": {
+        "ru": "Можно записаться на окрашивание волос? Я покажу фотографию желаемого цвета.",
+        "en": "Can I book a hair-colouring appointment? I'll show you a photo of the colour I want.",
+        "es": "¿Puedo reservar una cita para teñirme el pelo? Le mostraré una foto del color que quiero.",
+        "pt": "Posso marcar um horário para pintar o cabelo? Vou mostrar uma foto da cor que quero.",
+        "vi": "Tôi có thể đặt lịch nhuộm tóc không ạ? Tôi sẽ cho xem ảnh màu tóc mình muốn.",
+        "th": "ขอนัดทำสีผมได้ไหม จะให้ดูรูปสีผมที่ต้องการ"
+      },
+      "regionalOverrides": {
+        "en-US": "Can I book a hair-coloring appointment? I'll show you a photo of the color I want."
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_341",
+      "category": "services",
+      "translations": {
+        "ru": "Мне нужно постирать вещи. Сколько стоят стирка и сушка одного килограмма белья?",
+        "en": "I need to have some clothes washed. How much do washing and drying cost per kilogram of laundry?",
+        "es": "Necesito lavar ropa. ¿Cuánto cuestan el lavado y el secado por kilogramo de ropa?",
+        "pt": "Preciso lavar roupas. Quanto custam a lavagem e a secagem por quilo de roupa?",
+        "vi": "Tôi muốn giặt quần áo. Giá giặt và sấy cho mỗi ki-lô-gam quần áo là bao nhiêu ạ?",
+        "th": "ต้องการซักเสื้อผ้า ค่าซักและอบผ้าต่อน้ำหนักหนึ่งกิโลกรัมเท่าไร"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    }
+  ]
+}

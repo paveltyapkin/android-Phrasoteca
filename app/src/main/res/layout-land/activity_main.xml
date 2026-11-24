@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_presentation_stage"
+    android:padding="8dp">
+
+    <!-- Kept for MainActivity toolbar initialization, but hidden in presentation mode. -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/mainToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/cardContextStrip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="34dp"
+        android:background="@drawable/bg_card_context_strip"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_marginBottom="4dp">
+
+        <TextView
+            android:id="@+id/textCollectionName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:textSize="13sp"
+            android:textColor="?android:attr/textColorSecondary" />
+
+        <TextView
+            android:id="@+id/textCardCounter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="0dp"
+            android:textSize="13sp"
+            android:textColor="?android:attr/textColorSecondary" />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/presentationStage"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    <LinearLayout
+        android:id="@+id/cardContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg_phrase_card"
+        android:padding="12dp"
+        android:clickable="true"
+        android:longClickable="false"
+        android:focusable="true">
+
+        <TextView
+            android:id="@+id/textLanguage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingStart="56dp"
+            android:textColor="?attr/colorPrimary" />
+
+        <TextView
+            android:id="@+id/textPhrase"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="48sp"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="16sp"
+            android:autoSizeMaxTextSize="64sp"
+            android:autoSizeStepGranularity="1sp" />
+        <TextView
+            android:id="@+id/textQuantityValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="2dp"
+            android:paddingBottom="4dp"
+            android:textSize="42sp"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+
+        <!-- The hint is hidden but kept for MainActivity compatibility. -->
+        <TextView
+            android:id="@+id/gestureHint"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+        <!-- Return is a small control on the card, not in the system toolbar. -->
+        <ImageButton
+            android:id="@+id/landscapePortraitButton"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="top|start"
+            android:layout_margin="4dp"
+            android:background="@drawable/bg_card_action_button"
+            android:src="@drawable/ic_arrow_back_24"
+            android:tint="@color/card_action_icon"
+            android:padding="12dp"
+            android:contentDescription="@string/show_mode_back" />
+
+    <Button
+        android:id="@+id/buttonQuickVariables"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="6dp"
+        android:elevation="5dp"
+        android:padding="0dp"
+        android:text="{ }"
+        android:textSize="16sp"
+        android:textAllCaps="false"
+        android:textColor="@color/card_action_icon"
+        android:background="@drawable/bg_card_action_button"
+        android:contentDescription="@string/variables_quick_fill"
+        android:visibility="gone" />
+    </FrameLayout>
+
+    <!-- Visible only for YES_NO cards. Ordinary cards retain the full-height presentation area. -->
+    <LinearLayout
+        android:id="@+id/yesNoResponseButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="4dp"
+        android:visibility="gone">
+        <Button
+            android:id="@+id/buttonYesResponse"
+            android:layout_width="0dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+            android:layout_marginEnd="6dp"
+            android:text="@string/yes_no_yes"
+            android:textAllCaps="false"  android:background="@drawable/bg_card_secondary_button" android:backgroundTint="@null" android:textColor="@color/card_action_icon"/>
+        <Button
+            android:id="@+id/buttonNoResponse"
+            android:layout_width="0dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+            android:layout_marginStart="6dp"
+            android:text="@string/yes_no_no"
+            android:textAllCaps="false"  android:background="@drawable/bg_card_secondary_button" android:backgroundTint="@null" android:textColor="@color/card_action_icon"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/quantityControls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="4dp"
+        android:visibility="gone">
+        <Button
+            android:id="@+id/buttonSetQuantity"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:text="@string/quantity_button"
+            android:textAllCaps="false" android:background="@drawable/bg_card_secondary_button" android:backgroundTint="@null" android:textColor="@color/card_action_icon"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/navigationButtons"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/buttonPrevious"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:visibility="gone"  android:background="@drawable/bg_card_secondary_button" android:backgroundTint="@null" android:textColor="@color/card_action_icon"/>
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:visibility="gone"  android:background="@drawable/bg_card_secondary_button" android:backgroundTint="@null" android:textColor="@color/card_action_icon"/>
+    </LinearLayout>
+</LinearLayout>

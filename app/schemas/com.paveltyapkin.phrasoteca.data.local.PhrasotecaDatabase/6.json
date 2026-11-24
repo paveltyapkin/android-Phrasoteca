@@ -1,0 +1,499 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 6,
+    "identityHash": "2347153089868a96f144f5de76036b4c",
+    "entities": [
+      {
+        "tableName": "collections",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `name` TEXT NOT NULL, `sortOrder` INTEGER NOT NULL DEFAULT 0, `defaultCardType` TEXT NOT NULL DEFAULT 'LANGUAGE', `frontLabel` TEXT NOT NULL DEFAULT 'Front', `backLabel` TEXT NOT NULL DEFAULT 'Back', `frontColor` TEXT NOT NULL DEFAULT '#F2F4FD', `backColor` TEXT NOT NULL DEFAULT '#E5F3ED', `sideMode` TEXT NOT NULL DEFAULT 'TWO_SIDED', `frontLanguageTag` TEXT NOT NULL DEFAULT '', `backLanguageTag` TEXT NOT NULL DEFAULT '')",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "defaultCardType",
+            "columnName": "defaultCardType",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "'LANGUAGE'"
+          },
+          {
+            "fieldPath": "frontLabel",
+            "columnName": "frontLabel",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "'Front'"
+          },
+          {
+            "fieldPath": "backLabel",
+            "columnName": "backLabel",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "'Back'"
+          },
+          {
+            "fieldPath": "frontColor",
+            "columnName": "frontColor",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "'#F2F4FD'"
+          },
+          {
+            "fieldPath": "backColor",
+            "columnName": "backColor",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "'#E5F3ED'"
+          },
+          {
+            "fieldPath": "sideMode",
+            "columnName": "sideMode",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "'TWO_SIDED'"
+          },
+          {
+            "fieldPath": "frontLanguageTag",
+            "columnName": "frontLanguageTag",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "''"
+          },
+          {
+            "fieldPath": "backLanguageTag",
+            "columnName": "backLanguageTag",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "''"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        }
+      },
+      {
+        "tableName": "cards",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `collectionId` INTEGER NOT NULL, `frontText` TEXT NOT NULL, `backText` TEXT NOT NULL, `frontLanguage` TEXT NOT NULL, `backLanguage` TEXT NOT NULL, `sortOrder` INTEGER NOT NULL DEFAULT 0, `folderId` INTEGER, `cardType` TEXT, FOREIGN KEY(`collectionId`) REFERENCES `collections`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`folderId`) REFERENCES `folders`(`id`) ON UPDATE NO ACTION ON DELETE SET NULL )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "collectionId",
+            "columnName": "collectionId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "frontText",
+            "columnName": "frontText",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "backText",
+            "columnName": "backText",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "frontLanguage",
+            "columnName": "frontLanguage",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "backLanguage",
+            "columnName": "backLanguage",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "folderId",
+            "columnName": "folderId",
+            "affinity": "INTEGER"
+          },
+          {
+            "fieldPath": "cardType",
+            "columnName": "cardType",
+            "affinity": "TEXT"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_cards_collectionId",
+            "unique": false,
+            "columnNames": [
+              "collectionId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_cards_collectionId` ON `${TABLE_NAME}` (`collectionId`)"
+          },
+          {
+            "name": "index_cards_folderId",
+            "unique": false,
+            "columnNames": [
+              "folderId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_cards_folderId` ON `${TABLE_NAME}` (`folderId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "collections",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "collectionId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          },
+          {
+            "table": "folders",
+            "onDelete": "SET NULL",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "folderId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "folders",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `collectionId` INTEGER NOT NULL, `name` TEXT NOT NULL, `parentFolderId` INTEGER, `sortOrder` INTEGER NOT NULL DEFAULT 0, FOREIGN KEY(`collectionId`) REFERENCES `collections`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`parentFolderId`) REFERENCES `folders`(`id`) ON UPDATE NO ACTION ON DELETE NO ACTION )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "collectionId",
+            "columnName": "collectionId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "parentFolderId",
+            "columnName": "parentFolderId",
+            "affinity": "INTEGER"
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_folders_collectionId",
+            "unique": false,
+            "columnNames": [
+              "collectionId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_folders_collectionId` ON `${TABLE_NAME}` (`collectionId`)"
+          },
+          {
+            "name": "index_folders_parentFolderId",
+            "unique": false,
+            "columnNames": [
+              "parentFolderId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_folders_parentFolderId` ON `${TABLE_NAME}` (`parentFolderId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "collections",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "collectionId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          },
+          {
+            "table": "folders",
+            "onDelete": "NO ACTION",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "parentFolderId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "checklist_items",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `cardId` INTEGER NOT NULL, `text` TEXT NOT NULL, `checked` INTEGER NOT NULL, `sortOrder` INTEGER NOT NULL, FOREIGN KEY(`cardId`) REFERENCES `cards`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "cardId",
+            "columnName": "cardId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "text",
+            "columnName": "text",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "checked",
+            "columnName": "checked",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_checklist_items_cardId",
+            "unique": false,
+            "columnNames": [
+              "cardId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_items_cardId` ON `${TABLE_NAME}` (`cardId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "cards",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "cardId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "vaults",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`collectionId` INTEGER NOT NULL, `pinSalt` BLOB NOT NULL, `pinNonce` BLOB NOT NULL, `keystoreNonce` BLOB NOT NULL, `wrappedDataKey` BLOB NOT NULL, `failedAttempts` INTEGER NOT NULL, PRIMARY KEY(`collectionId`), FOREIGN KEY(`collectionId`) REFERENCES `collections`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "collectionId",
+            "columnName": "collectionId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pinSalt",
+            "columnName": "pinSalt",
+            "affinity": "BLOB",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pinNonce",
+            "columnName": "pinNonce",
+            "affinity": "BLOB",
+            "notNull": true
+          },
+          {
+            "fieldPath": "keystoreNonce",
+            "columnName": "keystoreNonce",
+            "affinity": "BLOB",
+            "notNull": true
+          },
+          {
+            "fieldPath": "wrappedDataKey",
+            "columnName": "wrappedDataKey",
+            "affinity": "BLOB",
+            "notNull": true
+          },
+          {
+            "fieldPath": "failedAttempts",
+            "columnName": "failedAttempts",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "collectionId"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_vaults_collectionId",
+            "unique": true,
+            "columnNames": [
+              "collectionId"
+            ],
+            "orders": [],
+            "createSql": "CREATE UNIQUE INDEX IF NOT EXISTS `index_vaults_collectionId` ON `${TABLE_NAME}` (`collectionId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "collections",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "collectionId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "vault_cards",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `vaultId` INTEGER NOT NULL, `nonce` BLOB NOT NULL, `ciphertext` BLOB NOT NULL, `sortOrder` INTEGER NOT NULL, FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`collectionId`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "nonce",
+            "columnName": "nonce",
+            "affinity": "BLOB",
+            "notNull": true
+          },
+          {
+            "fieldPath": "ciphertext",
+            "columnName": "ciphertext",
+            "affinity": "BLOB",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_vault_cards_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_vault_cards_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "collectionId"
+            ]
+          }
+        ]
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '2347153089868a96f144f5de76036b4c')"
+    ]
+  }
+}

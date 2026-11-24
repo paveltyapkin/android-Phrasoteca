@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings_home_24"
+        android:title="@string/settings_title"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_search_cards"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/search_cards"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_achievements"
+        android:title="@string/achievements_title"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_idiom_challenge"
+        android:title="@string/idiom_game_title"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_phrase_challenge_demo"
+        android:title="@string/phrase_demo_title"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_import"
+        android:title="@string/import_collections"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_export"
+        android:title="@string/export_collections"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_share_collection_qr"
+        android:title="@string/qr_collection_share"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_import_collection_qr"
+        android:title="@string/qr_collection_import"
+        app:showAsAction="never" />
+</menu>

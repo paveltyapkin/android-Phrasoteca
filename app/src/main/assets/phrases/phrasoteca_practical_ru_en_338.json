@@ -1,0 +1,3458 @@
+{
+  "format": "phrasoteca-phrase-library",
+  "version": 1,
+  "setId": "practical-ru-en-338-qa",
+  "title": "Phrasoteca — Practical RU/EN (QA)",
+  "description": "Bilingual test candidate, not yet integrated. Modes are metadata; currently installed v0.94 parser ignores them. Only ru/en translations included.",
+  "defaultLocales": [
+    "ru-RU",
+    "en-US",
+    "en-GB"
+  ],
+  "phrases": [
+    {
+      "id": "phrase_001",
+      "category": "communication",
+      "translations": {
+        "ru": "Здравствуйте!",
+        "en": "Hello!"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_002",
+      "category": "communication",
+      "translations": {
+        "ru": "Спасибо за помощь!",
+        "en": "Thank you for your help!"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_003",
+      "category": "communication",
+      "translations": {
+        "ru": "Спасибо, хорошего вам дня!",
+        "en": "Thank you. Have a nice day!"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_004",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините, я не понимаю.",
+        "en": "Excuse me, I don’t understand."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_005",
+      "category": "communication",
+      "translations": {
+        "ru": "К сожалению, я не понимаю. Сейчас открою переводчик, чтобы мы могли общаться через него.",
+        "en": "I’m sorry, I don’t understand. I’ll open a translation app so we can communicate."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_006",
+      "category": "communication",
+      "translations": {
+        "ru": "Я пока плохо говорю на вашем языке.",
+        "en": "I don’t speak your language very well yet."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_007",
+      "category": "communication",
+      "translations": {
+        "ru": "Хочу с вами пообщаться, но пока недостаточно хорошо знаю ваш язык.",
+        "en": "I’d like to talk with you, but I don’t know your language well enough yet."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_008",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, говорите медленнее.",
+        "en": "Please speak more slowly."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_009",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, повторите ещё раз.",
+        "en": "Could you repeat that, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_010",
+      "category": "communication",
+      "translations": {
+        "ru": "Вы говорите по-английски?",
+        "en": "Do you speak English?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_011",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините, я не понимаю. Вы говорите по-английски?",
+        "en": "Sorry, I don’t understand. Do you speak English?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_012",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, напишите ответ на моём телефоне.",
+        "en": "Please type your answer on my phone."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_013",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите это место на карте.",
+        "en": "Please show me this place on the map."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_014",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите пальцем, куда мне идти.",
+        "en": "Please point to the direction I should go."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_015",
+      "category": "communication",
+      "translations": {
+        "ru": "Можно показать вам фотографию?",
+        "en": "Can I show you a photo?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_016",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, ответьте «да» или «нет» на экране.",
+        "en": "Please select “Yes” or “No” on the screen."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_017",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите, какой вариант выбрать.",
+        "en": "Please show me which option to choose."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_018",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, напишите на моём телефоне дату, время или сумму.",
+        "en": "Please type the date, time or amount on my phone."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_019",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините, сейчас я не могу говорить.",
+        "en": "Sorry, I can’t speak right now."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_020",
+      "category": "communication",
+      "translations": {
+        "ru": "Я не слышу. Пожалуйста, общайтесь со мной письменно.",
+        "en": "I can’t hear. Please communicate with me in writing."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_021",
+      "category": "communication",
+      "translations": {
+        "ru": "Я не слышу и не могу говорить. Пожалуйста, общайтесь со мной письменно.",
+        "en": "I can’t hear or speak. Please communicate with me in writing."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_022",
+      "category": "communication",
+      "translations": {
+        "ru": "Извините за неудобства.",
+        "en": "Sorry for the inconvenience."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_023",
+      "category": "communication",
+      "translations": {
+        "ru": "Я здесь временно. Цель поездки — туризм.",
+        "en": "I’m here temporarily. The purpose of my trip is tourism."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_024",
+      "category": "communication",
+      "translations": {
+        "ru": "Я турист. Здесь не проживаю постоянно.",
+        "en": "I’m a tourist. I don’t live here permanently."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_025",
+      "category": "communication",
+      "translations": {
+        "ru": "Можно воспользоваться вашим Wi-Fi, чтобы открыть переводчик?",
+        "en": "Can I use your Wi-Fi to open a translation app?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_026",
+      "category": "communication",
+      "translations": {
+        "ru": "Я могу переписываться, но не могу разговаривать по телефону на вашем языке.",
+        "en": "I can communicate by text, but I can’t speak your language over the phone."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_027",
+      "category": "communication",
+      "translations": {
+        "ru": "Пожалуйста, покажите, как это работает.",
+        "en": "Please show me how this works."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_028",
+      "category": "communication",
+      "translations": {
+        "ru": "Я не знаю местных правил. Пожалуйста, объясните их через переводчик.",
+        "en": "I’m not familiar with the local rules. Please explain them using a translation app."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_029",
+      "category": "communication",
+      "translations": {
+        "ru": "Мне нужна помощь сотрудника, который говорит по-английски.",
+        "en": "I need help from a staff member who speaks English."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_030",
+      "category": "communication",
+      "translations": {
+        "ru": "Спасибо за терпение.",
+        "en": "Thank you for your patience."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Общение и языковой барьер"
+    },
+    {
+      "id": "phrase_031",
+      "category": "shopping",
+      "translations": {
+        "ru": "Сколько это стоит?",
+        "en": "How much does this cost?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_032",
+      "category": "shopping",
+      "translations": {
+        "ru": "Сколько стоит один килограмм этого товара?",
+        "en": "How much does one kilogram of this item cost?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_033",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно оплатить банковской картой?",
+        "en": "Can I pay by card?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_034",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно оплатить наличными?",
+        "en": "Can I pay in cash?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_035",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня нет с собой банковской карты.",
+        "en": "I don't have my bank card with me."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_036",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня сейчас нет наличных.",
+        "en": "I don't have any cash on me right now."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_037",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня недостаточно денег для оплаты.",
+        "en": "I don't have enough money to pay."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_038",
+      "category": "shopping",
+      "translations": {
+        "ru": "У меня нет карты постоянного покупателя.",
+        "en": "I don't have a loyalty card for this store."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_039",
+      "category": "shopping",
+      "translations": {
+        "ru": "Как оформить карту постоянного покупателя? Пожалуйста, покажите условия.",
+        "en": "How can I get a store loyalty card? Please show me the terms and conditions."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_040",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен пакет. Количество указано на экране.",
+        "en": "I need some bags. The quantity is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_041",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно это примерить?",
+        "en": "Can I try this on?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_042",
+      "category": "shopping",
+      "translations": {
+        "ru": "Где находится примерочная?",
+        "en": "Where is the fitting room?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_043",
+      "category": "shopping",
+      "translations": {
+        "ru": "Есть ли этот товар другого размера?",
+        "en": "Do you have this item in another size?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_044",
+      "category": "shopping",
+      "translations": {
+        "ru": "Есть ли эта обувь моего размера?",
+        "en": "Do you have these shoes in my size?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_045",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно сделать скидку на этот товар?",
+        "en": "Could you give me a discount on this item?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_046",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне, пожалуйста, вот это.",
+        "en": "I'd like this one, please."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_047",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна курица.",
+        "en": "I'm looking for chicken."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_048",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна говядина.",
+        "en": "I'm looking for beef."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_049",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен сыр.",
+        "en": "I'm looking for cheese."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_050",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно мороженое, пожалуйста?",
+        "en": "Could I have an ice cream, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_051",
+      "category": "shopping",
+      "translations": {
+        "ru": "До которого часа вы работаете? Пожалуйста, покажите время.",
+        "en": "What time do you close? Please show me the time."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_052",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно получить бумажный чек?",
+        "en": "Can I have a printed receipt?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_053",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно указать мой CPF при покупке?",
+        "en": "Can I provide my CPF number for this purchase?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата",
+      "region": "pt-BR"
+    },
+    {
+      "id": "phrase_054",
+      "category": "shopping",
+      "translations": {
+        "ru": "Эта услуга бесплатная или платная?",
+        "en": "Is this service free, or is there a charge?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_055",
+      "category": "shopping",
+      "translations": {
+        "ru": "Я хочу вернуть этот товар.",
+        "en": "I'd like to return this item."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_056",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно обменять этот товар на другой размер?",
+        "en": "Can I exchange this item for a different size?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_057",
+      "category": "shopping",
+      "translations": {
+        "ru": "Этот товар оказался неисправным.",
+        "en": "This item is faulty."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_058",
+      "category": "shopping",
+      "translations": {
+        "ru": "На ценнике указана другая цена.",
+        "en": "The price on the shelf label is different."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_059",
+      "category": "shopping",
+      "translations": {
+        "ru": "Пожалуйста, проверьте сумму перед оплатой.",
+        "en": "Please check the total before I pay."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_060",
+      "category": "shopping",
+      "translations": {
+        "ru": "Оплата уже произведена. Вот подтверждение.",
+        "en": "I've already paid. Here's the confirmation."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_061",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно вернуть деньги на ту же банковскую карту?",
+        "en": "Can you refund the money to the same bank card?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_062",
+      "category": "shopping",
+      "translations": {
+        "ru": "Пожалуйста, покажите итоговую сумму на терминале.",
+        "en": "Please show me the final amount on the card terminal."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_063",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна помощь сотрудника магазина.",
+        "en": "I need help from a store employee."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_064",
+      "category": "shopping",
+      "translations": {
+        "ru": "Оплата не проходит. Можно попробовать ещё раз?",
+        "en": "The payment isn't going through. Can we try again?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_065",
+      "category": "shopping",
+      "translations": {
+        "ru": "Деньги списались, но оплата не подтверждена.",
+        "en": "The money was taken from my account, but the payment was not confirmed."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_066",
+      "category": "shopping",
+      "translations": {
+        "ru": "Кажется, деньги списались дважды.",
+        "en": "I think I was charged twice."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_067",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно получить подтверждение возврата?",
+        "en": "Can I have confirmation of the refund?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_068",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен этот товар в количестве, указанном на экране.",
+        "en": "I need this item in the quantity shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_069",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужен этот товар в количестве килограммов, указанном на экране.",
+        "en": "I need the weight of this item shown on the screen, in kilograms."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_070",
+      "category": "shopping",
+      "translations": {
+        "ru": "Мне нужна пачка сигарет. Количество указано на экране.",
+        "en": "I need packs of cigarettes. The quantity is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_071",
+      "category": "shopping",
+      "translations": {
+        "ru": "Можно получить квитанцию об оплате?",
+        "en": "Can I have proof of payment?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_072",
+      "category": "shopping",
+      "translations": {
+        "ru": "Пожалуйста, покажите способы оплаты.",
+        "en": "Please show me the available payment methods."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Покупки и оплата"
+    },
+    {
+      "id": "phrase_073",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Меню, пожалуйста.",
+        "en": "The menu, please."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_074",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Где находится вход в ресторан?",
+        "en": "Where is the entrance to the restaurant?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_075",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно сесть здесь?",
+        "en": "May I sit here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_076",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Есть свободный столик?",
+        "en": "Is there a table available?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_077",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Нужно заранее бронировать стол?",
+        "en": "Do I need to reserve a table in advance?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_078",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно заказать вот это?",
+        "en": "Can I order this, please?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_079",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, покажите приблизительную цену основных блюд.",
+        "en": "Please show me the approximate prices of the main dishes."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_080",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Мне нужна вода в бутылках. Количество указано на экране.",
+        "en": "I would like bottled water. The quantity is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_081",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Мне нужна питьевая вода в стаканах. Количество указано на экране.",
+        "en": "I would like glasses of drinking water. The quantity is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_082",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Счёт, пожалуйста.",
+        "en": "The bill, please."
+      },
+      "regionalOverrides": {
+        "en-US": "The check, please."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_083",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесите столовые приборы, пожалуйста.",
+        "en": "Could you bring some cutlery, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_084",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесите палочки для еды, пожалуйста.",
+        "en": "Could you bring some chopsticks, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_085",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесите салфетки, пожалуйста.",
+        "en": "Could you bring some napkins, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_086",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно помочь заказать такси? Я покажу адрес.",
+        "en": "Could you help me book a taxi? I will show you the address."
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_087",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно заказать еду с собой?",
+        "en": "Can I order food to take away?"
+      },
+      "regionalOverrides": {
+        "en-US": "Can I order food to go?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_088",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, без сахара.",
+        "en": "No sugar, please."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_089",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, без льда.",
+        "en": "No ice, please."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_090",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно упаковать оставшуюся еду с собой?",
+        "en": "Could you pack the leftovers for me to take away?"
+      },
+      "regionalOverrides": {
+        "en-US": "Could you box up the leftovers for me?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_091",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно ещё раз заказать то же самое?",
+        "en": "Can I order the same thing again?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_092",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Заказ ещё не принесли. Пожалуйста, проверьте его статус.",
+        "en": "My order has not arrived yet. Could you check its status, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_093",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Принесли не то блюдо, которое было заказано. Пожалуйста, проверьте заказ.",
+        "en": "This is not the dish that was ordered. Could you check the order, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_094",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно долить горячей воды в чайник?",
+        "en": "Could you add some more hot water to the teapot, please?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_095",
+      "category": "restaurant",
+      "translations": {
+        "ru": "У меня аллергия на этот продукт. Пожалуйста, проверьте состав блюда.",
+        "en": "I am allergic to this food item. Please check the ingredients in the dish."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_096",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, покажите, какие блюда не содержат этот ингредиент.",
+        "en": "Please show me which dishes do not contain this ingredient."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_097",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно получить отдельный счёт?",
+        "en": "Can I have a separate bill?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_098",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Пожалуйста, принесите дополнительные порции этого блюда. Количество указано на экране.",
+        "en": "Could you bring additional servings of this dish, please? The quantity is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_099",
+      "category": "restaurant",
+      "translations": {
+        "ru": "Можно получить питьевую воду?",
+        "en": "Could I have some drinking water, please?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Кафе и рестораны"
+    },
+    {
+      "id": "phrase_100",
+      "category": "transport",
+      "translations": {
+        "ru": "Где находится ближайшая станция метро?",
+        "en": "Where is the nearest metro station?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_101",
+      "category": "transport",
+      "translations": {
+        "ru": "Где купить билет на транспорт?",
+        "en": "Where can I buy a ticket for public transport?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_102",
+      "category": "transport",
+      "translations": {
+        "ru": "Мне нужны билеты. Количество указано на экране.",
+        "en": "I need tickets. The quantity is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_103",
+      "category": "transport",
+      "translations": {
+        "ru": "Мне нужна транспортная карта.",
+        "en": "I need a public transport card."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_104",
+      "category": "transport",
+      "translations": {
+        "ru": "Хочу пополнить транспортную карту на сумму, указанную на экране.",
+        "en": "I would like to top up my transport card with the amount shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_105",
+      "category": "transport",
+      "translations": {
+        "ru": "Этот поезд идёт до станции, которую я показываю?",
+        "en": "Does this train go to the station I'm pointing to?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_106",
+      "category": "transport",
+      "translations": {
+        "ru": "До какой конечной станции идёт этот поезд? Пожалуйста, покажите на карте.",
+        "en": "What is this train's final destination? Please show me on the map."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_107",
+      "category": "transport",
+      "translations": {
+        "ru": "Где находится выход со станции?",
+        "en": "Where is the station exit?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_108",
+      "category": "transport",
+      "translations": {
+        "ru": "В приложении такси выбрана оплата банковской картой.",
+        "en": "I've selected card payment in the taxi app."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_109",
+      "category": "transport",
+      "translations": {
+        "ru": "У нас много багажа. Он поместится в багажнике?",
+        "en": "We have a lot of luggage. Will it fit in the trunk?"
+      },
+      "regionalOverrides": {
+        "en-GB": "We have a lot of luggage. Will it fit in the boot?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_110",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, откройте багажник.",
+        "en": "Please open the trunk."
+      },
+      "regionalOverrides": {
+        "en-GB": "Please open the boot."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_111",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, остановите здесь, если это разрешено.",
+        "en": "Please stop here if it's allowed."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_112",
+      "category": "transport",
+      "translations": {
+        "ru": "Я опаздываю. Пожалуйста, выберите самый быстрый маршрут с соблюдением правил движения.",
+        "en": "I'm running late. Please take the fastest route while obeying traffic laws."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_113",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно арендовать самокат?",
+        "en": "Can I rent an electric scooter?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_114",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно арендовать автомобиль?",
+        "en": "Can I rent a car?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_115",
+      "category": "transport",
+      "translations": {
+        "ru": "Мне нужно добраться до центра города. Пожалуйста, покажите маршрут.",
+        "en": "I need to get to the city centre. Please show me the route."
+      },
+      "regionalOverrides": {
+        "en-US": "I need to get downtown. Please show me the route."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_116",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, покажите на карте, где нужно выйти.",
+        "en": "Please show me on the map where I should get off."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_117",
+      "category": "transport",
+      "translations": {
+        "ru": "Это нужная мне остановка?",
+        "en": "Is this the stop I need?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_118",
+      "category": "transport",
+      "translations": {
+        "ru": "Сколько стоит проезд?",
+        "en": "How much is the fare?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_119",
+      "category": "transport",
+      "translations": {
+        "ru": "Этот транспорт идёт в направлении, указанном на моей карте?",
+        "en": "Is this vehicle going in the direction shown on my map?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_120",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно доехать до указанного места без пересадки?",
+        "en": "Can I get to the place shown without changing vehicles?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_121",
+      "category": "transport",
+      "translations": {
+        "ru": "На какой остановке мне выйти? Пожалуйста, покажите её на экране.",
+        "en": "Which stop should I get off at? Please show me on the screen."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_122",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, сообщите мне, когда нужно выходить.",
+        "en": "Please let me know when it's time for me to get off."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_123",
+      "category": "transport",
+      "translations": {
+        "ru": "Здесь нужно пересесть на другой поезд?",
+        "en": "Do I need to change to another train here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_124",
+      "category": "transport",
+      "translations": {
+        "ru": "Этой транспортной картой можно оплатить поездку?",
+        "en": "Can I pay for this journey with this transport card?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_125",
+      "category": "transport",
+      "translations": {
+        "ru": "На транспортной карте недостаточно средств. Пожалуйста, покажите, где её пополнить.",
+        "en": "There isn't enough credit on my transport card. Please show me where I can top it up."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_126",
+      "category": "transport",
+      "translations": {
+        "ru": "Нужно добраться по этому адресу. Пожалуйста, посмотрите на карту.",
+        "en": "I need to get to this address. Please look at the map."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_127",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, высадите меня у главного входа.",
+        "en": "Please drop me off at the main entrance."
+      },
+      "regionalOverrides": {
+        "en-US": "Please drop me off at the main entrance."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_128",
+      "category": "transport",
+      "translations": {
+        "ru": "Пожалуйста, откройте дверь. Мне нужно выйти.",
+        "en": "Please open the door. I need to get out."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_129",
+      "category": "transport",
+      "translations": {
+        "ru": "В транспорте осталась моя вещь. Куда обратиться? Пожалуйста, покажите.",
+        "en": "I left something on public transport. Where should I go? Please show me."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_130",
+      "category": "transport",
+      "translations": {
+        "ru": "Можно показать стоимость поездки до её начала?",
+        "en": "Can you show me the fare before the journey starts?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Транспорт и такси"
+    },
+    {
+      "id": "phrase_131",
+      "category": "airport",
+      "translations": {
+        "ru": "Где находится стойка регистрации?",
+        "en": "Where is the check-in counter?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_132",
+      "category": "airport",
+      "translations": {
+        "ru": "Онлайн-регистрация на рейс уже пройдена.",
+        "en": "I've already checked in online for my flight."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_133",
+      "category": "airport",
+      "translations": {
+        "ru": "Как пройти к выходу на посадку?",
+        "en": "How do I get to the boarding gate?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_134",
+      "category": "airport",
+      "translations": {
+        "ru": "Это мой выход на посадку? Вот билет.",
+        "en": "Is this my boarding gate? Here's my ticket."
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_135",
+      "category": "airport",
+      "translations": {
+        "ru": "Где получить багаж?",
+        "en": "Where can I collect my baggage?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_136",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно провезти это в ручной клади?",
+        "en": "Can I take this in my carry-on baggage?"
+      },
+      "regionalOverrides": {
+        "en-GB": "Can I take this in my hand luggage?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_137",
+      "category": "airport",
+      "translations": {
+        "ru": "Где сдать регистрируемый багаж?",
+        "en": "Where can I drop off my checked baggage?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_138",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно поднять шторку иллюминатора?",
+        "en": "Could you raise the window shade, please?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_139",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно опустить шторку иллюминатора?",
+        "en": "Could you lower the window shade, please?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_140",
+      "category": "airport",
+      "translations": {
+        "ru": "Здесь тесно. Можно пересесть на свободное место, где больше пространства?",
+        "en": "There's not much room here. Could I move to an available seat with more space?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_141",
+      "category": "airport",
+      "translations": {
+        "ru": "У меня пересадка на другой рейс.",
+        "en": "I have a connecting flight."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_142",
+      "category": "airport",
+      "translations": {
+        "ru": "Где находится зона международных пересадок?",
+        "en": "Where is the international transfer area?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_143",
+      "category": "airport",
+      "translations": {
+        "ru": "Цель поездки — туризм.",
+        "en": "The purpose of my trip is tourism."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_144",
+      "category": "airport",
+      "translations": {
+        "ru": "Наши паспорта находятся в месте проживания.",
+        "en": "Our passports are at our accommodation."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_147",
+      "category": "airport",
+      "translations": {
+        "ru": "Пожалуйста, покажите мой рейс на информационном табло.",
+        "en": "Please show me my flight on the information board."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_148",
+      "category": "airport",
+      "translations": {
+        "ru": "Где проходит паспортный контроль?",
+        "en": "Where is passport control?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_149",
+      "category": "airport",
+      "translations": {
+        "ru": "Мой багаж не прибыл. Куда обратиться?",
+        "en": "My baggage hasn't arrived. Where should I go?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_150",
+      "category": "airport",
+      "translations": {
+        "ru": "Можно получить письменное подтверждение задержки багажа?",
+        "en": "Can I get written confirmation of the baggage delay?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_151",
+      "category": "airport",
+      "translations": {
+        "ru": "Мне нужна помощь с пересадкой на следующий рейс.",
+        "en": "I need help making my connection to the next flight."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_152",
+      "category": "airport",
+      "translations": {
+        "ru": "Мой рейс задерживается? Пожалуйста, покажите информацию на табло.",
+        "en": "Is my flight delayed? Please show me the information on the board."
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Аэропорт и перелёты"
+    },
+    {
+      "id": "phrase_153",
+      "category": "accommodation",
+      "translations": {
+        "ru": "У нас есть бронирование через Booking.com.",
+        "en": "We have a booking through Booking.com."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_154",
+      "category": "accommodation",
+      "translations": {
+        "ru": "У нас есть бронирование через Airbnb.",
+        "en": "We have a booking through Airbnb."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_155",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Нам нужно проживание на количество дней, указанное на экране.",
+        "en": "We need accommodation for the number of days shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_156",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно продлить проживание на количество дней, указанное на экране?",
+        "en": "Can we extend our stay by the number of days shown on the screen?"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_157",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Мне нужен номер с окном, которое можно открыть.",
+        "en": "I need a room with a window that opens."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_158",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Условия проживания не соответствуют описанию. Можно поменять номер?",
+        "en": "The accommodation doesn't match the description. Can we change rooms?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_159",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В здании есть тренажёрный зал?",
+        "en": "Is there a gym in the building?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_160",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Посещение тренажёрного зала включено в стоимость?",
+        "en": "Is gym access included in the price?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_161",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В здании есть прачечная?",
+        "en": "Is there a laundry room in the building?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_162",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Как пользоваться прачечной? Пожалуйста, покажите.",
+        "en": "How do I use the laundry facilities? Please show me."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_163",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере не работает Wi-Fi. Пожалуйста, помогите восстановить подключение.",
+        "en": "The Wi-Fi in the room isn't working. Please help restore the connection."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_164",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере нет горячей воды.",
+        "en": "There's no hot water in the room."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_165",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере недостаточно полотенец. Можно принести дополнительные?",
+        "en": "There aren't enough towels in the room. Could you bring some more?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_166",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Где нужно выбрасывать мусор?",
+        "en": "Where should we dispose of the rubbish?"
+      },
+      "regionalOverrides": {
+        "en-US": "Where should we put the trash?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_167",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно оставить багаж после выезда?",
+        "en": "Can we leave our luggage here after check-out?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_168",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Как получить доступ в здание?",
+        "en": "How do we get into the building?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_169",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, напишите код доступа.",
+        "en": "Please write down the access code."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_170",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В стоимость включены коммунальные услуги?",
+        "en": "Are utilities included in the price?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_171",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Здесь разрешено проживание с животными?",
+        "en": "Are pets allowed here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_172",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить подтверждение бронирования?",
+        "en": "Can we get confirmation of our booking?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_173",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, откройте дверь.",
+        "en": "Please open the door."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_174",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Во сколько нужно освободить номер? Пожалуйста, напишите время.",
+        "en": "What time do we need to check out? Please write down the time."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_175",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Соседи сильно шумят. Можете помочь решить проблему?",
+        "en": "The neighbours are making a lot of noise. Could you help resolve this?"
+      },
+      "regionalOverrides": {
+        "en-US": "The neighbors are making a lot of noise. Could you help resolve this?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_176",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Мы готовы выехать из номера. Как оформить выезд?",
+        "en": "We're ready to check out. What do we need to do?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_177",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Кондиционер не работает. Можно вызвать специалиста?",
+        "en": "The air conditioning isn't working. Can you send someone to fix it?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_178",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В номере требуется уборка.",
+        "en": "The room needs cleaning."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_179",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно организовать поздний выезд?",
+        "en": "Can we arrange a late check-out?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_180",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Проблема ещё не решена. Пожалуйста, напишите, когда её устранят.",
+        "en": "The problem still hasn't been resolved. Please write down when it will be fixed."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_181",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Регистрация уже пройдена, но система не открывает дверь.",
+        "en": "We've already completed registration, but the access system won't open the door."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_182",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Код доступа не работает. Пожалуйста, проверьте его.",
+        "en": "The access code isn't working. Please check it."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_183",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Не получается связаться с владельцем жилья. Пожалуйста, помогите.",
+        "en": "We can't get in touch with the property owner. Please help us."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_184",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Когда сможет прийти специалист? Пожалуйста, напишите время.",
+        "en": "When can a technician come? Please write down the time."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_185",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно проверить неисправность сейчас?",
+        "en": "Can you check the problem now?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_186",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить письменное подтверждение решения проблемы?",
+        "en": "Can we get written confirmation that the problem has been resolved?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_187",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Если проблему нельзя устранить, можно предложить другое жильё или частичный возврат денег?",
+        "en": "If the problem can't be fixed, could you offer alternative accommodation or a partial refund?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_188",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно арендовать квартиру на количество месяцев, указанное на экране?",
+        "en": "Can we rent the apartment for the number of months shown on the screen?"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_189",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно посмотреть квартиру перед оплатой?",
+        "en": "Can we view the apartment before paying?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_190",
+      "category": "accommodation",
+      "translations": {
+        "ru": "В стоимость включены вода, электричество и интернет?",
+        "en": "Are water, electricity and internet included in the price?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_191",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Какова сумма залога? Пожалуйста, напишите её.",
+        "en": "How much is the security deposit? Please write down the amount."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_192",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Залог возвращается после выезда?",
+        "en": "Will the security deposit be returned after we move out?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_193",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить письменный договор аренды?",
+        "en": "Can we get a written rental agreement?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_194",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, покажите условия отмены бронирования.",
+        "en": "Please show us the booking cancellation terms."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_195",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно оплатить аренду банковским переводом?",
+        "en": "Can we pay the rent by bank transfer?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_196",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, отправьте подтверждение получения оплаты.",
+        "en": "Please send confirmation that you've received the payment."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_197",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно продлить договор на количество месяцев, указанное на экране?",
+        "en": "Can we extend the lease by the number of months shown on the screen?"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_198",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Мне нужно сообщить о неисправности в квартире.",
+        "en": "I need to report a problem in the apartment."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_199",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, согласуйте со мной время прихода специалиста.",
+        "en": "Please arrange a time with me before the technician comes."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_200",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, предупреждайте заранее, если кто-то собирается войти в квартиру.",
+        "en": "Please let me know in advance if anyone is planning to enter the apartment."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_201",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Пожалуйста, проверьте состояние квартиры перед выездом.",
+        "en": "Please inspect the apartment before we move out."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_202",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Когда можно получить залог обратно? Пожалуйста, напишите дату.",
+        "en": "When will the security deposit be returned? Please write down the date."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_203",
+      "category": "accommodation",
+      "translations": {
+        "ru": "Можно получить ещё один комплект постельного белья?",
+        "en": "Could we get another set of bed linen?"
+      },
+      "regionalOverrides": {
+        "en-US": "Could we get another set of bed sheets?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Жильё и аренда"
+    },
+    {
+      "id": "phrase_236",
+      "category": "banking",
+      "translations": {
+        "ru": "У меня есть доллары США. Хочу обменять их на местную валюту.",
+        "en": "I have US dollars and would like to exchange them for the local currency."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_237",
+      "category": "banking",
+      "translations": {
+        "ru": "Хочу купить доллары США за местную валюту.",
+        "en": "I'd like to buy US dollars using the local currency."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_238",
+      "category": "banking",
+      "translations": {
+        "ru": "По какому курсу вы покупаете доллары США сегодня? Пожалуйста, покажите курс.",
+        "en": "What exchange rate are you offering for buying US dollars today? Please show me the rate."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_239",
+      "category": "banking",
+      "translations": {
+        "ru": "По какому курсу вы продаёте доллары США сегодня? Пожалуйста, покажите курс.",
+        "en": "What exchange rate are you offering for selling US dollars today? Please show me the rate."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_240",
+      "category": "banking",
+      "translations": {
+        "ru": "При обмене взимается комиссия?",
+        "en": "Is there a fee for exchanging money?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_241",
+      "category": "banking",
+      "translations": {
+        "ru": "Сколько я получу после обмена? Пожалуйста, покажите сумму.",
+        "en": "How much will I receive after the exchange? Please show me the amount."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_242",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно обменять только часть суммы?",
+        "en": "Can I exchange only part of the amount?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_243",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить квитанцию об обмене?",
+        "en": "Can I get a receipt for the currency exchange?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_244",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно открыть банковский счёт по заграничному паспорту?",
+        "en": "Can I open a bank account using my passport?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_245",
+      "category": "banking",
+      "translations": {
+        "ru": "Я нахожусь здесь как турист.",
+        "en": "I'm here as a tourist."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_246",
+      "category": "banking",
+      "translations": {
+        "ru": "У меня нет местного удостоверения личности.",
+        "en": "I don't have a local ID card."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_247",
+      "category": "banking",
+      "translations": {
+        "ru": "У меня есть заграничный паспорт.",
+        "en": "I have a passport."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_248",
+      "category": "banking",
+      "translations": {
+        "ru": "Где ближайший банкомат?",
+        "en": "Where is the nearest ATM?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_249",
+      "category": "banking",
+      "translations": {
+        "ru": "Банкомат не выдал деньги.",
+        "en": "The ATM didn't dispense any cash."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_251",
+      "category": "banking",
+      "translations": {
+        "ru": "Мне нужен документ, подтверждающий оплату.",
+        "en": "I need proof of payment."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_252",
+      "category": "banking",
+      "translations": {
+        "ru": "Хочу продать доллары США. Сумма указана на экране.",
+        "en": "I'd like to sell US dollars. The amount is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_253",
+      "category": "banking",
+      "translations": {
+        "ru": "Хочу купить доллары США. Сумма указана на экране.",
+        "en": "I'd like to buy US dollars. The amount is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_254",
+      "category": "banking",
+      "translations": {
+        "ru": "Мне нужно записаться на приём.",
+        "en": "I'd like to make an appointment."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_255",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить эту услугу по заграничному паспорту?",
+        "en": "Can I access this service using my passport?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_256",
+      "category": "banking",
+      "translations": {
+        "ru": "Нужно заранее записываться?",
+        "en": "Do I need to make an appointment in advance?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_257",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, покажите перечень необходимых документов.",
+        "en": "Please show me the list of required documents."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_258",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, помогите заполнить эту форму.",
+        "en": "Could you help me fill out this form, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_259",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить копию документа?",
+        "en": "Can I get a copy of this document?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_260",
+      "category": "banking",
+      "translations": {
+        "ru": "Мне нужно заверить копию документа.",
+        "en": "I need to have a copy of this document certified."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_261",
+      "category": "banking",
+      "translations": {
+        "ru": "Для этой процедуры нужен официальный перевод документа?",
+        "en": "Is an official translation of the document required for this process?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_262",
+      "category": "banking",
+      "translations": {
+        "ru": "Нужно платить государственную пошлину?",
+        "en": "Is there a government fee to pay?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_263",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, напишите сумму и способ оплаты.",
+        "en": "Please write down the amount and how to pay it."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_264",
+      "category": "banking",
+      "translations": {
+        "ru": "Можно получить подтверждение подачи заявления?",
+        "en": "Can I get confirmation that my application was submitted?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_265",
+      "category": "banking",
+      "translations": {
+        "ru": "Пожалуйста, покажите, как проверить статус заявления на сайте.",
+        "en": "Please show me how to check the status of my application on the website."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_266",
+      "category": "banking",
+      "translations": {
+        "ru": "Я не понимаю условия документа. Пожалуйста, объясните через переводчик.",
+        "en": "I don't understand the terms of this document. Please explain them using a translation app."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Банки и документы"
+    },
+    {
+      "id": "phrase_267",
+      "category": "city",
+      "translations": {
+        "ru": "Можно вас сфотографировать?",
+        "en": "May I take a photo of you?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_268",
+      "category": "city",
+      "translations": {
+        "ru": "Можно сфотографироваться с вами?",
+        "en": "May I take a photo with you?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_269",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь разрешено фотографировать?",
+        "en": "Is photography allowed here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_270",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь разрешено запускать дрон?",
+        "en": "Is it allowed to fly a drone here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_271",
+      "category": "city",
+      "translations": {
+        "ru": "Можно погладить вашу собаку?",
+        "en": "May I pet your dog?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_272",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь разрешено гулять с собакой?",
+        "en": "Are dogs allowed to be walked here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_273",
+      "category": "city",
+      "translations": {
+        "ru": "Мне нужны билеты в кино. Количество указано на экране.",
+        "en": "I'd like tickets for the cinema. The number of tickets is shown on the screen."
+      },
+      "regionalOverrides": {
+        "en-US": "I'd like tickets for the movie theater. The number of tickets is shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_274",
+      "category": "city",
+      "translations": {
+        "ru": "Где находится вход?",
+        "en": "Where is the entrance?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_275",
+      "category": "city",
+      "translations": {
+        "ru": "Мне нужно пройти в тренажёрный зал. Пожалуйста, покажите вход.",
+        "en": "I need to get to the gym. Please show me the entrance."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_276",
+      "category": "city",
+      "translations": {
+        "ru": "Можно потанцевать вместе?",
+        "en": "Would you like to dance with me?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_277",
+      "category": "city",
+      "translations": {
+        "ru": "Вы прекрасно выглядите!",
+        "en": "You look wonderful!"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_278",
+      "category": "city",
+      "translations": {
+        "ru": "Кажется, вам тяжело. Могу я чем-нибудь помочь?",
+        "en": "You seem to be having a hard time. Can I help in any way?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_279",
+      "category": "city",
+      "translations": {
+        "ru": "Где ближайший парк?",
+        "en": "Where is the nearest park?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_280",
+      "category": "city",
+      "translations": {
+        "ru": "Здесь безопасно гулять вечером?",
+        "en": "Is it safe to walk here in the evening?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_281",
+      "category": "city",
+      "translations": {
+        "ru": "Можно воспользоваться туалетом?",
+        "en": "May I use the restroom?"
+      },
+      "regionalOverrides": {
+        "en-GB": "May I use the toilet?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_282",
+      "category": "city",
+      "translations": {
+        "ru": "У вас есть свободные вакансии?",
+        "en": "Are there any job openings here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_283",
+      "category": "city",
+      "translations": {
+        "ru": "Мне нужна информация о вакансиях и условиях трудоустройства.",
+        "en": "I'd like information about job openings and employment conditions."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_284",
+      "category": "city",
+      "translations": {
+        "ru": "Можно здесь присесть?",
+        "en": "May I sit here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_285",
+      "category": "city",
+      "translations": {
+        "ru": "Можно записаться на экскурсию?",
+        "en": "Can I sign up for a guided tour?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_286",
+      "category": "city",
+      "translations": {
+        "ru": "Где находится место встречи перед экскурсией?",
+        "en": "Where is the meeting point for the tour?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_287",
+      "category": "city",
+      "translations": {
+        "ru": "Нужно купить билет заранее?",
+        "en": "Do I need to buy a ticket in advance?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_288",
+      "category": "city",
+      "translations": {
+        "ru": "Можно присоединиться к экскурсии сегодня?",
+        "en": "Can I join the tour today?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_289",
+      "category": "city",
+      "translations": {
+        "ru": "Во сколько начинается экскурсия? Пожалуйста, покажите время.",
+        "en": "What time does the tour start? Please show me the time."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_290",
+      "category": "city",
+      "translations": {
+        "ru": "Где находится билетная касса?",
+        "en": "Where is the ticket office?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_291",
+      "category": "city",
+      "translations": {
+        "ru": "Вход бесплатный?",
+        "en": "Is admission free?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Город, экскурсии и досуг"
+    },
+    {
+      "id": "phrase_204",
+      "category": "health",
+      "translations": {
+        "ru": "Я плохо себя чувствую. Мне нужна помощь.",
+        "en": "I'm not feeling well. I need help."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_205",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна медицинская помощь.",
+        "en": "I need medical assistance."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_206",
+      "category": "health",
+      "translations": {
+        "ru": "Где находится ближайшее отделение неотложной помощи?",
+        "en": "Where is the nearest emergency department?"
+      },
+      "regionalOverrides": {
+        "en-GB": "Where is the nearest A&E department?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_207",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, вызовите скорую помощь прямо сейчас.",
+        "en": "Please call an ambulance right now."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_208",
+      "category": "health",
+      "translations": {
+        "ru": "Пассажиру стало плохо. Пожалуйста, остановитесь в безопасном месте и вызовите помощь.",
+        "en": "A passenger is feeling unwell. Please stop somewhere safe and call for help."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_209",
+      "category": "health",
+      "translations": {
+        "ru": "Здесь есть врач?",
+        "en": "Is there a doctor here?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_210",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужно средство от кашля. Пожалуйста, помогите обратиться к фармацевту.",
+        "en": "I need something for a cough. Please help me speak to a pharmacist."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_211",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужно жаропонижающее средство. Пожалуйста, помогите обратиться к фармацевту.",
+        "en": "I need medicine to reduce a fever. Please help me speak to a pharmacist."
+      },
+      "regionalOverrides": {
+        "en-GB": "I need medicine to bring down a fever. Please help me speak to a pharmacist."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_212",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергия. Можно обратиться за помощью к фармацевту?",
+        "en": "I have allergies. Can I speak to a pharmacist for help?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_213",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергия на это лекарство.",
+        "en": "I'm allergic to this medication."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_214",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергия на табачный дым.",
+        "en": "I'm allergic to tobacco smoke."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_215",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, напишите название лекарства и инструкцию по его применению.",
+        "en": "Please write down the name of the medicine and the instructions for taking it."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_216",
+      "category": "health",
+      "translations": {
+        "ru": "У вас есть солнцезащитный крем?",
+        "en": "Do you have sunscreen?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_217",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите связаться с полицией.",
+        "en": "Please help me contact the police."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_218",
+      "category": "health",
+      "translations": {
+        "ru": "Где находится ближайший полицейский участок?",
+        "en": "Where is the nearest police station?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_219",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите связаться с врачом.",
+        "en": "Please help me contact a doctor."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_220",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна аптека.",
+        "en": "I need a pharmacy."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_221",
+      "category": "health",
+      "translations": {
+        "ru": "Не давайте мне это лекарство: у меня на него аллергия.",
+        "en": "Please don't give me this medication. I'm allergic to it."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_222",
+      "category": "health",
+      "translations": {
+        "ru": "Человек потерял сознание.",
+        "en": "Someone has lost consciousness."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_223",
+      "category": "health",
+      "translations": {
+        "ru": "Человеку трудно дышать.",
+        "en": "Someone is having difficulty breathing."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_224",
+      "category": "health",
+      "translations": {
+        "ru": "У меня сильная боль. Нужна срочная медицинская помощь.",
+        "en": "I'm in severe pain. I need urgent medical attention."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_225",
+      "category": "health",
+      "translations": {
+        "ru": "У меня кружится голова. Мне нужно присесть.",
+        "en": "I feel dizzy. I need to sit down."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_226",
+      "category": "health",
+      "translations": {
+        "ru": "У меня высокая температура.",
+        "en": "I have a high fever."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_227",
+      "category": "health",
+      "translations": {
+        "ru": "У меня аллергическая реакция.",
+        "en": "I'm having an allergic reaction."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_228",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите найти медицинского работника.",
+        "en": "Please help me find a healthcare professional."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_229",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, помогите связаться с экстренными службами.",
+        "en": "Please help me contact emergency services."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_230",
+      "category": "health",
+      "translations": {
+        "ru": "Я не понимаю объяснение врача. Пожалуйста, запишите его.",
+        "en": "I don't understand the doctor's explanation. Please write it down."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_231",
+      "category": "health",
+      "translations": {
+        "ru": "Пожалуйста, покажите, куда нужно обратиться для регистрации.",
+        "en": "Please show me where to go to register."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_232",
+      "category": "health",
+      "translations": {
+        "ru": "Можно получить письменные инструкции по применению лекарства?",
+        "en": "Can I get written instructions on how to take this medication?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_233",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна помощь с переводом медицинской информации.",
+        "en": "I need help translating medical information."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_234",
+      "category": "health",
+      "translations": {
+        "ru": "Мне нужна помощь. У меня пропал телефон.",
+        "en": "I need help. My phone is missing."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_235",
+      "category": "health",
+      "translations": {
+        "ru": "У меня украли сумку с документами.",
+        "en": "My bag containing my documents has been stolen."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Здоровье и экстренная помощь"
+    },
+    {
+      "id": "phrase_292",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мне нужна местная SIM-карта с мобильным интернетом.",
+        "en": "I need a local SIM card with mobile data."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_293",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно оформить SIM-карту по заграничному паспорту?",
+        "en": "Can I register a SIM card using my passport?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_294",
+      "category": "connectivity",
+      "translations": {
+        "ru": "У меня нет местного идентификационного номера.",
+        "en": "I don't have a local identification number."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_295",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мне нужен тариф без долгосрочного договора.",
+        "en": "I need a mobile plan without a long-term contract."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_296",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мне нужен мобильный интернет на количество дней, указанное на экране.",
+        "en": "I need mobile data for the number of days shown on the screen."
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_297",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Сколько гигабайт включено в тариф? Пожалуйста, покажите.",
+        "en": "How many gigabytes of data are included in this plan? Please show me."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_298",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно пополнить баланс телефона на сумму, указанную на экране?",
+        "en": "Can I top up my phone balance with the amount shown on the screen?"
+      },
+      "mode": "QUANTITY",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_299",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Пожалуйста, помогите активировать SIM-карту.",
+        "en": "Please help me activate my SIM card."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_300",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Мобильный интернет не работает. Пожалуйста, проверьте настройки.",
+        "en": "My mobile data isn't working. Could you check the settings, please?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_301",
+      "category": "connectivity",
+      "translations": {
+        "ru": "В этом тарифе разрешена раздача интернета на ноутбук?",
+        "en": "Does this plan allow me to share my mobile data connection with a laptop?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_302",
+      "category": "connectivity",
+      "translations": {
+        "ru": "В тариф включены звонки и SMS?",
+        "en": "Are calls and text messages included in this plan?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_303",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Пожалуйста, запишите мой номер телефона или покажите, где его посмотреть.",
+        "en": "Please write down my phone number or show me where to find it."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_304",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно подключиться к вашей сети Wi-Fi?",
+        "en": "Can I connect to your Wi-Fi network?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_305",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Пожалуйста, покажите QR-код для подключения к Wi-Fi.",
+        "en": "Please show me the QR code for connecting to the Wi-Fi network."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_306",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно купить eSIM?",
+        "en": "Can I buy an eSIM?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_307",
+      "category": "connectivity",
+      "translations": {
+        "ru": "Можно пополнить баланс без банковской карты?",
+        "en": "Can I top up my balance without a bank card?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Связь и интернет"
+    },
+    {
+      "id": "phrase_308",
+      "category": "delivery",
+      "translations": {
+        "ru": "Я ожидаю доставку. Пожалуйста, напишите сообщение, когда курьер приедет.",
+        "en": "I'm expecting a delivery. Please send me a message when the courier arrives."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_309",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, оставьте посылку на стойке регистрации.",
+        "en": "Please leave the parcel at reception."
+      },
+      "regionalOverrides": {
+        "en-US": "Please leave the package at the front desk."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_310",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, передайте посылку охране здания.",
+        "en": "Please leave the parcel with the building's security staff."
+      },
+      "regionalOverrides": {
+        "en-US": "Please leave the package with the building’s security staff."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_311",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, подождите у входа. Я сейчас спущусь.",
+        "en": "Please wait at the entrance. I'm coming downstairs now."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_312",
+      "category": "delivery",
+      "translations": {
+        "ru": "Курьер не может найти адрес. Пожалуйста, посмотрите местоположение на карте.",
+        "en": "The courier can't find the address. Please look at the location on the map."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_313",
+      "category": "delivery",
+      "translations": {
+        "ru": "Здесь указан правильный адрес доставки?",
+        "en": "Is this the correct delivery address?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_314",
+      "category": "delivery",
+      "translations": {
+        "ru": "Для получения посылки нужен паспорт?",
+        "en": "Do I need my passport to collect the parcel?"
+      },
+      "regionalOverrides": {
+        "en-US": "Do I need my passport to pick up the package?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_315",
+      "category": "delivery",
+      "translations": {
+        "ru": "Мне пришло уведомление о доставке, но посылки нет.",
+        "en": "I received a delivery notification, but the parcel isn't here."
+      },
+      "regionalOverrides": {
+        "en-US": "I got a delivery notification, but the package isn't here."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_316",
+      "category": "delivery",
+      "translations": {
+        "ru": "Доставили не тот товар.",
+        "en": "The wrong item was delivered."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_317",
+      "category": "delivery",
+      "translations": {
+        "ru": "Упаковка повреждена. Можно проверить содержимое до подтверждения получения?",
+        "en": "The packaging is damaged. Can I check the contents before confirming receipt?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_318",
+      "category": "delivery",
+      "translations": {
+        "ru": "Можно оформить возврат доставленного товара?",
+        "en": "Can I return the delivered item?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_319",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, покажите ближайшее почтовое отделение на карте.",
+        "en": "Please show me the nearest post office on the map."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_320",
+      "category": "delivery",
+      "translations": {
+        "ru": "Мне нужно получить свою посылку.",
+        "en": "I'm here to collect my parcel."
+      },
+      "regionalOverrides": {
+        "en-US": "I'm here to pick up my package."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_321",
+      "category": "delivery",
+      "translations": {
+        "ru": "В заказе не хватает одного товара.",
+        "en": "One item is missing from my order."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_322",
+      "category": "delivery",
+      "translations": {
+        "ru": "Можно перенести доставку на другое время?",
+        "en": "Can I reschedule the delivery?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_323",
+      "category": "delivery",
+      "translations": {
+        "ru": "Пожалуйста, напишите номер заказа.",
+        "en": "Please write down the order number."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Доставка и почта"
+    },
+    {
+      "id": "phrase_324",
+      "category": "services",
+      "translations": {
+        "ru": "Устройство сломалось. Можно провести диагностику?",
+        "en": "The device is broken. Can you diagnose the problem?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_325",
+      "category": "services",
+      "translations": {
+        "ru": "Можно отремонтировать это, не заменяя устройство целиком?",
+        "en": "Can this be repaired without replacing the entire device?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_326",
+      "category": "services",
+      "translations": {
+        "ru": "Пожалуйста, покажите стоимость ремонта до начала работ.",
+        "en": "Please show me the repair cost before you start any work."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_327",
+      "category": "services",
+      "translations": {
+        "ru": "Сколько времени займёт ремонт? Пожалуйста, напишите срок.",
+        "en": "How long will the repair take? Please write down the estimated time."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_328",
+      "category": "services",
+      "translations": {
+        "ru": "Мне нужны паяльник, мультиметр и термоусадочная трубка.",
+        "en": "I need a soldering iron, a multimeter and heat-shrink tubing."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_329",
+      "category": "services",
+      "translations": {
+        "ru": "У вас есть место, где можно самостоятельно выполнить небольшой ремонт?",
+        "en": "Do you have a workspace where I can do a small repair myself?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_330",
+      "category": "services",
+      "translations": {
+        "ru": "Можно проверить устройство перед оплатой?",
+        "en": "Can I test the device before paying?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_331",
+      "category": "services",
+      "translations": {
+        "ru": "Пожалуйста, не удаляйте данные с устройства.",
+        "en": "Please don't delete any data from the device."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_332",
+      "category": "services",
+      "translations": {
+        "ru": "На ремонт предоставляется гарантия?",
+        "en": "Does the repair come with a warranty?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_333",
+      "category": "services",
+      "translations": {
+        "ru": "Можно получить чек с описанием выполненных работ?",
+        "en": "Can I get a receipt listing the work performed?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_334",
+      "category": "services",
+      "translations": {
+        "ru": "Проблема повторилась после ремонта.",
+        "en": "The same problem has come back after the repair."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_335",
+      "category": "services",
+      "translations": {
+        "ru": "Пожалуйста, сообщите письменно, когда устройство будет готово.",
+        "en": "Please let me know in writing when the device is ready."
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_336",
+      "category": "services",
+      "translations": {
+        "ru": "Можно распечатать документ?",
+        "en": "Can you print a document for me?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_337",
+      "category": "services",
+      "translations": {
+        "ru": "Можно сделать копию этого документа?",
+        "en": "Can you make a copy of this document?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_338",
+      "category": "services",
+      "translations": {
+        "ru": "Можно записаться на стрижку? Я покажу фотографию желаемого результата.",
+        "en": "Can I book a haircut? I'll show you a photo of the result I want."
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_339",
+      "category": "services",
+      "translations": {
+        "ru": "Можно записаться на маникюр?",
+        "en": "Can I book a manicure?"
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_340",
+      "category": "services",
+      "translations": {
+        "ru": "Можно записаться на окрашивание волос? Я покажу фотографию желаемого цвета.",
+        "en": "Can I book a hair-colouring appointment? I'll show you a photo of the colour I want."
+      },
+      "regionalOverrides": {
+        "en-US": "Can I book a hair-coloring appointment? I'll show you a photo of the color I want."
+      },
+      "mode": "YES_NO",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    },
+    {
+      "id": "phrase_341",
+      "category": "services",
+      "translations": {
+        "ru": "Мне нужно постирать вещи. Сколько стоят стирка и сушка одного килограмма белья?",
+        "en": "I need to have some clothes washed. How much do washing and drying cost per kilogram of laundry?"
+      },
+      "mode": "NORMAL",
+      "sourceCategoryRu": "Ремонт и бытовые услуги"
+    }
+  ]
+}

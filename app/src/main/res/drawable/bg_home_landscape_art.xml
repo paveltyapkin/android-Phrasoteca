@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+ android:width="400dp" android:height="280dp" android:viewportWidth="400" android:viewportHeight="280">
+ <path android:fillColor="@color/home_landscape_back" android:pathData="M0,155 L70,84 L120,135 L205,60 L280,144 L346,100 L400,147 L400,280 L0,280 Z" />
+ <path android:fillColor="@color/home_landscape_mid" android:pathData="M0,198 L86,139 L150,180 L249,112 L319,174 L400,131 L400,280 L0,280 Z" />
+ <path android:fillColor="@color/home_landscape_front" android:pathData="M0,244 Q91,205 171,244 Q251,193 400,220 L400,280 L0,280 Z" />
+</vector>

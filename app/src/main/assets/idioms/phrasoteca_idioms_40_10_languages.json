@@ -1,0 +1,1132 @@
+{
+  "format": "phrasoteca-idioms-multilingual-catalog",
+  "version": 2,
+  "status": "editorial_draft_multilingual",
+  "description": "40 source idioms, including 24 English idioms; 10 concise meaning locales; five source-language folders; 20 new English entries added to previous 20 without modifying them.",
+  "meaningLocales": [
+    "ru-RU",
+    "en",
+    "es-CL",
+    "pt-BR",
+    "vi-VN",
+    "th-TH",
+    "zh-Hans",
+    "zh-Hant-TW",
+    "ja-JP",
+    "ka-GE"
+  ],
+  "folders": [
+    {
+      "id": "idioms_ru",
+      "title": "Русские идиомы",
+      "sourceLocale": "ru-RU",
+      "count": 4
+    },
+    {
+      "id": "idioms_en",
+      "title": "English Idioms",
+      "sourceLocale": "en",
+      "count": 24
+    },
+    {
+      "id": "idioms_es",
+      "title": "Modismos chilenos",
+      "sourceLocale": "es-CL",
+      "count": 4
+    },
+    {
+      "id": "idioms_pt",
+      "title": "Expressões brasileiras",
+      "sourceLocale": "pt-BR",
+      "count": 4
+    },
+    {
+      "id": "idioms_vi",
+      "title": "Thành ngữ tiếng Việt",
+      "sourceLocale": "vi-VN",
+      "count": 4
+    }
+  ],
+  "entries": [
+    {
+      "id": "idiom_ru_001",
+      "folderId": "idioms_ru",
+      "sourceLocale": "ru-RU",
+      "expression": "Водить за нос",
+      "meanings": {
+        "ru-RU": "Долго обманывать, вводить в заблуждение, не выполнять обещанного.",
+        "en": "To keep deceiving someone or leading them on, often with false promises.",
+        "es-CL": "Engañar a alguien durante un tiempo, dándole falsas esperanzas o promesas.",
+        "pt-BR": "Enganar alguém por um tempo, enrolando a pessoa com falsas promessas.",
+        "vi-VN": "Lừa dối, dẫn dắt ai đó bằng những lời hứa không thật trong một thời gian dài.",
+        "th-TH": "หลอกลวงหรือให้ความหวังลม ๆ แล้ง ๆ กับใครบางคนอยู่เรื่อย ๆ",
+        "zh-Hans": "长期欺骗或蒙骗某人，常常用虚假的承诺搪塞对方。",
+        "zh-Hant-TW": "長期欺騙或蒙騙某人，常以空頭承諾敷衍對方。",
+        "ja-JP": "約束を守らず、相手を長い間だまし続けること。",
+        "ka-GE": "ვინმეს ხანგრძლივად მოტყუება და ცრუ დაპირებებით შეცდომაში შეყვანა."
+      },
+      "metadata": {
+        "region": "Россия",
+        "register": "разговорное",
+        "topic": "обман",
+        "literal_ru": "Буквальное действие: вести человека, держа за нос.",
+        "example_original": "Он месяц водил нас за нос, обещая вернуть деньги.",
+        "example_ru": "Он целый месяц обманывал нас обещаниями вернуть деньги.",
+        "usage_note_ru": "Обычно подразумевается длительное или повторяющееся введение в заблуждение."
+      }
+    },
+    {
+      "id": "idiom_ru_002",
+      "folderId": "idioms_ru",
+      "sourceLocale": "ru-RU",
+      "expression": "Зарубить на носу",
+      "meanings": {
+        "ru-RU": "Крепко запомнить; часто звучит как строгая или резкая просьба.",
+        "en": "To remember something very firmly; often said as a stern warning.",
+        "es-CL": "Recordar algo muy bien; suele decirse como una advertencia tajante.",
+        "pt-BR": "Gravar algo na memória; costuma ser dito como uma advertência firme.",
+        "vi-VN": "Ghi nhớ thật kỹ điều gì đó; thường là lời nhắc nhở nghiêm khắc.",
+        "th-TH": "จำให้ขึ้นใจ มักใช้เป็นคำเตือนอย่างเข้มงวด",
+        "zh-Hans": "牢牢记住某件事；常用于严厉提醒或警告。",
+        "zh-Hant-TW": "牢牢記住某件事；常用於嚴厲提醒或警告。",
+        "ja-JP": "しっかり覚えておくこと。強い口調の注意として使われることもある。",
+        "ka-GE": "რაიმეს მტკიცედ დამახსოვრება; ხშირად მკაცრ გაფრთხილებად ითქმის."
+      },
+      "metadata": {
+        "region": "Россия",
+        "register": "разговорное; резковатое",
+        "topic": "память",
+        "literal_ru": "Вырезать зарубку на носу (буквальное современное прочтение).",
+        "example_original": "Заруби себе на носу: документы нужно подать до пятницы.",
+        "example_ru": "Запомни как следует: документы нужно подать до пятницы.",
+        "usage_note_ru": "Неуместно в официальной или деликатной беседе; «нос» здесь не следует понимать буквально как часть лица."
+      }
+    },
+    {
+      "id": "idiom_ru_003",
+      "folderId": "idioms_ru",
+      "sourceLocale": "ru-RU",
+      "expression": "После дождичка в четверг",
+      "meanings": {
+        "ru-RU": "Никогда либо в неопределённом, практически недостижимом будущем.",
+        "en": "Never, or at some vague and unlikely time in the future.",
+        "es-CL": "Nunca, o en un futuro tan incierto que probablemente no llegue.",
+        "pt-BR": "Nunca, ou num futuro indefinido que provavelmente não vai chegar.",
+        "vi-VN": "Không bao giờ, hoặc vào một thời điểm mơ hồ khó có thể xảy ra.",
+        "th-TH": "ไม่มีวัน หรือในอนาคตที่ไม่มีกำหนดและแทบเป็นไปไม่ได้",
+        "zh-Hans": "永远不会，或在遥遥无期、几乎不可能到来的将来。",
+        "zh-Hant-TW": "永遠不會，或在遙遙無期、幾乎不可能到來的未來。",
+        "ja-JP": "決して実現しない、またはいつになるか分からないほど先のこと。",
+        "ka-GE": "არასოდეს, ან გაურკვეველ და თითქმის მიუღწეველ მომავალში."
+      },
+      "metadata": {
+        "region": "Россия",
+        "register": "разговорное; ироничное",
+        "topic": "неопределённость",
+        "literal_ru": "Когда пройдёт дождь в четверг.",
+        "example_original": "Он обещает закончить ремонт после дождичка в четверг.",
+        "example_ru": "Он обещает закончить ремонт неизвестно когда — скорее всего, никогда.",
+        "usage_note_ru": "Употребляется иронически; не является обычным указанием дня недели."
+      }
+    },
+    {
+      "id": "idiom_ru_004",
+      "folderId": "idioms_ru",
+      "sourceLocale": "ru-RU",
+      "expression": "Не в своей тарелке",
+      "meanings": {
+        "ru-RU": "Чувствовать себя неловко, неуютно или не к месту.",
+        "en": "To feel awkward, uncomfortable or out of place in a situation.",
+        "es-CL": "Sentirse incómodo, fuera de lugar o poco a gusto.",
+        "pt-BR": "Sentir-se desconfortável, deslocado ou sem jeito em alguma situação.",
+        "vi-VN": "Cảm thấy lạc lõng, ngượng ngùng hoặc không thoải mái trong một hoàn cảnh.",
+        "th-TH": "รู้สึกอึดอัด ไม่เป็นตัวของตัวเอง หรือไม่เข้ากับสถานการณ์",
+        "zh-Hans": "感到不自在、尴尬或格格不入。",
+        "zh-Hant-TW": "感到不自在、尷尬或格格不入。",
+        "ja-JP": "場になじめず、気まずさや居心地の悪さを感じること。",
+        "ka-GE": "თავს უხერხულად, არაკომფორტულად ან უადგილოდ გრძნობა."
+      },
+      "metadata": {
+        "region": "Россия",
+        "register": "нейтрально-разговорное",
+        "topic": "эмоции",
+        "literal_ru": "Находиться не в собственной тарелке.",
+        "example_original": "На официальном приёме я чувствовал себя не в своей тарелке.",
+        "example_ru": "На официальном приёме мне было неловко и неуютно.",
+        "usage_note_ru": "Чаще употребляется с «чувствовать себя»."
+      }
+    },
+    {
+      "id": "idiom_en_001",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Break a leg!",
+      "meanings": {
+        "ru-RU": "Пожелание удачи, особенно перед выступлением или важным событием.",
+        "en": "A friendly wish of good luck, especially before a performance.",
+        "es-CL": "Una manera amistosa de desear buena suerte, especialmente antes de una actuación.",
+        "pt-BR": "Uma forma amistosa de desejar boa sorte, especialmente antes de uma apresentação.",
+        "vi-VN": "Lời chúc may mắn thân mật, nhất là trước khi biểu diễn.",
+        "th-TH": "คำอวยพรให้โชคดีแบบเป็นกันเอง โดยเฉพาะก่อนขึ้นแสดง",
+        "zh-Hans": "一种友好的祝好运方式，尤其在演出前使用。",
+        "zh-Hant-TW": "一種親切的祝好運說法，尤其在演出前使用。",
+        "ja-JP": "特に舞台に立つ前などに使う、親しい間柄での幸運を祈る言葉。",
+        "ka-GE": "წარმატების მეგობრული სურვილი, განსაკუთრებით გამოსვლის წინ."
+      },
+      "metadata": {
+        "region": "Английский; широко употребляется",
+        "register": "разговорное; дружелюбное",
+        "topic": "пожелания",
+        "literal_ru": "Сломай ногу!",
+        "example_original": "You’re going on stage in five minutes. Break a leg!",
+        "example_ru": "Тебе выходить на сцену через пять минут. Ни пуха ни пера!",
+        "usage_note_ru": "Не употреблять буквально как призыв к травме; типичная формула в театральной среде."
+      }
+    },
+    {
+      "id": "idiom_en_002",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "It’s not my cup of tea.",
+      "meanings": {
+        "ru-RU": "Это не соответствует моему вкусу, мне это не по душе.",
+        "en": "Something is not to your taste or is not something you enjoy.",
+        "es-CL": "Algo no es de tu gusto o no te entusiasma.",
+        "pt-BR": "Algo não faz o seu estilo ou não é do seu agrado.",
+        "vi-VN": "Điều gì đó không hợp sở thích hoặc không khiến mình hứng thú.",
+        "th-TH": "บางสิ่งไม่ใช่สิ่งที่ชอบหรือไม่ตรงกับรสนิยมของตน",
+        "zh-Hans": "某件事不合自己的口味或兴趣。",
+        "zh-Hant-TW": "某件事不合自己的口味或興趣。",
+        "ja-JP": "自分の好みや趣味に合わないこと。",
+        "ka-GE": "რაღაც არ შეესაბამება შენს გემოვნებას ან არ მოგწონს."
+      },
+      "metadata": {
+        "region": "Английский; широко употребляется",
+        "register": "разговорное",
+        "topic": "предпочтения",
+        "literal_ru": "Это не моя чашка чая.",
+        "example_original": "Horror movies aren’t my cup of tea.",
+        "example_ru": "Фильмы ужасов — не по моей части.",
+        "usage_note_ru": "Встречается также положительная форма «my cup of tea»."
+      }
+    },
+    {
+      "id": "idiom_en_003",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Spill the beans.",
+      "meanings": {
+        "ru-RU": "Проболтаться, раскрыть секрет раньше времени.",
+        "en": "To reveal a secret, often accidentally or too soon.",
+        "es-CL": "Revelar un secreto, a menudo antes de tiempo o sin querer.",
+        "pt-BR": "Revelar um segredo, muitas vezes sem querer ou antes da hora.",
+        "vi-VN": "Lỡ tiết lộ bí mật, thường là quá sớm hoặc ngoài ý muốn.",
+        "th-TH": "เผลอเปิดเผยความลับ หรือบอกความลับก่อนเวลาอันควร",
+        "zh-Hans": "泄露秘密，通常是无意中或过早说了出来。",
+        "zh-Hant-TW": "洩漏祕密，通常是無意間或過早說了出來。",
+        "ja-JP": "秘密をうっかり、または予定より早く漏らすこと。",
+        "ka-GE": "საიდუმლოს გამჟღავნება, ხშირად უნებლიეთ ან ნაადრევად."
+      },
+      "metadata": {
+        "region": "Английский; широко употребляется",
+        "register": "разговорное",
+        "topic": "секреты",
+        "literal_ru": "Рассыпать бобы.",
+        "example_original": "Don’t spill the beans about the surprise party!",
+        "example_ru": "Не проболтайся о вечеринке-сюрпризе!",
+        "usage_note_ru": "Может быть просьбой сообщить секрет: «Come on, spill the beans!»."
+      }
+    },
+    {
+      "id": "idiom_en_004",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "I’m all ears.",
+      "meanings": {
+        "ru-RU": "Я внимательно слушаю; рассказывай.",
+        "en": "I'm listening carefully; go ahead and tell me.",
+        "es-CL": "Te escucho con toda atención; cuéntame.",
+        "pt-BR": "Estou prestando muita atenção; pode falar.",
+        "vi-VN": "Tôi đang chăm chú lắng nghe; cứ nói đi.",
+        "th-TH": "กำลังตั้งใจฟังอยู่ เล่ามาได้เลย",
+        "zh-Hans": "我在认真听，你说吧。",
+        "zh-Hant-TW": "我正專心聽，你說吧。",
+        "ja-JP": "ちゃんと聞いているよ。話して。",
+        "ka-GE": "ყურადღებით გისმენ; შეგიძლია მომიყვე."
+      },
+      "metadata": {
+        "region": "Английский; широко употребляется",
+        "register": "разговорное; дружелюбное",
+        "topic": "общение",
+        "literal_ru": "Я весь — уши.",
+        "example_original": "Tell me what happened — I’m all ears.",
+        "example_ru": "Расскажи, что случилось, — я весь внимание.",
+        "usage_note_ru": "Используется, чтобы показать заинтересованность в рассказе собеседника."
+      }
+    },
+    {
+      "id": "idiom_es_001",
+      "folderId": "idioms_es",
+      "sourceLocale": "es-CL",
+      "expression": "Estar pato",
+      "meanings": {
+        "ru-RU": "Быть без денег, на мели.",
+        "en": "To have no money; to be broke.",
+        "es-CL": "Estar sin plata, estar corto de dinero.",
+        "pt-BR": "Estar sem dinheiro, estar duro.",
+        "vi-VN": "Hết tiền, đang cháy túi.",
+        "th-TH": "ไม่มีเงินหรือถังแตก",
+        "zh-Hans": "没钱了，手头很紧。",
+        "zh-Hant-TW": "沒錢了，手頭很緊。",
+        "ja-JP": "お金がなく、金欠であること。",
+        "ka-GE": "უფულოდ ყოფნა, ფული რომ აღარ გაქვს."
+      },
+      "metadata": {
+        "region": "Чили",
+        "register": "разговорное; чилийское",
+        "topic": "деньги",
+        "literal_ru": "Быть уткой.",
+        "example_original": "No puedo salir hoy, estoy pato.",
+        "example_ru": "Сегодня не могу никуда выбраться — я на мели.",
+        "usage_note_ru": "Регионализм; не интерпретировать как буквальное «быть уткой»."
+      }
+    },
+    {
+      "id": "idiom_es_002",
+      "folderId": "idioms_es",
+      "sourceLocale": "es-CL",
+      "expression": "Echar la foca",
+      "meanings": {
+        "ru-RU": "Отругать, резко отчитать кого-либо.",
+        "en": "To scold or tell someone off harshly.",
+        "es-CL": "Retar o reprender duramente a alguien.",
+        "pt-BR": "Dar uma bronca forte em alguém.",
+        "vi-VN": "Mắng mỏ hoặc trách phạt ai đó gay gắt.",
+        "th-TH": "ดุด่าหรือตำหนิใครบางคนอย่างรุนแรง",
+        "zh-Hans": "严厉训斥或责骂某人。",
+        "zh-Hant-TW": "嚴厲訓斥或責罵某人。",
+        "ja-JP": "誰かを厳しく叱りつけること。",
+        "ka-GE": "ვინმეს მკაცრად გაკიცხვა ან დატუქსვა."
+      },
+      "metadata": {
+        "region": "Чили",
+        "register": "разговорное; чилийское",
+        "topic": "конфликт",
+        "literal_ru": "Буквально: бросить тюленя / морского котика.",
+        "example_original": "El jefe me echó la foca por llegar tarde.",
+        "example_ru": "Начальник отчитал меня за опоздание.",
+        "usage_note_ru": "Выражение может подразумевать резкий выговор; буквальный перевод приблизителен."
+      }
+    },
+    {
+      "id": "idiom_es_003",
+      "folderId": "idioms_es",
+      "sourceLocale": "es-CL",
+      "expression": "Dejar la escoba",
+      "meanings": {
+        "ru-RU": "Устроить большой беспорядок, переполох или скандал.",
+        "en": "To cause a big mess, disturbance or scandal.",
+        "es-CL": "Armar un gran desorden, alboroto o escándalo.",
+        "pt-BR": "Causar uma grande confusão, bagunça ou escândalo.",
+        "vi-VN": "Gây ra cảnh hỗn loạn, náo động hoặc một vụ ầm ĩ.",
+        "th-TH": "ก่อความวุ่นวาย ความโกลาหล หรือเรื่องอื้อฉาวครั้งใหญ่",
+        "zh-Hans": "闹出一场大混乱、骚动或丑闻。",
+        "zh-Hant-TW": "鬧出一場大混亂、騷動或醜聞。",
+        "ja-JP": "大きな混乱や騒ぎ、騒動を引き起こすこと。",
+        "ka-GE": "დიდი არეულობის, აურზაურის ან სკანდალის გამოწვევა."
+      },
+      "metadata": {
+        "region": "Чили",
+        "register": "разговорное; чилийское",
+        "topic": "беспорядок",
+        "literal_ru": "Оставить метлу.",
+        "example_original": "La fiesta dejó la escoba en el departamento.",
+        "example_ru": "После вечеринки в квартире был полный разгром.",
+        "usage_note_ru": "Не путать с буквальным действием; выражение часто употребляется о последствиях события."
+      }
+    },
+    {
+      "id": "idiom_es_004",
+      "folderId": "idioms_es",
+      "sourceLocale": "es-CL",
+      "expression": "Estar pal gato",
+      "meanings": {
+        "ru-RU": "Быть в плохом состоянии: обессиленным, разбитым или нездоровым.",
+        "en": "To feel awful, exhausted or unwell; to be in bad shape.",
+        "es-CL": "Estar muy mal, agotado o enfermo.",
+        "pt-BR": "Estar muito mal, esgotado ou indisposto.",
+        "vi-VN": "Cảm thấy rất tệ, kiệt sức hoặc không khỏe.",
+        "th-TH": "รู้สึกแย่มาก หมดแรง หรือไม่สบาย",
+        "zh-Hans": "状态很差，筋疲力尽或身体不舒服。",
+        "zh-Hant-TW": "狀態很差，筋疲力盡或身體不舒服。",
+        "ja-JP": "ひどく疲れている、体調が悪いなど、調子がとても悪いこと。",
+        "ka-GE": "ძალიან ცუდად, გამოფიტულად ან შეუძლოდ ყოფნა."
+      },
+      "metadata": {
+        "region": "Чили",
+        "register": "разговорное; чилийское",
+        "topic": "самочувствие",
+        "literal_ru": "Быть «для кота» (буквальный разбор разговорного pal = para el).",
+        "example_original": "Después del turno de noche quedé pal gato.",
+        "example_ru": "После ночной смены я был совершенно разбит.",
+        "usage_note_ru": "Разговорная запись «pal» соответствует «para el»; не обязательно означает серьёзную болезнь."
+      }
+    },
+    {
+      "id": "idiom_pt_001",
+      "folderId": "idioms_pt",
+      "sourceLocale": "pt-BR",
+      "expression": "Quebrar um galho",
+      "meanings": {
+        "ru-RU": "Выручить, помочь по мелочи или найти временное решение.",
+        "en": "To do someone a favor, help out, or find a makeshift solution.",
+        "es-CL": "Hacerle un favor a alguien, echarle una mano o encontrar una solución provisoria.",
+        "pt-BR": "Ajudar alguém, fazer um favor ou improvisar uma solução temporária.",
+        "vi-VN": "Giúp ai đó một việc nhỏ hoặc tìm giải pháp tạm thời.",
+        "th-TH": "ช่วยเหลือเล็ก ๆ น้อย ๆ หรือหาทางแก้ปัญหาเฉพาะหน้า",
+        "zh-Hans": "帮个小忙，或想出一个临时的解决办法。",
+        "zh-Hant-TW": "幫個小忙，或想出一個暫時的解決辦法。",
+        "ja-JP": "ちょっとした手助けをする、またはその場しのぎの方法で何とかすること。",
+        "ka-GE": "ვინმეს მცირე დახმარების გაწევა ან დროებითი გამოსავლის პოვნა."
+      },
+      "metadata": {
+        "region": "Бразилия",
+        "register": "разговорное; бразильское",
+        "topic": "помощь",
+        "literal_ru": "Сломать ветку.",
+        "example_original": "Você pode quebrar um galho e me emprestar seu carregador?",
+        "example_ru": "Можешь выручить меня и одолжить зарядку?",
+        "usage_note_ru": "Часто подразумевается практическая помощь, иногда временное или импровизированное решение."
+      }
+    },
+    {
+      "id": "idiom_pt_002",
+      "folderId": "idioms_pt",
+      "sourceLocale": "pt-BR",
+      "expression": "Pagar o pato",
+      "meanings": {
+        "ru-RU": "Отвечать или расплачиваться за чужую ошибку; стать крайним.",
+        "en": "To take the blame or suffer the consequences for someone else's mistake.",
+        "es-CL": "Cargar con la culpa o pagar las consecuencias por el error de otro.",
+        "pt-BR": "Levar a culpa ou sofrer as consequências do erro de outra pessoa.",
+        "vi-VN": "Phải chịu tội hoặc gánh hậu quả vì lỗi của người khác.",
+        "th-TH": "รับผิดแทนหรือรับผลเสียจากความผิดพลาดของคนอื่น",
+        "zh-Hans": "替别人的错误背锅或承担后果。",
+        "zh-Hant-TW": "替別人的錯誤背黑鍋或承擔後果。",
+        "ja-JP": "他人の失敗の責任を負わされたり、そのとばっちりを受けたりすること。",
+        "ka-GE": "სხვისი შეცდომის გამო ბრალის ან შედეგების საკუთარ თავზე აღება."
+      },
+      "metadata": {
+        "region": "Бразилия",
+        "register": "разговорное; бразильское",
+        "topic": "несправедливость",
+        "literal_ru": "Заплатить за утку.",
+        "example_original": "O erro foi da equipe, mas quem pagou o pato fui eu.",
+        "example_ru": "Ошиблась команда, а крайним оказался я.",
+        "usage_note_ru": "Не означает обычную оплату покупки; речь об ответственности за чужие действия."
+      }
+    },
+    {
+      "id": "idiom_pt_003",
+      "folderId": "idioms_pt",
+      "sourceLocale": "pt-BR",
+      "expression": "Pagar mico",
+      "meanings": {
+        "ru-RU": "Попасть в неловкую или смешную ситуацию; опозориться.",
+        "en": "To embarrass yourself or end up in an awkward, ridiculous situation.",
+        "es-CL": "Hacer el ridículo o pasar una vergüenza.",
+        "pt-BR": "Passar vergonha ou fazer papel de bobo.",
+        "vi-VN": "Bẽ mặt hoặc rơi vào tình huống ngượng ngùng, buồn cười.",
+        "th-TH": "ทำอะไรขายหน้า หรือเจอสถานการณ์น่าอายชวนขำ",
+        "zh-Hans": "出洋相、丢脸或陷入尴尬可笑的处境。",
+        "zh-Hant-TW": "出洋相、丟臉或陷入尷尬可笑的處境。",
+        "ja-JP": "恥をかく、または間の抜けた気まずい状況になること。",
+        "ka-GE": "თავის შერცხვენა ან უხერხულ, სასაცილო მდგომარეობაში აღმოჩენა."
+      },
+      "metadata": {
+        "region": "Бразилия",
+        "register": "разговорное; бразильское",
+        "topic": "неловкость",
+        "literal_ru": "Заплатить за обезьянку (mico — небольшая обезьяна).",
+        "example_original": "Paguei o maior mico quando chamei a professora pelo nome errado.",
+        "example_ru": "Я ужасно оконфузился, когда назвал преподавательницу чужим именем.",
+        "usage_note_ru": "Усиление «pagar o maior mico» — сильно опозориться."
+      }
+    },
+    {
+      "id": "idiom_pt_004",
+      "folderId": "idioms_pt",
+      "sourceLocale": "pt-BR",
+      "expression": "Ficar de molho",
+      "meanings": {
+        "ru-RU": "Отлёживаться, временно отдыхать или восстанавливаться, часто из-за болезни.",
+        "en": "To rest, stay home or recover for a while, often because of illness.",
+        "es-CL": "Guardar reposo o recuperarse por un tiempo, a menudo por enfermedad.",
+        "pt-BR": "Ficar em repouso ou se recuperando por um tempo, muitas vezes por estar doente.",
+        "vi-VN": "Nghỉ ngơi, dưỡng sức một thời gian, thường do bị ốm.",
+        "th-TH": "พักฟื้นหรือหยุดพักสักระยะ มักเพราะเจ็บป่วย",
+        "zh-Hans": "休息、静养一段时间，常常是因为生病。",
+        "zh-Hant-TW": "休息、靜養一段時間，常常是因為生病。",
+        "ja-JP": "しばらく静養すること。病気やけがの回復中によく使う。",
+        "ka-GE": "გარკვეული ხნით დასვენება ან გამოჯანმრთელება, ხშირად ავადმყოფობის გამო."
+      },
+      "metadata": {
+        "region": "Бразилия",
+        "register": "разговорное; бразильское",
+        "topic": "самочувствие",
+        "literal_ru": "Оставаться в рассоле / отмокать.",
+        "example_original": "Peguei uma gripe e vou ficar de molho por uns dias.",
+        "example_ru": "Я подхватил грипп и несколько дней буду отлёживаться.",
+        "usage_note_ru": "Не обязательно означает болезнь: иногда просто вынужденное бездействие или ожидание."
+      }
+    },
+    {
+      "id": "idiom_vi_001",
+      "folderId": "idioms_vi",
+      "sourceLocale": "vi-VN",
+      "expression": "Nước đến chân mới nhảy",
+      "meanings": {
+        "ru-RU": "Браться за дело только в последний момент, когда уже поджимают сроки.",
+        "en": "To leave a task until the last minute, when time is running out.",
+        "es-CL": "Dejar las cosas para último momento, cuando el tiempo ya apremia.",
+        "pt-BR": "Deixar tudo para a última hora, quando o prazo está acabando.",
+        "vi-VN": "Chỉ bắt tay vào làm khi nước đã đến chân, thời hạn đã cận kề.",
+        "th-TH": "เริ่มลงมือทำก็ต่อเมื่อใกล้หมดเวลาแล้ว",
+        "zh-Hans": "拖到最后一刻、时间紧迫时才开始行动。",
+        "zh-Hant-TW": "拖到最後一刻、時間緊迫時才開始行動。",
+        "ja-JP": "期限が迫ってから、ようやく物事に取りかかること。",
+        "ka-GE": "საქმეზე მხოლოდ ბოლო წუთს, ვადის ამოწურვისას ხელის მოკიდება."
+      },
+      "metadata": {
+        "region": "Вьетнам",
+        "register": "разговорное; пословичное",
+        "topic": "промедление",
+        "literal_ru": "Вода дошла до ног — только тогда прыгают.",
+        "example_original": "Anh ấy cứ để sát hạn mới làm, đúng là nước đến chân mới nhảy.",
+        "example_ru": "Он всё откладывает до самого дедлайна — начинает шевелиться, когда уже поздно.",
+        "usage_note_ru": "Обычно выражает неодобрение прокрастинации."
+      }
+    },
+    {
+      "id": "idiom_vi_002",
+      "folderId": "idioms_vi",
+      "sourceLocale": "vi-VN",
+      "expression": "Đứng núi này trông núi nọ",
+      "meanings": {
+        "ru-RU": "Не ценить то, что имеешь, постоянно искать что-то лучшее в другом месте.",
+        "en": "To keep looking for something better elsewhere instead of valuing what you have.",
+        "es-CL": "No valorar lo que se tiene y buscar siempre algo mejor en otra parte.",
+        "pt-BR": "Não valorizar o que se tem e estar sempre procurando algo melhor em outro lugar.",
+        "vi-VN": "Không trân trọng những gì mình có, luôn ngó sang nơi khác mong điều tốt hơn.",
+        "th-TH": "ไม่เห็นคุณค่าสิ่งที่มีอยู่ และมองหาสิ่งที่ดีกว่าที่อื่นอยู่เสมอ",
+        "zh-Hans": "不珍惜已有的，总觉得别处有更好的。",
+        "zh-Hant-TW": "不珍惜已有的，總覺得別處有更好的。",
+        "ja-JP": "今あるものを大切にせず、よそにもっと良いものがあると考え続けること。",
+        "ka-GE": "იმის დაუფასებლობა, რაც გაქვს, და მუდმივად სხვაგან უკეთესის ძებნა."
+      },
+      "metadata": {
+        "region": "Вьетнам",
+        "register": "разговорное; пословичное",
+        "topic": "неудовлетворённость",
+        "literal_ru": "Стоять на одной горе и смотреть на другую.",
+        "example_original": "Cứ đứng núi này trông núi nọ thì khó mà hài lòng với công việc hiện tại.",
+        "example_ru": "Если постоянно искать, где лучше, трудно быть довольным своей работой.",
+        "usage_note_ru": "Близко к «хорошо там, где нас нет», но обычно с критикой непостоянства."
+      }
+    },
+    {
+      "id": "idiom_vi_003",
+      "folderId": "idioms_vi",
+      "sourceLocale": "vi-VN",
+      "expression": "Ăn cháo đá bát",
+      "meanings": {
+        "ru-RU": "Проявить неблагодарность к тому, кто помогал; отплатить злом за добро.",
+        "en": "To show ingratitude toward someone who helped you, even repaying kindness with harm.",
+        "es-CL": "Ser desagradecido con quien te ayudó, incluso pagando el bien con mal.",
+        "pt-BR": "Ser ingrato com quem ajudou você, chegando a retribuir o bem com o mal.",
+        "vi-VN": "Vô ơn với người từng giúp đỡ mình, lấy oán báo ơn.",
+        "th-TH": "เนรคุณต่อผู้มีพระคุณ หรือทำร้ายคนที่เคยช่วยเหลือตน",
+        "zh-Hans": "对帮助过自己的人忘恩负义，甚至恩将仇报。",
+        "zh-Hant-TW": "對幫助過自己的人忘恩負義，甚至恩將仇報。",
+        "ja-JP": "世話になった人に恩を仇で返すような、恩知らずな振る舞い。",
+        "ka-GE": "იმ ადამიანის მიმართ უმადურობა, ვინც დაგეხმარა; სიკეთისთვის ბოროტებით გადახდა."
+      },
+      "metadata": {
+        "region": "Вьетнам",
+        "register": "разговорное; осуждающее",
+        "topic": "неблагодарность",
+        "literal_ru": "Съесть кашу и пнуть миску.",
+        "example_original": "Được giúp đỡ bao nhiêu mà còn quay lại nói xấu người ta, đúng là ăn cháo đá bát.",
+        "example_ru": "Ему столько помогали, а он потом начал их злословить — чёрная неблагодарность.",
+        "usage_note_ru": "Резко отрицательная оценка поведения; не используется для дружеской шутки без контекста."
+      }
+    },
+    {
+      "id": "idiom_vi_004",
+      "folderId": "idioms_vi",
+      "sourceLocale": "vi-VN",
+      "expression": "Nước đổ đầu vịt",
+      "meanings": {
+        "ru-RU": "Наставления, слова или уговоры не доходят до человека и не дают результата.",
+        "en": "Advice or explanations are wasted on someone who refuses to listen or take them in.",
+        "es-CL": "Dar consejos o explicaciones que no le entran a alguien y no sirven de nada.",
+        "pt-BR": "Dar conselhos ou explicações que a pessoa não absorve e não adiantam nada.",
+        "vi-VN": "Lời khuyên hay lời dạy bảo không thấm vào đầu người nghe, nói cũng như không.",
+        "th-TH": "สั่งสอนหรือเตือนเท่าไรก็ไม่เข้าหูผู้ฟัง พูดไปก็ไร้ผล",
+        "zh-Hans": "劝告或教导对方根本听不进去，说了也白说。",
+        "zh-Hant-TW": "勸告或教導對方根本聽不進去，說了也白說。",
+        "ja-JP": "いくら忠告や説明をしても相手に伝わらず、効果がないこと。",
+        "ka-GE": "რჩევა ან დარიგება ადამიანს არ ესმის და უშედეგოდ რჩება."
+      },
+      "metadata": {
+        "region": "Вьетнам",
+        "register": "разговорное; осуждающее",
+        "topic": "бесполезные наставления",
+        "literal_ru": "Лить воду на голову утки.",
+        "example_original": "Tôi nhắc bao nhiêu lần mà cậu ấy vẫn không nghe, đúng là nước đổ đầu vịt.",
+        "example_ru": "Сколько раз ему ни повторяй — всё как об стенку горох.",
+        "usage_note_ru": "Близко к русскому «как об стенку горох»; не следует путать с «как с гуся вода» в смысле безнаказанности."
+      }
+    },
+    {
+      "id": "idiom_en_005",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "A piece of cake",
+      "meanings": {
+        "ru-RU": "Очень простое дело, задача без особых усилий.",
+        "en": "Something very easy to do.",
+        "es-CL": "Algo muy fácil de hacer.",
+        "pt-BR": "Algo muito fácil de fazer.",
+        "vi-VN": "Việc rất dễ làm.",
+        "th-TH": "เรื่องที่ทำได้ง่ายมาก",
+        "zh-Hans": "非常容易完成的事。",
+        "zh-Hant-TW": "非常容易完成的事。",
+        "ja-JP": "とても簡単にできること。",
+        "ka-GE": "ძალიან მარტივი საქმე, რომლის გაკეთებაც ადვილია."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "простота",
+        "literal_ru": "Кусок торта.",
+        "example_original": "It was a piece of cake to set up the new phone.",
+        "example_ru": "Настроить новый телефон оказалось проще простого.",
+        "usage_note_ru": "Обычно о задаче, не о еде."
+      }
+    },
+    {
+      "id": "idiom_en_006",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Hit the nail on the head",
+      "meanings": {
+        "ru-RU": "Точно определить суть проблемы или дать совершенно верный ответ.",
+        "en": "To describe a problem or situation exactly right.",
+        "es-CL": "Acertar de lleno al describir un problema o situación.",
+        "pt-BR": "Acertar em cheio ao descrever um problema ou situação.",
+        "vi-VN": "Nói đúng trọng tâm hoặc xác định chính xác vấn đề.",
+        "th-TH": "พูดหรือชี้ประเด็นได้ตรงจุดอย่างแม่นยำ",
+        "zh-Hans": "准确说中问题的关键。",
+        "zh-Hant-TW": "準確說中問題的關鍵。",
+        "ja-JP": "問題の核心を的確に言い当てること。",
+        "ka-GE": "პრობლემის არსის ზუსტად მიხვედრა ან სწორად აღწერა."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "нейтрально-разговорное",
+        "topic": "точность",
+        "literal_ru": "Попасть молотком по шляпке гвоздя.",
+        "example_original": "You hit the nail on the head: the battery is the problem.",
+        "example_ru": "Ты попал в точку: проблема в аккумуляторе.",
+        "usage_note_ru": "Часто используется как похвала точному замечанию."
+      }
+    },
+    {
+      "id": "idiom_en_007",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Under the weather",
+      "meanings": {
+        "ru-RU": "Плохо себя чувствовать, немного приболеть.",
+        "en": "To feel slightly ill or unwell.",
+        "es-CL": "Sentirse mal o algo enfermo.",
+        "pt-BR": "Estar se sentindo mal ou meio doente.",
+        "vi-VN": "Cảm thấy không khỏe hoặc hơi ốm.",
+        "th-TH": "รู้สึกไม่สบายหรือป่วยเล็กน้อย",
+        "zh-Hans": "身体不太舒服，有点生病。",
+        "zh-Hant-TW": "身體不太舒服，有點生病。",
+        "ja-JP": "少し体調が悪いこと。",
+        "ka-GE": "თავს შეუძლოდ გრძნობა, ოდნავ ავად ყოფნა."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "здоровье",
+        "literal_ru": "Под погодой.",
+        "example_original": "I’m feeling under the weather, so I’ll stay home.",
+        "example_ru": "Я неважно себя чувствую, поэтому останусь дома.",
+        "usage_note_ru": "Обычно о сравнительно лёгком недомогании."
+      }
+    },
+    {
+      "id": "idiom_en_008",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Cost an arm and a leg",
+      "meanings": {
+        "ru-RU": "Стоить невероятно дорого.",
+        "en": "To be extremely expensive.",
+        "es-CL": "Costar carísimo.",
+        "pt-BR": "Custar muito caro.",
+        "vi-VN": "Có giá cực kỳ đắt.",
+        "th-TH": "มีราคาแพงมาก",
+        "zh-Hans": "价格贵得惊人。",
+        "zh-Hant-TW": "價格貴得驚人。",
+        "ja-JP": "非常に値段が高いこと。",
+        "ka-GE": "ძალიან ძვირი ღირდეს."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "деньги",
+        "literal_ru": "Стоить руку и ногу.",
+        "example_original": "That repair would cost an arm and a leg.",
+        "example_ru": "Такой ремонт обошёлся бы в целое состояние.",
+        "usage_note_ru": "Гипербола; не относится к реальной травме."
+      }
+    },
+    {
+      "id": "idiom_en_009",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Once in a blue moon",
+      "meanings": {
+        "ru-RU": "Очень редко, почти никогда.",
+        "en": "Very rarely; almost never.",
+        "es-CL": "Muy rara vez; casi nunca.",
+        "pt-BR": "Muito raramente; quase nunca.",
+        "vi-VN": "Rất hiếm khi, hầu như không bao giờ.",
+        "th-TH": "นาน ๆ ครั้ง แทบไม่เคยเลย",
+        "zh-Hans": "极少发生，难得一次。",
+        "zh-Hant-TW": "極少發生，難得一次。",
+        "ja-JP": "めったに起こらないこと。",
+        "ka-GE": "ძალიან იშვიათად, თითქმის არასდროს."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "частота",
+        "literal_ru": "Один раз в голубую луну.",
+        "example_original": "We go to the cinema once in a blue moon.",
+        "example_ru": "Мы выбираемся в кино очень редко.",
+        "usage_note_ru": "Устойчивое выражение о редкости."
+      }
+    },
+    {
+      "id": "idiom_en_010",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Bite the bullet",
+      "meanings": {
+        "ru-RU": "Решиться на трудное или неприятное, но необходимое действие.",
+        "en": "To face a difficult or unpleasant task you cannot avoid.",
+        "es-CL": "Decidir afrontar algo difícil o desagradable pero necesario.",
+        "pt-BR": "Encarar algo difícil ou desagradável que é necessário fazer.",
+        "vi-VN": "Cắn răng đối mặt với việc khó hoặc khó chịu nhưng cần thiết.",
+        "th-TH": "ยอมเผชิญสิ่งที่ยากหรือไม่พึงประสงค์แต่จำเป็นต้องทำ",
+        "zh-Hans": "硬着头皮去做不得不做的难事。",
+        "zh-Hant-TW": "硬著頭皮去做不得不做的難事。",
+        "ja-JP": "避けられないつらいことを覚悟してやること。",
+        "ka-GE": "აუცილებელი, მაგრამ რთული ან უსიამოვნო საქმის გაბედულად გაკეთება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "решение",
+        "literal_ru": "Укусить пулю.",
+        "example_original": "I finally bit the bullet and called the landlord.",
+        "example_ru": "Я наконец собрался с духом и позвонил арендодателю.",
+        "usage_note_ru": "Означает решимость, не буквальный поступок."
+      }
+    },
+    {
+      "id": "idiom_en_011",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "The ball is in your court",
+      "meanings": {
+        "ru-RU": "Теперь решение или следующий шаг зависит от тебя.",
+        "en": "It is now your turn or responsibility to act or decide.",
+        "es-CL": "Ahora te toca a ti actuar o tomar la decisión.",
+        "pt-BR": "Agora cabe a você agir ou tomar a decisão.",
+        "vi-VN": "Giờ đến lượt bạn hành động hoặc đưa ra quyết định.",
+        "th-TH": "ตอนนี้ถึงตาคุณต้องลงมือหรือตัดสินใจแล้ว",
+        "zh-Hans": "现在轮到你采取行动或作决定了。",
+        "zh-Hant-TW": "現在輪到你採取行動或作決定了。",
+        "ja-JP": "次に行動したり判断したりするのはあなたの番だということ。",
+        "ka-GE": "ახლა მოქმედება ან გადაწყვეტილების მიღება შენზეა დამოკიდებული."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "нейтрально-разговорное",
+        "topic": "ответственность",
+        "literal_ru": "Мяч на твоей половине корта.",
+        "example_original": "I sent the offer; now the ball is in their court.",
+        "example_ru": "Я отправил предложение; теперь очередь за ними.",
+        "usage_note_ru": "Можно менять притяжательное местоимение: my, their, your."
+      }
+    },
+    {
+      "id": "idiom_en_012",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "On the same page",
+      "meanings": {
+        "ru-RU": "Одинаково понимать ситуацию и быть согласными относительно плана.",
+        "en": "To share the same understanding or agreement about something.",
+        "es-CL": "Tener la misma comprensión o estar de acuerdo sobre algo.",
+        "pt-BR": "Ter o mesmo entendimento ou estar de acordo sobre algo.",
+        "vi-VN": "Có cùng cách hiểu hoặc thống nhất quan điểm về điều gì đó.",
+        "th-TH": "เข้าใจตรงกันหรือเห็นพ้องกันในเรื่องหนึ่ง",
+        "zh-Hans": "对某件事理解一致，达成共识。",
+        "zh-Hant-TW": "對某件事理解一致，達成共識。",
+        "ja-JP": "物事の認識や方針が一致していること。",
+        "ka-GE": "საკითხზე ერთნაირი წარმოდგენა და შეთანხმებული პოზიცია გქონდეთ."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "нейтрально-разговорное",
+        "topic": "согласие",
+        "literal_ru": "На одной странице.",
+        "example_original": "Let’s make sure we’re on the same page before we start.",
+        "example_ru": "Давай убедимся, что одинаково понимаем задачу, прежде чем начать.",
+        "usage_note_ru": "Часто употребляется в работе и командных обсуждениях."
+      }
+    },
+    {
+      "id": "idiom_en_013",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Call it a day",
+      "meanings": {
+        "ru-RU": "На сегодня закончить работу или занятие.",
+        "en": "To stop working or doing an activity for now.",
+        "es-CL": "Dar por terminado el trabajo o la actividad por hoy.",
+        "pt-BR": "Encerrar o trabalho ou a atividade por hoje.",
+        "vi-VN": "Dừng công việc hoặc hoạt động tại đây, thường là hết ngày.",
+        "th-TH": "หยุดทำงานหรือกิจกรรมเพียงเท่านี้สำหรับวันนี้",
+        "zh-Hans": "今天就先做到这里，结束工作或活动。",
+        "zh-Hant-TW": "今天就先做到這裡，結束工作或活動。",
+        "ja-JP": "その日の仕事や作業を切り上げること。",
+        "ka-GE": "დღეისთვის მუშაობის ან საქმის დასრულება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "работа",
+        "literal_ru": "Назвать это днём.",
+        "example_original": "We’ve fixed the main issue. Let’s call it a day.",
+        "example_ru": "Основную проблему мы исправили. На сегодня хватит.",
+        "usage_note_ru": "Не обязательно означает завершение проекта навсегда."
+      }
+    },
+    {
+      "id": "idiom_en_014",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Get cold feet",
+      "meanings": {
+        "ru-RU": "В последний момент испугаться и засомневаться в принятом решении.",
+        "en": "To become nervous and hesitate before doing something planned.",
+        "es-CL": "Asustarse y echarse atrás ante algo que ya se había planeado.",
+        "pt-BR": "Ficar com medo e hesitar antes de fazer algo planejado.",
+        "vi-VN": "Đột nhiên lo sợ và do dự trước việc đã định làm.",
+        "th-TH": "เกิดกลัวหรือประหม่าและลังเลก่อนทำสิ่งที่วางแผนไว้",
+        "zh-Hans": "临到要做某件事时突然害怕、犹豫。",
+        "zh-Hant-TW": "臨到要做某件事時突然害怕、猶豫。",
+        "ja-JP": "いざとなって怖くなり、決断や行動をためらうこと。",
+        "ka-GE": "დაგეგმილი საქმის წინ შეშინება და ყოყმანი."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "страх",
+        "literal_ru": "Похолодевшие ноги.",
+        "example_original": "She got cold feet just before signing the contract.",
+        "example_ru": "Прямо перед подписанием договора она испугалась и засомневалась.",
+        "usage_note_ru": "Особенно перед важным шагом или обязательством."
+      }
+    },
+    {
+      "id": "idiom_en_015",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Cut corners",
+      "meanings": {
+        "ru-RU": "Экономить время или деньги в ущерб качеству или правилам.",
+        "en": "To save time or money by skipping important steps or reducing quality.",
+        "es-CL": "Ahorrar tiempo o dinero saltándose pasos importantes o sacrificando calidad.",
+        "pt-BR": "Economizar tempo ou dinheiro pulando etapas importantes ou prejudicando a qualidade.",
+        "vi-VN": "Tiết kiệm thời gian hoặc tiền bạc bằng cách bỏ qua bước quan trọng, làm giảm chất lượng.",
+        "th-TH": "ประหยัดเวลาหรือเงินโดยข้ามขั้นตอนสำคัญจนคุณภาพลดลง",
+        "zh-Hans": "为省时间或钱而省略必要步骤、牺牲质量。",
+        "zh-Hant-TW": "為省時間或錢而省略必要步驟、犧牲品質。",
+        "ja-JP": "必要な工程を省いて時間や費用を節約し、品質を落とすこと。",
+        "ka-GE": "დროის ან ფულის დაზოგვა აუცილებელი ნაბიჯების გამოტოვებით, ხარისხის ხარჯზე."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "нейтрально-разговорное",
+        "topic": "качество",
+        "literal_ru": "Срезать углы.",
+        "example_original": "Don’t cut corners when repairing the wiring.",
+        "example_ru": "Не экономь на качестве, ремонтируя проводку.",
+        "usage_note_ru": "Обычно несёт отрицательную оценку."
+      }
+    },
+    {
+      "id": "idiom_en_016",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Burn the midnight oil",
+      "meanings": {
+        "ru-RU": "Засиживаться допоздна за работой или учёбой.",
+        "en": "To work or study late into the night.",
+        "es-CL": "Trabajar o estudiar hasta muy tarde por la noche.",
+        "pt-BR": "Trabalhar ou estudar até tarde da noite.",
+        "vi-VN": "Làm việc hoặc học đến khuya.",
+        "th-TH": "ทำงานหรืออ่านหนังสือจนดึกดื่น",
+        "zh-Hans": "工作或学习到深夜。",
+        "zh-Hant-TW": "工作或讀書到深夜。",
+        "ja-JP": "夜遅くまで仕事や勉強をすること。",
+        "ka-GE": "გვიან ღამემდე მუშაობა ან სწავლა."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "работа",
+        "literal_ru": "Жечь полуночное масло.",
+        "example_original": "I burned the midnight oil to finish the report.",
+        "example_ru": "Я засиделся за работой допоздна, чтобы закончить отчёт.",
+        "usage_note_ru": "Подразумевает напряжённую позднюю работу."
+      }
+    },
+    {
+      "id": "idiom_en_017",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Go the extra mile",
+      "meanings": {
+        "ru-RU": "Приложить дополнительные усилия сверх ожидаемого.",
+        "en": "To make an extra effort beyond what is expected or required.",
+        "es-CL": "Hacer un esfuerzo adicional más allá de lo esperado.",
+        "pt-BR": "Fazer um esforço extra além do que se espera.",
+        "vi-VN": "Nỗ lực hơn mức được yêu cầu hoặc mong đợi.",
+        "th-TH": "ทุ่มเทมากกว่าที่คาดหวังหรือจำเป็น",
+        "zh-Hans": "付出超出要求的额外努力。",
+        "zh-Hant-TW": "付出超出要求的額外努力。",
+        "ja-JP": "求められる以上に努力すること。",
+        "ka-GE": "მოსალოდნელზე ან მოთხოვნილზე მეტი ძალისხმევის გაწევა."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "нейтрально-разговорное",
+        "topic": "усилия",
+        "literal_ru": "Пройти дополнительную милю.",
+        "example_original": "The technician went the extra mile to help us.",
+        "example_ru": "Техник сделал даже больше, чем от него требовалось, чтобы помочь нам.",
+        "usage_note_ru": "Как правило, положительная оценка."
+      }
+    },
+    {
+      "id": "idiom_en_018",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Miss the boat",
+      "meanings": {
+        "ru-RU": "Упустить возможность, не успеть воспользоваться шансом.",
+        "en": "To miss an opportunity by acting too late.",
+        "es-CL": "Perder una oportunidad por actuar demasiado tarde.",
+        "pt-BR": "Perder uma oportunidade por agir tarde demais.",
+        "vi-VN": "Bỏ lỡ cơ hội vì hành động quá muộn.",
+        "th-TH": "พลาดโอกาสเพราะลงมือช้าเกินไป",
+        "zh-Hans": "因为行动太晚而错过机会。",
+        "zh-Hant-TW": "因為行動太晚而錯過機會。",
+        "ja-JP": "行動が遅れてチャンスを逃すこと。",
+        "ka-GE": "დაგვიანების გამო შესაძლებლობის ხელიდან გაშვება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "возможности",
+        "literal_ru": "Опоздать на лодку.",
+        "example_original": "We missed the boat on the early-bird discount.",
+        "example_ru": "Мы упустили возможность получить скидку за раннее бронирование.",
+        "usage_note_ru": "Чаще об упущенном шансе, не о транспорте."
+      }
+    },
+    {
+      "id": "idiom_en_019",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "The last straw",
+      "meanings": {
+        "ru-RU": "Последняя неприятность, после которой терпение заканчивается.",
+        "en": "The final problem that makes an already difficult situation unbearable.",
+        "es-CL": "El último problema que colma la paciencia después de otros anteriores.",
+        "pt-BR": "O último problema que esgota a paciência após outros anteriores.",
+        "vi-VN": "Giọt nước tràn ly: chuyện cuối cùng khiến người ta hết chịu nổi.",
+        "th-TH": "ปัญหาสุดท้ายที่ทำให้หมดความอดทนหลังเจอเรื่องแย่ ๆ มาก่อน",
+        "zh-Hans": "一连串问题中最终让人忍无可忍的那一件。",
+        "zh-Hant-TW": "一連串問題中最後讓人忍無可忍的那一件。",
+        "ja-JP": "積み重なった問題の末、我慢の限界を超えさせる最後の出来事。",
+        "ka-GE": "ბოლო უსიამოვნება, რომლის შემდეგაც მოთმინება იწურება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "нейтрально-разговорное",
+        "topic": "терпение",
+        "literal_ru": "Последняя соломинка.",
+        "example_original": "The third cancellation was the last straw.",
+        "example_ru": "Третья отмена стала последней каплей.",
+        "usage_note_ru": "Может употребляться как the last straw / the final straw."
+      }
+    },
+    {
+      "id": "idiom_en_020",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "A blessing in disguise",
+      "meanings": {
+        "ru-RU": "То, что сначала кажется неудачей, но в итоге приносит пользу.",
+        "en": "Something that seems bad at first but turns out to be beneficial.",
+        "es-CL": "Algo que al principio parece malo, pero termina siendo beneficioso.",
+        "pt-BR": "Algo que parece ruim no começo, mas acaba trazendo algo bom.",
+        "vi-VN": "Điều tưởng là xui xẻo nhưng cuối cùng lại mang đến lợi ích.",
+        "th-TH": "สิ่งที่ตอนแรกดูเลวร้ายแต่กลับกลายเป็นผลดีภายหลัง",
+        "zh-Hans": "起初看似坏事，结果却带来好处。",
+        "zh-Hant-TW": "起初看似壞事，結果卻帶來好處。",
+        "ja-JP": "最初は不運に見えても、結果的には良いことにつながること。",
+        "ka-GE": "რაც თავიდან ცუდად ჩანს, მაგრამ საბოლოოდ სასარგებლო აღმოჩნდება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "нейтрально-разговорное",
+        "topic": "неожиданная удача",
+        "literal_ru": "Благословение под маской.",
+        "example_original": "Losing that flight was a blessing in disguise.",
+        "example_ru": "Оказалось, что опоздание на тот рейс в итоге пошло нам на пользу.",
+        "usage_note_ru": "Положительный итог становится понятен позднее."
+      }
+    },
+    {
+      "id": "idiom_en_021",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Pull someone’s leg",
+      "meanings": {
+        "ru-RU": "Подшучивать над человеком, разыгрывать его.",
+        "en": "To jokingly tease someone or make them believe something untrue for fun.",
+        "es-CL": "Tomarle el pelo a alguien o bromear haciéndole creer algo falso.",
+        "pt-BR": "Pregar uma peça em alguém ou brincar fazendo a pessoa acreditar em algo falso.",
+        "vi-VN": "Trêu chọc hoặc đùa khiến ai đó tin vào điều không có thật.",
+        "th-TH": "แกล้งอำหรือหยอกให้ใครบางคนเชื่อเรื่องไม่จริง",
+        "zh-Hans": "开某人的玩笑，故意逗弄对方。",
+        "zh-Hant-TW": "開某人的玩笑，故意逗弄對方。",
+        "ja-JP": "冗談で相手をからかったり、だましたふりをしたりすること。",
+        "ka-GE": "ვინმეს ხუმრობით მოტყუება ან გაჯავრება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "шутка",
+        "literal_ru": "Тянуть кого-то за ногу.",
+        "example_original": "Relax, I was just pulling your leg!",
+        "example_ru": "Расслабься, я просто тебя разыгрывал!",
+        "usage_note_ru": "Обычно предполагается шутка, а не серьёзный обман."
+      }
+    },
+    {
+      "id": "idiom_en_022",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Sit on the fence",
+      "meanings": {
+        "ru-RU": "Не определяться с позицией, избегать выбора между сторонами.",
+        "en": "To avoid choosing a side or making a clear decision.",
+        "es-CL": "Evitar tomar partido o decidirse claramente.",
+        "pt-BR": "Evitar tomar partido ou tomar uma decisão clara.",
+        "vi-VN": "Không chọn phe hoặc né tránh đưa ra quyết định rõ ràng.",
+        "th-TH": "ไม่เลือกข้างหรือหลีกเลี่ยงการตัดสินใจให้ชัดเจน",
+        "zh-Hans": "保持观望，不明确选边或作决定。",
+        "zh-Hant-TW": "保持觀望，不明確選邊或作決定。",
+        "ja-JP": "立場をはっきりさせず、どちらにも決めないこと。",
+        "ka-GE": "მკაფიო პოზიციის დაკავების ან გადაწყვეტილების მიღების თავიდან არიდება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "нерешительность",
+        "literal_ru": "Сидеть на заборе.",
+        "example_original": "You can’t sit on the fence forever; we need an answer.",
+        "example_ru": "Нельзя вечно оставаться в стороне от выбора; нам нужен ответ.",
+        "usage_note_ru": "Не путать с нейтральностью как осознанным принципом."
+      }
+    },
+    {
+      "id": "idiom_en_023",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Back to square one",
+      "meanings": {
+        "ru-RU": "Вернуться к самому началу после неудачи, начать заново.",
+        "en": "To return to the starting point after a setback and start again.",
+        "es-CL": "Volver al punto de partida tras un fracaso y empezar de nuevo.",
+        "pt-BR": "Voltar à estaca zero depois de um problema e recomeçar.",
+        "vi-VN": "Quay lại điểm xuất phát sau thất bại và phải làm lại từ đầu.",
+        "th-TH": "กลับไปเริ่มต้นใหม่จากศูนย์หลังเกิดความล้มเหลว",
+        "zh-Hans": "受挫后回到起点，重新开始。",
+        "zh-Hant-TW": "受挫後回到起點，重新開始。",
+        "ja-JP": "失敗などで振り出しに戻り、やり直すこと。",
+        "ka-GE": "წარუმატებლობის შემდეგ საწყის ეტაპზე დაბრუნება და თავიდან დაწყება."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "неудача",
+        "literal_ru": "Назад на первую клетку.",
+        "example_original": "The backup was corrupted, so we’re back to square one.",
+        "example_ru": "Резервная копия повреждена, поэтому мы снова начинаем с нуля.",
+        "usage_note_ru": "Обозначает потерю прежнего прогресса."
+      }
+    },
+    {
+      "id": "idiom_en_024",
+      "folderId": "idioms_en",
+      "sourceLocale": "en",
+      "expression": "Throw in the towel",
+      "meanings": {
+        "ru-RU": "Сдаться, прекратить попытки после трудностей.",
+        "en": "To give up or stop trying after difficulties.",
+        "es-CL": "Rendirse o dejar de intentarlo después de las dificultades.",
+        "pt-BR": "Desistir ou parar de tentar depois de enfrentar dificuldades.",
+        "vi-VN": "Bỏ cuộc, ngừng cố gắng sau khi gặp khó khăn.",
+        "th-TH": "ยอมแพ้หรือเลิกพยายามหลังเจออุปสรรค",
+        "zh-Hans": "遇到困难后认输或放弃继续尝试。",
+        "zh-Hant-TW": "遇到困難後認輸或放棄繼續嘗試。",
+        "ja-JP": "困難に直面して諦めたり、挑戦をやめたりすること。",
+        "ka-GE": "სირთულეების შემდეგ დანებება ან მცდელობის შეწყვეტა."
+      },
+      "metadata": {
+        "region": "Англоязычные страны",
+        "register": "разговорное",
+        "topic": "отказ",
+        "literal_ru": "Бросить полотенце.",
+        "example_original": "After weeks of trying, he threw in the towel.",
+        "example_ru": "После нескольких недель попыток он сдался.",
+        "usage_note_ru": "Метафора из бокса; не означает просто закончить рабочий день."
+      }
+    }
+  ]
+}

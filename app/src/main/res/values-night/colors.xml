@@ -1,0 +1,53 @@
+<resources>
+    <color name="button_primary_fill">#A2BFD2</color>
+    <color name="button_primary_text">#182733</color>
+    <color name="button_secondary_fill">#354552</color>
+    <color name="button_secondary_text">#DFE9F0</color>
+    <color name="button_icon_fill">#354552</color>
+    <color name="button_icon_tint">#DFE9F0</color>
+    <color name="button_ripple">#55A2BFD2</color>
+    <color name="home_background">#151D29</color>
+    <color name="home_title_color">#EDF3FB</color>
+    <color name="home_toolbar_background">#151D29</color>
+    <color name="home_tile_title">#EBF1FB</color>
+    <color name="home_tile_subtitle">#B5C2D3</color>
+    <color name="home_tile_icon_fill">#34475B</color>
+    <color name="home_tile_icon_tint">#FFDC89</color>
+    <color name="home_tile_general">#353149</color>
+    <color name="home_tile_language">#273C59</color>
+    <color name="home_tile_checklist">#263E38</color>
+    <color name="home_tile_vault">#343D4E</color>
+    <color name="home_tile_favorites">#4B3C27</color>
+    <color name="home_tile_ripple">#55D1DCED</color>
+    <color name="home_gradient_bottom">#253A52</color>
+    <color name="home_landscape_back">#26394D</color>
+    <color name="home_landscape_mid">#304961</color>
+    <color name="home_landscape_front">#3A5670</color>
+    <color name="dialog_surface">#273445</color>
+    <color name="dialog_stroke">#475B72</color>
+    <color name="dialog_text_primary">#EFF4FC</color>
+    <color name="dialog_text_secondary">#B7C8DA</color>
+    <color name="dialog_action">#B6D5FF</color>
+    <!-- MainActivity action controls: independent from the card's background. -->
+    <color name="card_action_fill">#293A4E</color>
+    <color name="card_action_stroke">#59708A</color>
+    <color name="card_action_icon">#E5F0FC</color>
+    <color name="card_action_favorite">#FFD586</color>
+    <color name="card_action_ripple">#66B4C9E0</color>
+    <!-- Neutral, low-contrast presentation backdrop. -->
+    <color name="presentation_stage_top">#1E2A3B</color>
+    <color name="presentation_stage_bottom">#101925</color>
+    <!-- Achievements screen palette -->
+    <color name="achievement_summary_surface">#273C59</color>
+    <color name="achievement_card_unlocked">#263E38</color>
+    <color name="achievement_card_locked">#353149</color>
+    <color name="achievement_card_border">#485A71</color>
+    <color name="achievement_progress">#B6D5FF</color>
+    <color name="achievement_progress_track">#455569</color>
+    <color name="achievement_success">#9EDCBD</color>
+    <!-- Idiom challenge surfaces -->
+    <color name="idiom_progress_surface">#273C59</color>
+    <color name="idiom_question_surface">#353149</color>
+    <color name="idiom_answer_surface">#293A4E</color>
+    <color name="idiom_surface_stroke">#52657B</color>
+</resources>

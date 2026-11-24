@@ -1,0 +1,121 @@
+{
+  "format": "phrasoteca-phrase-library",
+  "version": 1,
+  "setId": "basic-phrases-test",
+  "title": "Basic phrases — test set",
+  "description": "Ten phrases to validate offline language-pair selection, locale fallback and TTS. The first five Russian and Spanish phrases are preserved from DemoCardRepository.kt in Phrasoteca v0.92.",
+  "defaultLocales": ["ru-RU", "en-US", "es-CL", "pt-BR", "vi-VN"],
+  "phrases": [
+    {
+      "id": "basic_001", "category": "general",
+      "translations": {
+        "ru": "Здравствуйте! Я живу в квартире 509.",
+        "en": "Hello! I live in apartment 509.",
+        "es": "¡Hola! Vivo en el departamento 509.",
+        "pt": "Olá! Moro no apartamento 509.",
+        "vi": "Xin chào! Tôi sống ở căn hộ số 509."
+      }
+    },
+    {
+      "id": "basic_002", "category": "metro",
+      "translations": {
+        "ru": "Где находится ближайшая станция метро?",
+        "en": "Where is the nearest metro station?",
+        "es": "¿Dónde está la estación de metro más cercana?",
+        "pt": "Onde fica a estação de metrô mais próxima?",
+        "vi": "Ga tàu điện ngầm gần nhất ở đâu?"
+      },
+      "regionalOverrides": {"pt-PT": "Onde fica a estação de metro mais próxima?"}
+    },
+    {
+      "id": "basic_003", "category": "market",
+      "translations": {
+        "ru": "Сколько это стоит?",
+        "en": "How much does this cost?",
+        "es": "¿Cuánto cuesta?",
+        "pt": "Quanto custa?",
+        "vi": "Cái này giá bao nhiêu?"
+      }
+    },
+    {
+      "id": "basic_004", "category": "shop",
+      "translations": {
+        "ru": "Можно оплатить банковской картой?",
+        "en": "Can I pay by card?",
+        "es": "¿Puedo pagar con tarjeta?",
+        "pt": "Posso pagar com cartão?",
+        "vi": "Tôi có thể thanh toán bằng thẻ được không?"
+      }
+    },
+    {
+      "id": "basic_005", "category": "general",
+      "translations": {
+        "ru": "Извините, я пока плохо говорю по-испански.",
+        "en": "Excuse me, I don't speak Spanish very well yet.",
+        "es": "Disculpe, todavía no hablo muy bien español.",
+        "pt": "Desculpe, ainda não falo espanhol muito bem.",
+        "vi": "Xin lỗi, tôi vẫn chưa nói tiếng Tây Ban Nha giỏi lắm."
+      },
+      "notes": "This source phrase specifically refers to Spanish; later phrase libraries can parameterize the target-language name."
+    },
+    {
+      "id": "basic_006", "category": "general",
+      "translations": {
+        "ru": "Спасибо за помощь!",
+        "en": "Thank you for your help!",
+        "es": "¡Gracias por su ayuda!",
+        "pt": "Obrigado pela ajuda!",
+        "vi": "Cảm ơn bạn đã giúp đỡ!"
+      },
+      "notes": "Portuguese 'obrigado/obrigada' depends on the speaker; default is the masculine form."
+    },
+    {
+      "id": "basic_007", "category": "street",
+      "translations": {
+        "ru": "Извините, где здесь туалет?",
+        "en": "Excuse me, where is the restroom?",
+        "es": "Disculpe, ¿dónde está el baño?",
+        "pt": "Com licença, onde fica o banheiro?",
+        "vi": "Xin lỗi, nhà vệ sinh ở đâu?"
+      },
+      "regionalOverrides": {"en-GB": "Excuse me, where is the toilet?", "pt-PT": "Com licença, onde fica a casa de banho?"}
+    },
+    {
+      "id": "basic_008", "category": "metro",
+      "translations": {
+        "ru": "Мне нужен билет до центра города.",
+        "en": "I need a ticket to the city center.",
+        "es": "Necesito un billete al centro de la ciudad.",
+        "pt": "Preciso de uma passagem para o centro da cidade.",
+        "vi": "Tôi cần một vé đến trung tâm thành phố."
+      },
+      "regionalOverrides": {
+        "en-GB": "I need a ticket to the city centre.",
+        "es-CL": "Necesito un pasaje al centro de la ciudad.",
+        "es-MX": "Necesito un boleto al centro de la ciudad.",
+        "pt-PT": "Preciso de um bilhete para o centro da cidade."
+      }
+    },
+    {
+      "id": "basic_009", "category": "restaurant",
+      "translations": {
+        "ru": "Можно меню, пожалуйста?",
+        "en": "Could I have the menu, please?",
+        "es": "¿Me trae el menú, por favor?",
+        "pt": "Pode me trazer o cardápio, por favor?",
+        "vi": "Cho tôi xin thực đơn được không?"
+      },
+      "regionalOverrides": {"pt-PT": "Pode trazer-me a ementa, por favor?"}
+    },
+    {
+      "id": "basic_010", "category": "general",
+      "translations": {
+        "ru": "Я не понимаю. Повторите, пожалуйста.",
+        "en": "I don't understand. Could you repeat that, please?",
+        "es": "No entiendo. ¿Puede repetirlo, por favor?",
+        "pt": "Não entendo. Pode repetir, por favor?",
+        "vi": "Tôi không hiểu. Bạn có thể nhắc lại được không?"
+      }
+    }
+  ]
+}
